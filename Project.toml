@@ -1,0 +1,10 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CondaPkg = "992eb4ea-22a4-4c89-a5bb-47a3300528ab"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GeoMakie = "db073c08-6b98-4ee5-b6a4-5efafb3259c6"
+PDFIO = "4d0d745f-9d9a-592e-8d18-1ad8a0f42b92"
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+TextAnalysis = "a2db99b7-8b79-58f8-94bf-bbc811eef33d"
+Transformers = "21ca0261-441d-5938-ace7-c90938fde4d4"
