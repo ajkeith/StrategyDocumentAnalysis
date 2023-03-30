@@ -93,6 +93,3 @@ def analyze_corpus(text_data):
 path = os.getcwd() + '\\data\\policies\\australia_defense.pdf'
 temp = extract_pdfs(path)
 df, fig = analyze_corpus(temp)
-
-git config --global user.email "keith.andrew.j@gmail.com"
-git config --global user.name "ajkeith"
