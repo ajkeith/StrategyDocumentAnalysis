@@ -58,7 +58,8 @@ def analyze_text(text, name, sclass, zclass, candidate_labels, step=500):
         # print progress bar
         print(f"Progress: {idx/maxidx:.2%}", end="\r")
     df = pd.DataFrame(topics, columns=['Index', 'Label', 'Score'])
-    df.to_pickle(name)
+    out_path = os.getcwd() + '\\data\\output\\' + name
+    df.to_pickle(out_path)
     print("\ntext analysis complete\n")
     return df
 
