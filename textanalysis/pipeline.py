@@ -4,13 +4,10 @@ import numpy as np # basic math
 import pandas as pd # dataframes
 import plotly.express as px # plotting
 from pdfminer.high_level import extract_text # pdf read
-# from tqdm import tqdm
-
-# TODO: setup unit tests
 
 def extract_pdfs(dir_path):
     """
-    Extract text from pdf using pdfminer.six
+    Extract text from pdf
     """
     # # load text (sgp ai strategy)
     # with open(dir_path, encoding="utf8") as file:
@@ -90,7 +87,3 @@ def analyze_corpus(text_data):
     fig = plot_nlp(df)
     fig.show()
     return df, fig
-
-path = os.getcwd() + '\\data\\policies\\australia_defense.pdf'
-temp = extract_pdfs(path)
-df, fig = analyze_corpus(temp)
