@@ -82,7 +82,7 @@ def analyze_corpus(text_data):
     candidate_labels = ["artificial intelligence", 
                         "governance", "ethics", 
                         "defence", "security"]
-    # df = pd.read("text_data.pkl") # replace with actual pkl files
+    # df = pd.read_pickle("text_data.pkl") # replace with actual pkl files
     df = analyze_text(text_data, 'text_data.pkl', sclass, zclass, candidate_labels)
     fig = plot_nlp(df)
     fig.show()
