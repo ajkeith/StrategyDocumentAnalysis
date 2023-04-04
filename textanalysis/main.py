@@ -1,6 +1,6 @@
 import os
-from textanalysis.pipeline import extract_text, analzye_corpus
+from textanalysis import analysis
 
 path = os.getcwd() + '\\data\\policies\\australia_defense.pdf'
-temp = extract_pdfs(path)
-df, fig = analyze_corpus(temp)
+temp = analysis.extract_pdfs(path)
+df, fig = analysis.analyze_corpus(temp)
