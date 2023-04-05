@@ -35,6 +35,6 @@ However, it is also subject to [risks, limitations, and biases](https://huggingf
 
 ## Initial Results
 
-This projec tis still in progress, but intial results of exploratory analysis suggest that the approach is feasible. The following figure shows the sentiment and topic classficiation through Singapore's National AI Strategy.
+This project is still in progress, but intial results of exploratory analysis suggest that the approach is feasible. The following figure shows the sentiment and topic classficiation through Singapore's National AI Strategy.
 
 ![newplot (1)](https://user-images.githubusercontent.com/26749415/230006657-b511a380-7872-41ac-bd6b-daf230fb9790.png)
