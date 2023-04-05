@@ -5,7 +5,7 @@ import textanalysis as ta
 
 class TestExistence(unittest.TestCase):
     def setUp(self):
-        self.text = pd.read_pickle(os.getcwd() + '\\data\\output\\' + 'text_data.pkl')
+        self.text = pd.read_pickle(os.path.join(os.getcwd(), 'data', 'output', 'text_data.pkl'))
 
     def test_upper(self):
         self.assertEqual(self.text.dtypes[2].name, 'float64')
