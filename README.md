@@ -29,7 +29,7 @@ This code uses the `distilbert-base-uncased-finetuned-sst-2-english` model from 
 
 `distilbert-base-uncased-finetuned-sst-2-english` has [strong evaluation results](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english) in terms of accuracy and precision:
 
-![image](https://user-images.githubusercontent.com/26749415/230005604-98fd3980-7d26-48b9-92f8-82197664a339.png)
+<img src="https://user-images.githubusercontent.com/26749415/230005604-98fd3980-7d26-48b9-92f8-82197664a339.png" width="500">
 
 However, it is also subject to [risks, limitations, and biases](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english#risks-limitations-and-biases). 
 
