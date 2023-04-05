@@ -38,3 +38,9 @@ jobs:
     - name: Test with unittest
       run: |
         python -m unittest test/test_basic.py
+    - name: Coverage with coverage
+      run: |
+        python -m coverage run textanalysis/analysis.py
+        python -m coverage report
+    - name: Coverage badge
+      uses: tj-actions/coverage-badge-py@v2
