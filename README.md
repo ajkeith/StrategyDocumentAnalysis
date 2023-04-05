@@ -1,6 +1,6 @@
 # AI and Defense Strategy: Text Analysis
 
-TODO: badges
+![coverage badge](https://raw.githubusercontent.com/ajkeith/StrategyDocumentAnalysis/main/coverage.svg)
 
 This python project analyzes national AI and defense strategy documents using zero-shot text classification. 
 
@@ -37,4 +37,4 @@ However, it is also subject to [risks, limitations, and biases](https://huggingf
 
 This project is still in progress, but intial results of exploratory analysis suggest that the approach is feasible. The following figure shows the sentiment and topic classficiation through Singapore's National AI Strategy.
 
-![newplot (1)](https://user-images.githubusercontent.com/26749415/230006657-b511a380-7872-41ac-bd6b-daf230fb9790.png)
+![text classificaiton figure](https://user-images.githubusercontent.com/26749415/230006657-b511a380-7872-41ac-bd6b-daf230fb9790.png)
