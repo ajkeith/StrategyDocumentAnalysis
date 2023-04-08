@@ -1,0 +1,5736 @@
+MINISTRY OF INTERNATIONAL
+TRADE AND INDUSTRY
+
+n a t i o n a l   p o l i c Y   O N  
+
+i n d u s t r y   4 . 0
+
+MINISTRY OF INTERNATIONAL
+TRADE AND INDUSTRY
+
+n a t i o n a l   p o l i c Y   O N  
+
+i n d u s t r y   4 . 0
+
+Perpustakaan  Negara  Malaysia 
+
+Cataloguing-in-Publication  Data
+
+Industry  4WRD  :  NATIONAL  POLICY  ON  INDUSTRY  4.0.
+
+ISBN  978-967-13593-6-5
+1.  Manufacturing  industries--Malaysia.
+2.  Government  publications--Malaysia.
+338.476709595
+
+PUBLISHED  BY:
+
+MINISTRY OF INTERNATIONAL
+TRADE AND INDUSTRY
+
+Menara  MITI,  No.  7,  Jalan  Sultan  Haji  Ahmad  Shah,
+50480  Kuala  Lumpur,  Malaysia.
+
+Tel  :  603-8000  8000
+Fax  :  03-6206  4693
+Email  :  webmiti@miti.gov.my
+
+©  MINISTRY  OF  INTERNATIONAL  TRADE  AND  INDUSTRY
+
+MITI,  2018
+
+All  rights  reserved 
+No  part  of  this  document  may  be  reproduced,  stored  in  a  retrieval  system  or  transmitted,  in  any  form  or  by 
+any  means,  electronic,  mechanical,  photocopying,  recording  or  otherwise,  without  prior  permission  from  Ministry 
+of  International  Trade  &  Industry  (MITI).  The  information  in  this  document  has  been  updated  as  accurately  as 
+possible  until  the  date  of  publication.
+
+ 
+ 
+ 
+what’s
+
+I N S I D E
+
+02 
+
+ACKNOWLEDGEMENT
+
+04  
+06  
+08  
+
+12  
+14  
+16  
+18  
+
+22  
+26  
+27 
+28  
+30  
+
+36  
+38  
+44  
+64 
+
+FOREWORD
+Building for the Future
+Clarion Call for Action 
+Getting the Manufacturing Industry Ready
+
+GLOBAL OVERVIEW
+The Inevitable Transformation
+Driven by Multiple Factors 
+Advancement and Convergence of Technologies 
+Competitive Response by Nations & Lessons Learnt
+
+CASE FOR ACTION
+Importance of the Manufacturing Sector in Malaysia 
+Need to Embrace Industry 4.0 
+Propelling SMEs Forward
+Malaysia’s Readiness for Industry 4.0
+Addressing Malaysia’s Issues & Challenges
+
+MOVING FORWARD
+Policy Objectives 
+The Framework – Industry4WRD
+Strategic Enablers & Actions 
+Implementation Approach
+
+ 
+ 
+ 
+ 
+ 
+ 
+02
+02
+
+Industry4wrd : National Policy on Industry 4.0
+
+ACKNOWLEDGEMENT
+
+Due  to  the  breadth  and  depth  of  the  manufacturing  industry  and  its  related 
+services,  this  document  was  prepared  through  consultations  with  multiple 
+ministries,  agencies  and  industry  players.  The  topics  covered  are  linked  to 
+Malaysia’s  business  and  competitive  advantages  and  the  drivers,  potential 
+disruptors  and  technology  developments  in  the  manufacturing  industry  and 
+its  related  services.
+
+This  document  targets  a  range  of  stakeholders,  with  the  aim  of  encouraging  manufacturing  firms  to  work 
+with  the  entire  manufacturing  ecosystem  to  address  the  challenges  and  act  on  the  identified  enablers. 
+
+TECHNICAL  WORKING 
+GROUPS
+
+Technical  Working  Groups 
+were  created  and  led  by 
+respective  ministries  and 
+agencies  in  the  identified 
+focus  areas  to  facilitate 
+discussion  amongst  the 
+stakeholders.
+
+WORKSHOPS 
+
+INTERVIEWS 
+
+One-on-one  interviews 
+were  held  with  top  leaders 
+within  the  manufacturing 
+industry  to  supplement, 
+test  and  refine  the 
+workshop  outputs.
+
+A  series  of  workshops 
+were  held  to  bring  together 
+ministries,  agencies  and 
+manufacturing  firms  from 
+a  range  of  sectors,  as  well 
+as  representatives  from 
+the  education  and  research 
+community  to  discuss  future 
+opportunities  and  the  needs  of 
+the  manufacturing  sector  over 
+a  10-year  horizon.
+
+0303
+
+Technical  Working  Group  Leads
+
+Ministry  of  Communications  &  Multimedia
+Ministry  of  Education
+Ministry  of  Human  Resources
+
+Ministry  of  Finance
+Ministry  of  Energy,  Science,  Technology,  Environment
+and  Climate  Change 
+SME  Corporation  Malaysia
+
+Contributing  Organisations
+
+Agensi  Inovasi  Malaysia  (AIM)
+Akademi  Sains  Malaysia
+American  Malaysian  Chamber  of  Commerce  (AMCHAM) 
+Bank  Negara  Malaysia
+Collaborative  Research  in  Engineering,  Science  and Technology  (CREST)
+DreamEDGE  Sdn.  Bhd.
+East  Coast  Economic  Region  Development  Council  (ECERDC)
+Economic  Planning  Unit,  Ministry  of  Economic  Affairs  (EPU,  MEA)
+Federation  of  Malaysian  Manufacturers  (FMM)
+German-Malaysian  Institute  (GMI)
+Hanwha  Q  CELLS  Malaysia  Sdn.  Bhd.
+Honeywell  International  Sdn.  Bhd.
+Huawei  Technologies  (Malaysia)  Sdn.  Bhd.
+IAT  Solution  Pte.  Ltd.
+Infineon  Technologies  (Malaysia)  Sdn.  Bhd.
+Intel  Technology  Sdn.  Bhd.
+Invest  KL  Corporation  Sdn.  Bhd.
+iPlast  4.0  Pte.  Ltd.
+Linde  Malaysia  Sdn.  Bhd.
+Malaysia  Automotive  Institute  (MAI)
+Malaysian  Communications  and  Multimedia  Commission  (MCMC)
+Malaysia  Digital  Economy  Corporation  (MDEC)
+Malaysia  External  Trade  Development  Corporation  (MATRADE)
+Malaysia  Investment  Development  Authority  (MIDA)
+Malaysia  IoT  Association
+Malaysia  Productivity  Corporation  (MPC)
+Malaysian  Technology  Development  Corporation  (MTDC)
+Malaysian-German  Chamber  of  Commerce  &  Industry  (MGCC)
+Malaysian  Industry-Government  Group  for  High  Technology  (MiGHT)
+Malaysian  Plastics  Manufacturers  Association  (MPMA)
+
+MARA  Aerotech
+MIMOS  Berhad
+Monash  University  Malaysia
+Multimedia  University  (MMU)
+NanoMalaysia  Berhad
+National  Instruments  Malaysia  Sdn.  Bhd.
+National  Professors  Council  (MPN)
+Penang  Skills  Development  Centre  (PSDC)
+Petroliam  Nasional  Berhad  (PETRONAS)
+Siemens  Malaysia  Sdn.  Bhd.
+SilTerra  Malaysia  Sdn.  Bhd.
+SIRIM  Berhad
+SME  Association  of  Malaysia
+Department  of  Standards  Malaysia
+Strand  Aerospace  Malaysia  Sdn.  Bhd.
+Talent  Corporation  Malaysia  Berhad
+Taylor’s  University
+Universiti  Kebangsaan  Malaysia  (UKM)
+Universiti  Malaysia  Perlis  (UniMAP) 
+Universiti  Malaysia  Sabah  (UMS)
+Universiti  Pertahanan  Nasional  Malaysia  (UPNM)
+Universiti  Putra  Malaysia  (UPM)
+Universiti  Sains  Islam  Malaysia  (USIM)
+Universiti  Teknologi  Malaysia  (UTM) 
+Universiti  Teknologi  MARA  (UiTM)
+Universiti  Teknologi  PETRONAS  (UTP)
+Universiti  Tenaga  Nasional  (UNITEN) 
+Universiti  Utara  Malaysia  (UUM)
+All  participants  of  Online  Public  Consultation
+
+Global  Science  and  Innovation  Advisory 
+Council  (GSIAC)
+
+Global  Federations  of  Competitive  Council 
+(GFCC) 
+
+A.T.  Kearney
+
+Special  Consultations
+
+04
+
+Industry4wrd : National Policy on Industry 4.0
+
+FOREWORD
+
+05
+
+building for THE  FUTURE
+Malaysia is a trading nation. As a trading nation it is imperative for 
+
+Malaysia to continuously seek to grow the market for the products 
+it produces.
+
+Already  at  the  global  front,  the  manufacturing  sector  is  reimagining  the 
+future  of  manufacturing  where  conventional  models  are  making  way  for 
+greater technology adoption and the key determinants are efficiency, speed 
+and flexibility towards sustaining competitiveness. 
+
+While Malaysia is abundant with natural resources, it is the manufacturing 
+sector that has played a key role in turning Malaysia into a major player 
+in  the  global  value  chain  apart  from  rapidly  turning  the  country  into  an 
+industrialised nation.
+
+In recent decades, the manufacturing sector has seen rapid evolution. From 
+mass production through the use of intensive labour force in production 
+lines,  to  the  use  of  robotics  to  increase  efficiency,  the  manufacturing 
+industry is constantly evolving with more and more infusion of automation. 
+Today, the next phase of evolution is referred to as the Fourth Industrial 
+Revolution or Industry 4.0. 
+
+The term itself may seem meaningless as revolution is tied to evolution, 
+a dynamic ongoing process of improvement. But technology, without the 
+knowledge of application will not contribute to improvement.
+
+Therein  lies  the  substance  in  the  term  Fourth  Industrial  Revolution. 
+Essentially  what  it  entails  is  infusing  higher  value-added  process  of 
+manufacturing through the application of advanced digitisation, advanced 
+manufacturing technologies and efficient resource utilisation.
+
+This  would  result  in  enhanced  efficiency  and  reduced  dependency  of 
+human labour and ultimately driving competitiveness going forward. 
+
+In  Malaysia,  there  is  a  clarion  call  for  the  manufacturing  sector  to  shift 
+to  higher  value-added  process,  digitisation,  advanced  manufacturing 
+technologies  and  efficient  resource  utilisation  to  drive  competitiveness 
+going forward. 
+
+A  strong  manufacturing  sector  would  pave  the  way  to  enhanced 
+productivity, job creation, innovation capacity, high-skilled talent pool and 
+ultimately economic prosperity and societal well-being. This would position 
+Malaysia  as  a  primary  destination  for  smart  manufacturing  globally  and 
+attract more high-tech investments.
+
+I believe that this can all be achieved through the Industry4WRD: National 
+Policy  on  Industry  4.0,  which  would  enable  the  manufacturing  sector  to 
+move into Industry 4.0 and along the way contribute to fulfilling Malaysia’s 
+commitment to the United Nation’s Sustainable Development Goals (SDGs). 
+
+I would like to express my appreciation to all parties who have provided 
+their  valuable  input  and  support  towards  formulating  this  Policy.  I  look 
+forward  to  all  stakeholders  combining  strengths  to  realise  the  future 
+competitiveness of the Malaysian manufacturing sector. 
+
+Let  us  embrace  change,  collaborate,  innovate  and  transform  to  create 
+value and impact. 
+
+Will this be disruptive to the way we are used to doing things? Again, the 
+substance  lies  in  the  application  of  available  technology. We  have  seen 
+how application of information technology and the internet of things have 
+opened up market supply chains easing access to produce from the most 
+remote of areas, bringing wealth and prosperity to the rural areas.
+
+Thank you.
+
+Industry  4.0  could  address  many 
+
+Likewise, 
+issues  concerning 
+manufacturing  with  regard  to  i.e.  hazardous  environments,  health  and 
+safety  of  human  labour,  efficiency  in  managing  supply  chains,  reduction 
+in  wastages,  savings  in  time  with  efficient  management  of  delivery 
+systems. The potential for growth is simply limitless, but it all boils down to 
+knowledge in application.  
+
+YAB TUN DR. MAHATHIR BIN MOHAMAD
+Prime Minister of Malaysia 
+
+ATTRACT  •  CREATE  •  TRANSFORM
+
+ 
+ 
+06
+
+Industry4wrd : National Policy on Industry 4.0
+
+FOREWORD
+
+07
+
+clarion call  FOR  ACTION
+The Fourth Industrial Revolution was the centrepiece of conversations 
+
+at  the  World  Economic  Forum  (WEF)  on  ASEAN  in  Kuala  Lumpur, 
+Malaysia in June 2016, in Phnom Penh, Cambodia in May 2017 and 
+in Hanoi, Vietnam in September 2018. Numerous forums have heaped on 
+the  trend  and  discussions  have  been  concentrating  on  how  the  Fourth 
+Industrial Revolution would impact the businesses and the entire society 
+at large.
+
+While some would look at this as a potentially massive opportunity, there 
+are concerns among the majority of firms and industry sectors as to how 
+the  Fourth  Industrial  Revolution  would  transform  both  the  products  and 
+services that will be offered, and the processes or business models that 
+are used to generate them.  The Government, business firms and academia 
+are now looking at how best to react towards this trend. 
+
+With this in mind, the Ministry of International Trade and Industry has taken 
+the proactive measure to develop this National Policy on Industry 4.0, with 
+the objective of transforming the Malaysian manufacturing industry and its 
+related services to be smart, systematic and resilient. 
+
+Although  this  Policy  is  designed  for  the  manufacturing  industry  and  its 
+related services, the strategies are also applicable and could be replicated 
+in other industries as well, albeit with different sets of priorities and action 
+plans. 
+
+I  am  heartened  to  note  that  within  the  Government,  the  support  and 
+cooperation  given  have  been  overwhelming  where 
+the  Technical 
+Working  Groups  (TWGs)  headed  by  the  Ministry  of  Finance,  Ministry  of 
+Communications & Multimedia, Ministry of Education, Ministry of  Human 
+Resources,  Ministry  of  Energy,  Science,  Technology,  Environment  and 
+Climate Change and SME Corp. have worked tirelessly to provide inputs 
+throughout  the  development  of  this  Policy.  Extensive  consultations  were 
+also undertaken with the industry and other stakeholders.
+
+Various initiatives supporting the implementation of this Policy have already 
+been announced.  Hence, by the time this publication is in your hand, some 
+of the action plans would have already been rolled out. 
+
+The key to moving forward is to collaborate.
+
+The  goal  for  the  future  of  manufacturing  industry  is  not  only  to  “make 
+better  things”  by  creating  innovative  products  and  services,  but  also  to 
+“make things better,” by improving design, engineering, service planning 
+and execution, management and production processes.
+
+Therefore,  I  am  taking  this  opportunity  to  call  on  all  stakeholders  to 
+view  this  Policy  objectively  and  work  together  with  the  Government  to 
+deliver the strategies and action plans towards strengthening Malaysia’s 
+competitiveness in the long run.
+
+The  overarching  philosophy  behind  this  Policy  is A-C-T  - Attract,  Create 
+and Transform. 
+
+• Attract stakeholders to Industry 4.0 technologies & processes;
+•  Create the right ecosystem for Industry 4.0 technologies to be adopted 
+
+and to nurture innovations; and
+
+•  Transform  capabilities  of 
+
+the  manufacturing 
+
+industry 
+
+to  be 
+
+Industry 4.0-ready.
+
+YB DATUK IGNATIUS DARELL LEIKING
+Minister of International Trade and Industry, Malaysia 
+
+ATTRACT  •  CREATE  •  TRANSFORM
+
+ 
+08
+
+Industry4wrd : National Policy on Industry 4.0
+
+FOREWORD
+
+09
+
+getting the manufacturing  INDUSTRY  READY
+The  rapidly-evolving  global  manufacturing 
+
+chains.  The  Government’s  role  in  the  whole  transformation  process  is 
+as  an  enabler,  as  such,  this  Policy  is  aimed  at  ensuring  the  adoption  of 
+Industry 4.0 technologies is done as seamless as possible, and that those 
+technologies are equally accessible to SMEs.
+
+for 
+manufacturing  firms  to  re-evaluate  their  current  approaches  and 
+strategies to remain relevant and competitive.
+
+landscape  calls 
+
+This Policy, in essence, outlines 13 broad strategies for Malaysia to embark 
+on  a  journey  that  will  transform  the  manufacturing  industry  landscape 
+over the next decade. MITI believes that this journey towards Industry 4.0 
+adoption is anchored on three shift factors: People, Process and Technology.
+
+People: putting people and the entire organisation as a priority. This Policy 
+focuses  on  strategies  towards  creating  differentiated  talent  acquisition, 
+developing the required human capital and retaining our existing talents by 
+providing them with the right support. 
+
+Process: improving the manufacturing and the whole business processes 
+by  encouraging  smart  and  strategic  public-private  partnerships.  We 
+remain  committed  to  ensuring  the  manufacturing  sector  continues  to 
+contribute significantly to the nation’s economic prosperity. To propel this 
+further,  we  are  working  towards  improving  the  business  environment  to 
+reform unfavourable or overly-bureaucratic policies, attracting high value 
+investments  for  greater  economic  development  and  strengthening  the 
+overall infrastructure for the manufacturing sector, while seeking greater 
+partnerships with the industry. 
+
+technologies  are 
+Technology:  advancement  and  convergence  of 
+increasingly  underpinning  global  manufacturing  competitiveness.  We 
+acknowledge  that  many  leading  manufacturing  firms  have  started  to 
+adopt  and  implement  smart  manufacturing  solutions  where  advanced 
+hardware are now combined with advanced software, sensors as well as 
+data analytics. This move has resulted in smarter products, processes, and 
+more  closely  connected  customers  and  suppliers  along  the  firms’  value 
+
+We would also like to see greater leverage on the strength of ecosystem 
+partnerships  beyond 
+traditional  manufacturing  boundaries.  These 
+strategies which are aimed at embracing a broader ecosystem approach 
+as well as developing and taking advantage of integrated manufacturing 
+and  technology  clusters  and  partners,  are  key  determinants  in  moving 
+forward.  We  need  to  develop  a  balanced  approach  across  the  whole 
+ecosystem  as  increasingly  sophisticated  tools  and  strategies  will  be 
+required to optimise the manufacturing industry from talent, technological, 
+operational, financial, tax and regulatory perspectives.
+
+This Policy is not a panacea to all issues surrounding the industry. What 
+we are hopeful for is for it to provide the basis and support for firms to 
+do things differently in order to stay competitive. For that to happen, the 
+Government  hopes  that  the  Policy  would  serve  as  the  impetus  for  our 
+industry to make the leap into Industry 4.0. 
+
+DATUK ISHAM ISHAK 
+Secretary General 
+Ministry of International Trade and Industry, Malaysia
+
+ATTRACT  •  CREATE  •  TRANSFORM
+
+ 
+10
+
+Industry4wrd : National Policy on Industry 4.0
+
+global overview
+
+The Inevitable Transformation
+
+Driven by Multiple Factors
+
+Advancement and Convergence of Technologies
+
+Competitive Response by Nations & Lessons Learnt
+
+11
+
+global overview
+
+The Inevitable Transformation
+Driven by Multiple Factors
+Advancement and Convergence of Technologies
+Competitive Response by Nations & Lessons Learnt
+
+12
+
+Industry4wrd : National Policy on Industry 4.0
+
+GLOBAL
+OVERVIEW
+
+THE 
+INEVITABLE 
+TRANSFORMATION
+
+The world is currently amidst a technological transformation that will fundamentally 
+change  the  way  we  live  and  work.  It  is  difficult  to  predict  precisely  how  this 
+transformation will impact different industries and countries. However, we know that 
+this transformation is unlike anything we have seen before due to the sheer pace and 
+breadth of these changes. 
+
+Many see these changes as an ushering of new era of growth, change and opportunity. 
+The ramification it brings for manufacturing firms is forcing nations and governments 
+to re-evaluate how the manufacturing industry operates and contributes to economic 
+growth. Nations are now increasing their focus on developing advanced manufacturing 
+capabilities by investing in high-tech infrastructure and quality education. These are 
+done  by  facilitating  the  transformation  of  the  manufacturing  industry  to  the  next 
+technology frontier and raising their economic wellbeing. 
+
+The  First  Industrial  Revolution  started  with  the  advent  of  steam  and  water  power, 
+enabling  mechanisation  of  production  processes,  while  the  Second  Industrial 
+Revolution  was  driven  by  electric  power  and  mass  manufacturing  techniques. 
+Information technology and automation brought in the Third Industrial Revolution. The 
+Fourth Industrial Revolution is exploding on the back of a range of technologies that 
+are blurring the distinction among physical, digital and biological spaces.
+
+Industry 4.0 transforms how products are designed, fabricated, used and operated as 
+well as how they are maintained and serviced. It will also transform the operations, 
+processes, supply chain management and energy footprint of factories.
+
+13
+
+Industry  4.0  changes  the  global  landscape of  manufacturing competition,  reducing 
+the  relative  competitive  advantage  of  low-cost  regions  that  rely  on  cheap  labour. 
+Nations  and  manufacturing  firms  that  lead  in  embracing  Industry  4.0  technologies 
+and  processes  will  gain  over  global  competitors.  This  competitiveness  hinges  on 
+the  ability  to  transform  by  responding  to  market  shifts  and  technology  trends. The 
+
+transformation of the manufacturing industry, through Industry 4.0, 
+is also in line with  the United Nation’s Sustainable Development 
+Goals (SDGs), especially in support of Goal #9 and Goal #12.
+
+GOAL #9
+
+Build resilient infrastructure, promote sustainable industrialisation and 
+foster innovation. Inclusive and sustainable industrial development is the 
+primary source of income generation, allows for rapid and sustained 
+increases in living standards for all people, and provides the 
+technological solutions to environmentally sound industrialisation. 
+Without technology and innovation, industrialisation will not happen, and 
+without industrialisation, development will not happen.
+
+Ensure sustainable consumption and production patterns. Sustainable 
+consumption and production is about promoting resource and energy 
+efficiency, sustainable infrastructure, and providing access to basic 
+services, green and decent jobs and a better quality of life for all. Its 
+implementation helps to achieve overall development plans, reduce 
+future economic, environmental and social costs, strengthen economic 
+competitiveness and reduce poverty.
+
+GOAL #12
+
+14
+
+Industry4wrd : National Policy on Industry 4.0
+
+GLOBAL
+OVERVIEW
+
+DRIVEN  BY 
+multiple factors
+
+The  manufacturing  industry  is  increasingly  shifting  towards  producing  more 
+technologically-complex products. 
+
+It is no longer enough for the manufacturing industry to make better things - creating 
+innovative products and services that will meet customer needs - but also to make 
+things  better  -  facilitating  the  design  engineering,  service  planning  and  execution 
+as  well  as  improving  the  management  and  production  processes.  Furthermore, 
+despite  steady  improvements  in  the  manufacturing  output  and  employment  in  the 
+sector, renewed investments will be needed to build the necessary infrastructure and 
+increase resources to support the continuous growth.
+
+This emphasis on “making better things while making things better” is driven by the 
+following factors: 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Shifts in the global economic order - the rise of China, economic realignment 
+due to changes in the developed world, and the rise of fast-growth emerging 
+economies; 
+
+Rate of technology advancement and its convergence - technological changes 
+driven by applications of these technologies in the manufacturing industry, such 
+as big data, the Internet of Things and cloud computing; 
+
+Knowledge  and  skills  for  the  future  -  retaining  talent  and  producing  future 
+workforce by taking advantage of the opportunities of this transformation;
+
+Global  supply  chain  dynamics  –  increasing  complexity  in  the  supply  chain 
+networks  caused  by  distributed  sourcing,  engineering  and  production  as 
+manufacturing firms now manage partners in a borderless world not bound by 
+geographical locations;
+
+15
+
+• 
+
+• 
+
+Competitiveness of nations and firms - greater global competition as firms must 
+defend their domestic markets while simultaneously tapping into new market 
+segments for long-term growth; 
+
+• 
+
+Changing  customer  behaviour  –  influenced  by  values, 
+personalisation  and  customisation,  and  the  emergence  of 
+new products and services attributes that are forcing firms 
+to reassess their manufacturing systems.
+
+Increased  regulations  -  environmental  concerns  and  standards-based  factors 
+like ISO compliance that apply across an increasingly interconnected world; and 
+
+Industry 4.0 Transformation Drivers
+
+Others
+
+Customer Behaviour
+
+Regulations
+
+Competitiveness
+
+Global Economic Order
+
+Global Supply Chain
+
+Technology Advancement
+
+Knowledge & Skills
+
+* MiGHT Malaysian Technology Strategic Outlook (MTSO) Interview
+
+16
+
+Industry4wrd : National Policy on Industry 4.0
+
+GLOBAL
+OVERVIEW
+
+ADVANCEMENT 
+and Convergence of Technologies
+
+Many of these technologies have been around or under 
+development  for  several years.  However,  the  interaction 
+and  resulting  convergence  of  these  technologies  is 
+creating  an  unprecedented  pace  and  breadth  of 
+impact. Completely new industries may be created at 
+these intersections. Thus, these are loosely termed as 
+Industry 4.0 technologies. Given below is an overview 
+of these technologies and their impact on manufacturing. 
+By no means is this list exhaustive or definitive. 
+
+At the heart of Industry 4.0 is a set of rapidly evolving 
+and  converging  technologies. These  are  pushing  the 
+boundaries  of  what  can  be  manufactured  through 
+additive manufacturing and advanced materials. These 
+technologies  are  enabling  richer  insights  through  big 
+data  analytics.  They  are  blurring  the  lines  between 
+physical  and  digital  realms  through  rich  simulations 
+and  augmented  reality.  They  are  enhancing  human 
+capacity through artificial intelligence and autonomous 
+robots.  We  are  also  seeing  a  shift  in  the  way 
+information  technology  is  being  used  through  cloud 
+computing,  system  integration  and  the  Internet  of 
+Things (IoT).  Last but not least, cybersecurity plays an 
+important  role  in  ensuring  information  systems  and 
+manufacturing  lines  are  protected  from  cybercrime 
+threats.
+
+Technologies
+advancement
+and
+convergence
+
+BIG DATA
+ANAlytics
+
+Cybersecurity
+
+SIMULATION
+
+Advanced
+Materials
+
+Artificial
+Intelligence
+
+AUGMENTED
+REALITY
+
+Additive
+manufacturing
+
+System
+Integration
+
+autonomous
+robots 
+
+Internet
+of things (IOT)
+
+CLoud
+Computing
+
+Enabling
+Technologies
+The digitalisation of the 
+production-based industries are 
+driven by these technological drivers
+
+These enabling technologies 
+bring a new dimension to the 
+industrial environment, 
+resulting in a dramatic 
+increase in industrial 
+productivity.
+
+GREATER EFFICIENCIES
+Changing the traditional 
+manufacturing system 
+relationships among 
+suppliers, producers and 
+customers as well as 
+between humans and 
+machines.
+
+INTEGRATION & 
+AUTOMATION
+The manufacturing systems  
+would become fully 
+integrated and automated as 
+a result of digital adoption 
+that will transform the 
+industrial environment.
+
+SELF ADAPTATION TO 
+CHANGES
+The environment will become 
+unified by the connected 
+systems that enable 
+interactions within and 
+between systems to allow 
+self-configuration, failure 
+prediction and be more 
+adaptive to changes.
+
+17
+
+Additive
+Manufacturing
+
+Artificial
+Intelligence (AI)
+
+Big Data
+Analytics
+
+Advanced
+Materials
+
+Cybersecurity
+
+Additive manufacturing is 
+advancing with the use of 
+new materials, opening 
+completely new possibilities. 
+For example, 3D printing of 
+organic tissues has created 
+opportunities for growing live 
+organs. It is revolutionising 
+traditional production, aided 
+by a recent surge in metal 
+additive printing.
+
+AI is a concept that is made up 
+of numerous subfields such as 
+machine learning, which 
+focuses on the development of 
+programs that can teach 
+themselves to learn, understand, 
+reason, plan and act when 
+exposed to new data in the right 
+quantities. AI technology will 
+supplement the smart factory 
+towards networked factory, in 
+which data from supply chains, 
+design teams, production lines 
+and quality control are linked to 
+form a highly integrated and 
+intelligent engines.
+
+Increasingly big data techniques 
+are being applied in 
+manufacturing industry to 
+improve customer experience 
+and product quality, realise 
+energy efficiency and conduct 
+predictive maintenance. It is 
+now possible to collect masses 
+of data from several different 
+sources to direct decisions that 
+anticipate product or equipment 
+failure.
+
+New materials and 
+nano-structures are being 
+developed, allowing for 
+beneficial material properties, 
+e.g. shape retention and 
+thermoelectric efficiency. 
+Together with additive 
+manufacturing technologies, it 
+will allow for massive 
+customisation and development 
+of products that were not 
+possible until now.
+
+The industrial communication is 
+expanding and strongly 
+connected, as such, digital 
+security becomes a critical 
+aspect that must not be 
+overlooked in the industrial 
+environment. It has now 
+become more complex as it 
+consists of connected devices 
+and environments that cannot 
+be protected by traditional 
+cybersecurity approaches. 
+Current cybersecurity has 
+largely been developed for 
+IT-centric devices and 
+environments. 
+
+Simulation
+
+Cloud
+Computing
+
+Augmented
+Reality
+
+Internet of
+Things (IoT)
+
+Autonomous
+Robots
+
+System
+Integration
+
+While many engineers 
+are already familiar with 
+simulations in the field of 
+product design, the 
+advent of augmented 
+reality, AI and big data is 
+expected to take 
+simulations to the next 
+level. It will be possible to 
+simulate manufacturing 
+processes using different 
+production settings to 
+find the optimal way to 
+manufacture a product. 
+Simulations can also be 
+used to test product 
+usage under different 
+operating environment 
+using different types of 
+materials.
+
+Past industrial revolutions 
+required significant 
+capital as a ticket for 
+entry. With cloud 
+computing, many of the 
+Industry 4.0 technologies 
+can be made available to 
+even smaller companies 
+as a utility with minimal 
+upfront capital 
+investment. Companies 
+can leverage 
+cloud-based product 
+design, simulation, AI and 
+big data solutions to 
+improve their production 
+processes and build 
+products better suited for 
+their customers.
+
+While the initial 
+augmented reality 
+technologies are still in 
+nascent stages, they are 
+advancing at a rapid 
+pace. Some of the first 
+applications can be 
+found in the delivery of 
+information and training, 
+e.g. augmented reality 
+can be used to deliver 
+part replacement 
+instructions to 
+maintenance staff in the 
+field.
+
+Industry 3.0 brought in 
+an era of computing and 
+interconnectedness but it 
+often relied on humans to 
+make even the most 
+trivial decisions. Industry 
+4.0 technologies embody 
+an unprecedented 
+proliferation of sensors 
+and connectedness 
+among these sensors. 
+Combined with other 
+technologies such as AI 
+and big data, it is now 
+possible to envisage 
+entirely autonomous 
+systems that 
+revolutionise 
+manufacturing.
+
+Machinery and robots are 
+transformed towards 
+their next generation. 
+Robots can do more on 
+their own, including 
+learning on the job and 
+teaming up with other 
+robots and humans. This 
+technology allows 
+systems to think, act and 
+react autonomously as 
+well as conduct remote 
+decision making. This 
+can help contribute to a 
+company’s 
+competitiveness, 
+productivity and 
+profitability.
+
+System integration 
+occurs in vertical (within 
+the industry value chain) 
+and in horizontal systems 
+(across multiple value 
+chains), eventually 
+achieving end-to-end 
+digital integration across 
+the entire value chain.  
+
+Adopted from BCG, Lux Research, McKinsey & A.T. Kearney
+
+18
+
+Industry4wrd : National Policy on Industry 4.0
+
+GLOBAL
+OVERVIEW
+
+COMPETITIVE  RESPONSE 
+by Nations & Lessons LearnT
+
+Recognising the importance of the transformation of the manufacturing industry to their industrial future state, many countries 
+have launched Industry 4.0 related policies and programmes to support the research, development and deployment of Industry 
+4.0 technologies and processes at their local manufacturers.
+
+Several of the global and leading manufacturing countries have already embarked on their Industry 4.0 transformation and are in advanced stages of implementation, e.g. 
+
+Germany, the US, the UK, China and Republic of Korea. It is critical for Malaysia to learn from these experiences and move fast in its own Industry 4.0 adoption to not fall 
+
+behind in its global manufacturing position.
+
+We can draw the 
+
+following lessons 
+
+from the 
+
+experiences of 
+
+other countries in 
+
+charting the 
+
+transformation to 
+
+Industry 4.0:
+
+Set high aspirations: Setting right aspirations is critical to drive outcomes. 
+
+Policymakers should have clear, actionable, targeted and impactful objectives 
+
+for Industry 4.0 strategy. This helps bring the right attention and act as an 
+
+inspiration for the country.
+
+Ensure the right level of focus: With such ambitious nationwide programmes,
+
+it is easy to get too narrowly focused on a few sub-sectors on one hand or being too
+
+broad on the other. Balanced coverage of sectors and technologies is critical. At the policy 
+
+level, the focus should be on building an enabling environment to encourage innovation 
+
+and adoption in priority sectors. 
+
+Pay attention to enablers: Enablers such as infrastructure, funding, skills and 
+
+technology create a fertile ground to encourage innovation and kickstart a virtuous, 
+
+self-sustaining ecosystem. Policymakers need to tailor emphasis to the current
+
+realities of their country.
+
+Include SMEs: Industry 4.0 technologies present both opportunities and risks for SMEs.  
+
+Thus, an inclusive programme is required to ensure that SMEs can make the 
+
+transformation to more advanced manufacturing processes or risk being left behind. More 
+
+importantly, Industry 4.0 provides an opportunity for the small companies of today to 
+
+become giants of tomorrow.
+
+Provide access to funding: Availability of capital and incentives from the beginning 
+
+ensures that Industry 4.0 programmes have a solid start in the country. Funding and 
+
+incentives should be directed towards both R&D and adoption of these technologies in the  
+
+manufacturing process.
+
+Implement from the top: Industry 4.0 is expected to have far reaching impact
+
+across industries, societies and the broader economy. Thus, it is not a domain of any one 
+
+Government department or agency. Governance for such initiatives should be initiated at 
+
+the top most level in the country, with emphasis on strong cross-ministerial and agency 
+
+collaboration.
+
+19
+
+Set high aspirations: Setting right aspirations is critical to drive outcomes. 
+Policymakers should have clear, actionable, targeted and impactful objectives 
+for Industry 4.0 strategy. This helps bring the right attention and act as an 
+inspiration for the country.
+
+Ensure the right level of focus: With such ambitious nationwide programmes,
+it is easy to get too narrowly focused on a few sub-sectors on one hand or being too
+broad on the other. Balanced coverage of sectors and technologies is critical. At the policy 
+level, the focus should be on building an enabling environment to encourage innovation 
+and adoption in priority sectors. 
+
+Pay attention to enablers: Enablers such as infrastructure, funding, skills and 
+technology create a fertile ground to encourage innovation and kickstart a virtuous, 
+self-sustaining ecosystem. Policymakers need to tailor emphasis to the current
+realities of their country.
+
+Include SMEs: Industry 4.0 technologies present both opportunities and risks for SMEs.  
+Thus, an inclusive programme is required to ensure that SMEs can make the 
+transformation to more advanced manufacturing processes or risk being left behind. More 
+importantly, Industry 4.0 provides an opportunity for the small companies of today to 
+become giants of tomorrow.
+
+Provide access to funding: Availability of capital and incentives from the beginning 
+ensures that Industry 4.0 programmes have a solid start in the country. Funding and 
+incentives should be directed towards both R&D and adoption of these technologies in the  
+manufacturing process.
+
+Implement from the top: Industry 4.0 is expected to have far reaching impact
+across industries, societies and the broader economy. Thus, it is not a domain of any one 
+Government department or agency. Governance for such initiatives should be initiated at 
+the top most level in the country, with emphasis on strong cross-ministerial and agency 
+collaboration.
+
+We can draw the 
+following lessons 
+from the 
+experiences of 
+other countries in 
+charting the 
+transformation to 
+Industry 4.0:
+
+Several of the global and leading manufacturing countries have already embarked on their Industry 4.0 transformation and are in advanced stages of implementation, e.g. 
+Germany, the US, the UK, China and Republic of Korea. It is critical for Malaysia to learn from these experiences and move fast in its own Industry 4.0 adoption to not fall 
+behind in its global manufacturing position.
+
+Recognising the importance of the transformation of the manufacturing industry to their industrial future state, many countries 
+
+have launched Industry 4.0 related policies and programmes to support the research, development and deployment of Industry 
+
+4.0 technologies and processes at their local manufacturers.
+
+20
+
+Industry4wrd : National Policy on Industry 4.0
+
+CASE FOR ACTION
+
+Importance of the Manufacturing Sector in Malaysia
+
+Need to Embrace Industry 4.0
+
+Propelling SMEs Forward
+
+Malaysia’s Readiness for Industry 4.0
+
+Addressing Malaysia’s Issues & Challenges
+
+21
+
+CASE FOR ACTION
+
+Importance of the Manufacturing Sector in Malaysia
+Need to Embrace Industry 4.0
+Propelling SMEs Forward
+Malaysia’s Readiness for Industry 4.0
+Addressing Malaysia’s Issues & Challenges
+
+22
+
+Industry4wrd : National Policy on Industry 4.0
+
+CASE  FOR
+ACTION
+
+IMPORTANCE  OF  THE 
+Manufacturing Sector in Malaysia
+
+The Malaysian manufacturing industry is an important economic sector contributing 
+about 22% to the GDP in the last five years. To date, its growth has had the effect 
+of  stimulating  jobs,  attracting  investments  and  creating  business  opportunities  in 
+the  downstream  activities  and  related  services  sectors.  The  manufacturing  sector 
+is expected to remain resilient and is on track to achieve the targeted annual GDP 
+growth rate of 5.1% under the 11th Malaysia Plan (RMK-11).
+
+It is important to note that the sector is made up of a large number of SMEs, which 
+account  for  98.5%  of  the  manufacturing  firms.  Although  most  of  these  SMEs  do 
+not have a strong global presence, many have the potential to be global exporters. 
+Together with other ongoing initiatives like the eCommerce Strategic Roadmap and 
+the  Digital  Free-Trade  Zone  (DFTZ),  the  Government  is  trying  to  provide  the  right 
+platform  for  SMEs  to  reinvent  themselves  and  adopt  the  latest  technologies  to  be 
+globally competitive. 
+
+On  a  global  level,  Malaysia  has  been  enjoying  a  fairly  strong  and  competitive 
+position in both manufacturing and the use of technology. The Global Manufacturing 
+Competitiveness Index 2016 (by Deloitte Touche Tohmatsu) ranked Malaysia at 17th 
+place among 40 countries. The report also projected Malaysia to climb four notches to 
+13th by 2020. On the technology and innovation side, the Global Innovation Index 2017 
+(by Cornell University, INSEAD and WIPO) ranked Malaysia at 37th globally among 127 
+countries and 8th in Asia. Further, the recent Readiness for the Future of Production 
+Report 2018 (by WEF and A.T. Kearney) highlights that Malaysia is well-positioned to 
+benefit from the future of Industry 4.0.
+
+Malaysia’s Manufacturing GDP contribution and growth
+
+RMK-10
+
+4.8%Average Growth
+
+)
+M
+R
+(
+
+s
+n
+o
+
+i
+l
+l
+i
+
+M
+
+RMK-11
+Target:
+
+5.1%Average Growth
+
+299,168
+
+283,863
+
+267,554
+
+254,725
+
+243,904
+
+232,528
+
+219,151
+
+211,920
+
+202,961
+
+23
+
+Manufacturing Industry Employment
+2,119,158 employees
+
+SMEs IN THE MANUFACTURING SECTOR
+
+42.1%
+Employment
+by SMEs
+
+57.9%
+Employment
+by Large Firms
+
+312,497
+
+Source: Economic Census 2016 Manufacturing Sector,
+Department of Statistics, Malaysia
+
+DEPENDENCY ON FOREIGN LABOUR
+
+26%
+Non-Malaysian
+
+74%
+Malaysian
+
+Source: Ministry of Human Resources
+
+Skills Level
+
+6.10
+
+6.10
+
+6.0
+
+5.44
+
+4.41
+
+3.41
+
+4.89
+
+4.44
+
+5.39
+
+4.45
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018 
+
+2019 2020
+
+Low-
+skilled
+
+7%
+
+Semi-
+skilled
+
+High-
+skilled
+
+75%
+
+18%
+
+* Based on Malaysia Standard Classification of
+Occupations (MASCO) 2013, referenced by
+Economic Census 2016
+
+Qualification
+
+80.5%
+SPM/SPM (V) or 
+equivalent and 
+below
+
+7.5%
+University 
+Degree and 
+Above
+12%
+Diploma/
+STPM or equivalent
+
+Source: RMK-11 & MITI internal analysis
+
+Source: Economic Census 2016 Manufacturing Sector,
+Department of Statistics, Malaysia
+
+ 
+24
+
+Industry4wrd : National Policy on Industry 4.0
+
+CASE  FOR
+ACTION
+
+NUMBER OF ESTABLISHMENTS BY
+MANUFACTURING SUB-SECTOR, 2015
+49,101 Establishments
+
+Electrical, 
+Electronic 
+and Optical 
+Products
+8.0%
+
+Beverage 
+and 
+Tabacco 
+Products
+0.9%
+
+Petroleum, 
+Chemical, 
+Rubber and 
+Plastic 
+Products
+9.4%
+
+Textile, 
+Wearing 
+Apparel and 
+Leather 
+Products
+18.6%
+
+Transport 
+Equipment, 
+Other 
+Manufacturing 
+and Repair
+11.2%
+
+Vegetable and Animal 
+Oils and Fats, and 
+Processed Foods
+16.4%
+
+Non-Metallic 
+Mineral 
+Products, 
+Basic Metal 
+and 
+Fabricated 
+Metal 
+Products
+18.3%
+
+Wood Products, 
+Furniture, Paper 
+Products and Printing
+17.2%
+
+PROFILE OF EMPLOYED PERSONS,
+MALAYSIA, 2016
+
+FOCUS SECTORS OF
+
+INDUSTRY 4.0
+
+Manufacturing
+
+Construction
+
+RMK-11 catalytic and high-potential sectors 
+
+16.9%
+
+0.7%
+
+Services
+
+Agriculture
+
+Mining &
+quarrying
+
+Source: Economic Census 2016 Manufacturing Sector,
+Department of Statistics, Malaysia
+
+Source: Labour Force Survey Report 2016, Department of Statistics, Malaysia
+
+CONCENTRATION OF
+MANUFACTURING
+ESTABLISHMENTS IN
+MALAYSIA, 2015
+
+Perlis (0.8%) 
+
+Kedah (6.7%)
+P. Pinang (8.5%)
+
+Perak (8.9%) 
+Selangor (20.4%) 
+Kuala Lumpur (10.7%)
+
+N. Sembilan (3.9%)
+
+WP Labuan (0.2%) 
+
+Kelantan (3.8%) 
+
+Terengganu (4.1%) 
+
+Pahang (3.6%)
+
+Sabah (3.7%) 
+
+Sarawak (5.2%) 
+
+Melaka (3.1%) 
+
+Johor (16.4%) 
+
+Source: Economic Census 2016 Manufacturing Sector, Department of Statistics, Malaysia
+
+Number of employees
+
+2,119,158
+
+100
+
+RM
+
+257.1
+
+billion
+
+NUMBER OF EMPLOYMENT
+
+BY MANUFACTURING
+
+SUB-SECTOR, 2015
+
+Employees
+
+(persons) 
+
+%
+
+Share
+
+Value
+
+Added
+
+(RM Billion)
+
+Electrical, electronic 
+
+and optical products
+
+528,913
+
+25.0
+
+77.6 
+
+Petroleum, chemical, 
+
+rubber and plastic 
+
+products
+
+Non-metallic mineral 
+
+products, basic metal 
+
+and fabricated metal 
+
+products
+
+Wood products, 
+
+furniture, paper 
+
+products and printing
+
+Vegetable and animal 
+
+oils and fats and food 
+
+processing
+
+Transport equipment, 
+
+other manufacturing 
+
+and repair
+
+Textiles, wearing 
+
+apparel and leather 
+
+products
+
+376,084
+
+17.8
+
+68.7
+
+331,643
+
+15.6
+
+298,437
+
+14.1
+
+34.3
+
+27.8
+
+256,908
+
+12.1
+
+22.1
+
+207,959
+
+9.8
+
+17.2
+
+102,243
+
+4.8
+
+5.0
+
+Beverages and 
+
+tobacco products
+
+16,971
+
+0.8
+
+4.4
+
+Electrical &
+
+Electronics
+
+Machinery &
+
+Equipment
+
+Medical
+
+Devices
+
+Chemical
+
+Aerospace
+
+Other Sectors
+
+The Electrical & 
+
+Electronics 
+
+industry is the 
+
+leading industry 
+
+in Malaysia’s 
+
+manufacturing 
+
+sector, 
+
+contributing 
+
+significantly to 
+
+the country’s 
+
+exports and 
+
+employment
+
+The Machinery 
+
+& Equipment 
+
+industry is one 
+
+of the key areas 
+
+for growth and 
+
+development, 
+
+focusing on 
+
+high 
+
+value-added 
+
+and high 
+
+technology 
+
+M&E
+
+The Chemical 
+
+industry is one 
+
+of the catalytic 
+
+The Medial 
+
+device industry 
+
+spans an 
+
+industries in the 
+
+extremely wide 
+
+country with 
+
+rapid growth 
+
+due to the 
+
+availability of oil 
+
+and gas as a 
+
+feedstock
+
+range of 
+
+industries from 
+
+rubber and 
+
+latex, plastics, 
+
+machinery and 
+
+engineering 
+
+support and 
+
+electronics
+
+The Aerospace 
+
+industry has 
+
+been 
+
+designated as a 
+
+strategic sector 
+
+with high 
+
+growth 
+
+potential in the 
+
+country’s 
+
+industrialisation 
+
+and 
+
+technological 
+
+development 
+
+programs
+
+Subsectors:
+
+Subsectors:
+
+Subsectors:
+
+Subsectors:
+
+Subsectors:
+
+• Electronic 
+
+components
+
+• Consumer 
+
+electronics
+
+• Industrial 
+
+electronics
+
+• Electrical 
+
+products
+
+• Specialised 
+
+M&E for specific 
+
+industries
+
+• Petroleum 
+
+products & 
+
+petrochemicals
+
+• Surgical 
+
+• Consumables
+
+• Engineering & 
+
+design
+
+instruments, 
+
+• Aero- 
+
+clinical device & 
+
+manufacturing
+
+• General 
+
+industrial M&E, 
+
+parts and 
+
+components
+
+• Power 
+
+• Plastic 
+
+products
+
+• Rubber 
+
+products
+
+generating M&E
+
+• Chemical & 
+
+• Machine tools
+
+chemical 
+
+products
+
+• Oleochemicals 
+
+implants
+
+• Healthcare 
+
+equipment
+
+• System 
+
+integration
+
+• Maintenance, 
+
+Repair and 
+
+Operations 
+
+(MRO)
+
+• Automotive 
+
+• Transport
+
+• Textiles
+
+• Pharmaceutical
+
+• Metal
+
+• Food 
+
+processing
+
+• Services
+
+62.2%11.4%8.8%25
+
+FOCUS SECTORS OF
+INDUSTRY 4.0
+
+RMK-11 catalytic and high-potential sectors 
+
+Value
+Added
+(RM Billion)
+
+NUMBER OF EMPLOYMENT
+BY MANUFACTURING
+SUB-SECTOR, 2015
+
+Manufacturing
+
+Construction
+
+Employees
+(persons) 
+
+%
+Share
+
+NUMBER OF ESTABLISHMENTS BY
+
+MANUFACTURING SUB-SECTOR, 2015
+
+PROFILE OF EMPLOYED PERSONS,
+
+MALAYSIA, 2016
+
+49,101 Establishments
+
+Electrical, 
+
+Electronic 
+
+and Optical 
+
+Products
+
+8.0%
+
+Beverage 
+
+and 
+
+Tabacco 
+
+Products
+
+0.9%
+
+Petroleum, 
+
+Chemical, 
+
+Rubber and 
+
+Plastic 
+
+Products
+
+9.4%
+
+Textile, 
+
+Wearing 
+
+Apparel and 
+
+Leather 
+
+Products
+
+18.6%
+
+Non-Metallic 
+
+Mineral 
+
+Products, 
+
+Basic Metal 
+
+and 
+
+Fabricated 
+
+Metal 
+
+Products
+
+18.3%
+
+Transport 
+
+Equipment, 
+
+Other 
+
+Manufacturing 
+
+and Repair
+
+11.2%
+
+Vegetable and Animal 
+
+Oils and Fats, and 
+
+Processed Foods
+
+16.4%
+
+Wood Products, 
+
+Furniture, Paper 
+
+Products and Printing
+
+17.2%
+
+CONCENTRATION OF
+
+MANUFACTURING
+
+ESTABLISHMENTS IN
+
+MALAYSIA, 2015
+
+16.9%
+
+0.7%
+
+Services
+
+Agriculture
+
+Mining &
+
+quarrying
+
+Source: Economic Census 2016 Manufacturing Sector,
+
+Department of Statistics, Malaysia
+
+Source: Labour Force Survey Report 2016, Department of Statistics, Malaysia
+
+Perlis (0.8%) 
+
+Kedah (6.7%)
+
+P. Pinang (8.5%)
+
+Perak (8.9%) 
+
+Selangor (20.4%) 
+
+Kuala Lumpur (10.7%)
+
+N. Sembilan (3.9%)
+
+Kelantan (3.8%) 
+
+Terengganu (4.1%) 
+
+Pahang (3.6%)
+
+Melaka (3.1%) 
+
+Johor (16.4%) 
+
+WP Labuan (0.2%) 
+
+Sabah (3.7%) 
+
+Sarawak (5.2%) 
+
+Electrical, electronic 
+and optical products
+
+528,913
+
+25.0
+
+77.6 
+
+Electrical &
+Electronics
+
+Machinery &
+Equipment
+
+Chemical
+
+Medical
+Devices
+
+Aerospace
+
+Other Sectors
+
+Petroleum, chemical, 
+rubber and plastic 
+products
+
+Non-metallic mineral 
+products, basic metal 
+and fabricated metal 
+products
+
+Wood products, 
+furniture, paper 
+products and printing
+
+Vegetable and animal 
+oils and fats and food 
+processing
+
+Transport equipment, 
+other manufacturing 
+and repair
+
+Textiles, wearing 
+apparel and leather 
+products
+
+376,084
+
+17.8
+
+68.7
+
+331,643
+
+15.6
+
+298,437
+
+14.1
+
+34.3
+
+27.8
+
+256,908
+
+12.1
+
+22.1
+
+207,959
+
+9.8
+
+17.2
+
+102,243
+
+4.8
+
+5.0
+
+Beverages and 
+tobacco products
+
+16,971
+
+0.8
+
+4.4
+
+Source: Economic Census 2016 Manufacturing Sector, Department of Statistics, Malaysia
+
+Number of employees
+
+2,119,158
+
+100
+
+RM
+257.1
+billion
+
+The Electrical & 
+Electronics 
+industry is the 
+leading industry 
+in Malaysia’s 
+manufacturing 
+sector, 
+contributing 
+significantly to 
+the country’s 
+exports and 
+employment
+
+The Machinery 
+& Equipment 
+industry is one 
+of the key areas 
+for growth and 
+development, 
+focusing on 
+high 
+value-added 
+and high 
+technology 
+M&E
+
+The Chemical 
+industry is one 
+of the catalytic 
+industries in the 
+country with 
+rapid growth 
+due to the 
+availability of oil 
+and gas as a 
+feedstock
+
+The Medial 
+device industry 
+spans an 
+extremely wide 
+range of 
+industries from 
+rubber and 
+latex, plastics, 
+machinery and 
+engineering 
+support and 
+electronics
+
+The Aerospace 
+industry has 
+been 
+designated as a 
+strategic sector 
+with high 
+growth 
+potential in the 
+country’s 
+industrialisation 
+and 
+technological 
+development 
+programs
+
+Subsectors:
+
+Subsectors:
+
+Subsectors:
+
+Subsectors:
+
+Subsectors:
+
+• Electronic 
+
+components
+
+• Consumer 
+electronics
+
+• Industrial 
+electronics
+
+• Electrical 
+products
+
+• Specialised 
+
+M&E for specific 
+industries
+
+• Petroleum 
+products & 
+petrochemicals
+
+• General 
+
+industrial M&E, 
+parts and 
+components
+
+• Power 
+
+generating M&E
+
+• Machine tools
+
+• Plastic 
+
+products
+
+• Rubber 
+products
+
+• Chemical & 
+chemical 
+products
+
+• Oleochemicals 
+
+• Consumables
+
+• Engineering & 
+
+• Surgical 
+
+instruments, 
+clinical device & 
+implants
+
+• Healthcare 
+equipment
+
+design
+
+• Aero- 
+
+manufacturing
+
+• System 
+
+integration
+
+• Maintenance, 
+Repair and 
+Operations 
+(MRO)
+
+• Automotive 
+
+• Transport
+
+• Textiles
+
+• Pharmaceutical
+
+• Metal
+
+• Food 
+
+processing
+
+• Services
+
+Source:  Economic  Census  2016  Manufacturing  Sector,  Department  of  Statistics,  Malaysia
+
+62.2%11.4%8.8%26
+
+Industry4wrd : National Policy on Industry 4.0
+
+CASE  FOR
+ACTION
+
+NEED  TO  EMBRACE  
+Industry 4.0
+
+Despite  its  strong  current  position,  the  state  of  the  manufacturing  industry  has 
+been  a  case  for  concern  in  the  last  few  years.  Malaysia  has  moved  away  from 
+being an investment destination for low cost labour manufacturing activities and is 
+challenged by lower cost competitors from emerging economies and rapidly changing 
+technologies.
+
+In  line  with  the  global  trends  outlined  before,  three  major  factors  are  impacting 
+the future of manufacturing in Malaysia, offering opportunities for growth, but also 
+challenging its competitive position:
+
+• 
+
+• 
+
+• 
+
+Global  value  chains  and  geographies  of  production  are  continuing  to  shift, 
+especially as China and other Northeast Asian countries are relocating production 
+to ASEAN. This is opening up new opportunities for Malaysia. However, Malaysia 
+will need to transform itself fast as other countries in the region are catching up.
+
+Quality  of  labour  and  higher  productivity,  and  not  low  labour  cost,  will  be 
+the  new  source  of  competitive  advantage.  Although  Malaysia’s  labour 
+productivity  has  grown  at  3-4%  over  the  last  few  years,  its  relative 
+global  position  and  use  of  high-skilled  labour  have  not  moved  forward. 
+Malaysia’s  labour  productivity  was  ranked  only  at  44th  position  in  2016,  a 
+position  that  has  remained  unchanged  since  2009.  The  relative  share  of 
+high-skilled labour declined from 19% in 2010 to 18% in 2017.
+
+New  technologies  are  disrupting  and  fostering  a  technology-based  model 
+of  production.  Barriers  of  adoption  have  come  down  with  key  Industry  4.0 
+technologies  maturing  and  costs  declining.  Application  of  technologies  to 
+improve efficiency and product quality is becoming the new normal, requiring 
+Malaysian manufacturing firms to innovate and invest in new technologies to 
+remain competitive.
+
+27
+
+This will require a new and comprehensive policy framework that 
+guides  the  transformation,  systematically  addresses  potential 
+barriers  and  fosters  urgency  and  action  across  the  industry  and 
+all other stakeholders.
+
+As  such,  it  is  imperative  for  Malaysia  to  transform  itself  at  an  accelerated  pace 
+and embrace Industry 4.0 as a critical cornerstone to propel and sustain its future 
+manufacturing  competitiveness.  Specific  attention  needs  to  be  given  to  four 
+overarching goals:
+• 
+• 
+• 
+• 
+
+Drive continuous growth in manufacturing GDP;
+Increase national productivity;
+Create higher skill employment opportunities; and
+Raise innovation capabilities and competitiveness.
+
+PROPELLING 
+SMEs Forward 
+
+In Malaysia’s transformation, particular attention needs to be given to SMEs 
+as  they  account  for  the  bulk  of  manufacturing  companies  (98.5%)  and  a 
+major part of employment (42%). 
+
+While  most  of  the  large  manufacturing  firms  are  already  anticipating  the 
+benefits and risks of adopting Industry 4.0 practices, Malaysian SMEs appear 
+to be cautious in taking the leap. Despite the enormous economic potential of 
+Industry 4.0, SMEs in the industry remain relatively unaware about it. There is a 
+risk that Malaysian SMEs might be left behind.
+
+Industry  4.0  has  the  potential  to  transform  manufacturing  SMEs  in  multiple 
+ways:  improving  productivity,  efficiency  and  cost;  enhancing  organisational, 
+management and production capabilities; enabling better quality and monitoring; 
+and developing innovators and producers of Industry 4.0 technologies.
+
+The  level  of  transformation  required  is,  however,  very  substantial  for  SMEs.  It  will 
+not  just  be  about  adopting  Industry  4.0  technologies,  but  also  about  changing 
+business  processes  and  operating  models.  For  example,  SMEs  will  need  to 
+collaborate and participate in broader production networks with other  SMEs, large 
+firms  or  multinational  corporations.  Digitalisation  of  the  manufacturing  system  will 
+be  important  to  build  direct  links  to  end  customers  and  produce  innovative  and 
+customised products. 
+
+Scale  effects  are  also  being  redefined  as  SMEs  are  making  headways  in  many 
+markets and outperforming larger corporations due to their agility and adaptability.  
+As such, manufacturing SMEs will need to learn how to deal with these disruptions, be 
+more resilient and embrace the change as an opportunity.
+
+SMEs stand to gain the most from this Policy. The aim is to optimise the framework 
+conditions and support structures accordingly, so that manufacturing SMEs will be 
+able to meet the challenges of Industry 4.0 and take full advantage of the benefits and 
+opportunities it presents.
+
+28
+
+Industry4wrd : National Policy on Industry 4.0
+
+CASE  FOR
+ACTION
+
+MALAYSIA’S  READINESS   
+for Industry 4.0
+
+A key question is how ready Malaysia is for Industry 4.0. The recent report on the Readiness for the Future of Production Report 2018, jointly published by 
+the World Economic Forum (WEF) and A.T. Kearney, provides a global assessment of 100 countries and positions Malaysia in the “Leader” quadrant. These 
+are countries with a “strong current production base” and who are “positioned well for the future”. It is also interesting to note that Malaysia and China are 
+the only two non-high income countries in the “Leader” quadrant.
+
+This is both an enviable and a challenging position for Malaysia. On the one hand, it underscores Malaysia’s strong current manufacturing position and 
+its readiness for Industry 4.0. On the other hand, it also highlights the economic value at stake if Malaysia is not able to transform itself in an accelerated 
+manner. The gap to global leaders like Japan, Republic of Korea, Germany, Switzerland and China is still significant and other countries in the region have 
+aggressive plans and are moving fast in their implementation.
+
+Drivers of production score (0-10)
+
+10
+
+High-Potential
+
+Leading
+
+8
+
+6
+
+4
+
+2
+
+0
+
+United States
+
+Singapore
+Malaysia
+
+Italy
+
+Germany
+
+Japan
+Korea
+
+China
+
+France
+
+Poland
+
+Nascent
+
+0
+
+East Asia and the Pacific
+Euroasia
+Europe
+
+2
+
+4
+
+6
+
+8
+
+Structure of Production score (0-10)
+
+Latin America and the Carribean
+Middle East and Nort Africa
+North America
+
+Legacy
+
+10
+
+South Asia
+Sub-Saharan Africa
+
+Note: Average performance of the top 75 countries is at the intersection of the four quadrants.
+
+Source:  Readiness  for  the  Future  of  Production  Report,  World  Economic  Forum,  2018
+
+WEF’s analysis identifies technology, human capital, global trade and networks, and institutional frameworks as key drivers of production for Industry 4.0. 
+Malaysia’s ranking in each of these drivers emphasises priorities in technology, human capital and institutional frameworks (21st to 30th position out of 100 
+countries), consistent with some of the challenges highlighted previously: 
+
+29
+
+Technology adoption and diffusion are particularly important for SMEs and underscore 
+the importance of creating production networks and collaborations with MNCs and large 
+companies.
+
+Human capital focus is key to creating an accelerated shift in productivity, especially as 
+Malaysia has been relying on low labour cost in the past, with a declining share of 
+skilled labour.
+
+Strengthening institutional frameworks underpins the role of Government in creating the 
+right ecosystem and facilitating collaborative platforms.
+
+On global trade and investment, Malaysia is already well-integrated into regional value 
+chains and exhibits a very good trade infrastructure, which is reflected in its strong 
+global ranking (7th). 
+
+Source: WEF
+
+30
+
+Industry4wrd : National Policy on Industry 4.0
+
+Addressing Malaysia’s Issues & Challenges
+
+Lack of awareness on the impact of, 
+and need for, Industry 4.0 
+technologies, both in terms of 
+opportunities and business model 
+disruption, especially among SMEs  
+
+Awareness
+
+Best
+Practices
+
+Innovation
+
+DEMAND
+
+High Cost of
+Investment
+
+Digital
+Readiness &
+Connectivity
+
+Skill
+Enhancement
+
+Lack of a centralised and easily 
+accessible information platform to 
+understand best practices and 
+relevant use cases
+
+Few visible success stories of
+applying Industry 4.0 technologies and 
+processes by local companies 
+
+Higher cost of adoption and 
+longer payback period for 
+Industry 4.0 technologies and 
+processes
+
+Inadequate understanding 
+of costs vs benefits and 
+ability to conduct Industry 
+4.0 business case analysis  
+
+Limited understanding of 
+manufacturing firms of required future 
+skills and expertise, and own 
+readiness to embark on Industry 4.0 
+transformation  
+
+Significant shortage of required 
+talents, skills and knowledge for 
+Industry 4.0, particularly in the areas 
+of IoT, robotics and AI
+
+Evolving customer expectations 
+and demand for customisation of 
+products and faster delivery 
+
+Ownership of Intellectual Properties 
+due to inter-connectivity and 
+information sharing along the 
+supply chain
+
+Low digital adoption especially 
+among SMEs (~20%) and 
+limited use of automation by 
+manufacturing firms (majority 
+of firms use less than 50% of 
+automation)
+
+Lack of integrated and digital 
+approach to data gathering 
+along manufacturing and 
+supply chains
+
+Exposure to cyberthreats with 
+increased connectivity and new 
+technologies, especially IoT
+
+To ensure this Policy comprehensively addresses potential issues and challenges faced by Malaysian manufacturing 
+
+firms, a series of industry and government agency workshops were conducted, involving a broad range of 
+
+stakeholders. 
+
+The issues on both the demand and supply side are summarised as follows:
+
+Multiple, but isolated efforts and limited 
+
+coordination among all stakeholders in moving 
+
+towards a common vision for Industry 4.0
+
+No national platform and mechanism to coordinate 
+
+programmes and structure collaborative and 
+
+aligned approaches for Industry 4.0 requirements
+
+Gaps in deployment of high speed 
+
+broadband infrastructure in key 
+
+industrial and training locations and 
+
+not always able to support Industry 
+
+4.0 technology needs
+
+Limited digitalisation and digital 
+
+integration of key Government 
+
+agencies and processes into 
+
+manufacturing and supply chain 
+
+(e.g. some certifications, licensing, 
+
+custom clearances, approvals, etc.)
+
+Lack of clear standards for 
+
+equipment or systems that support 
+
+local and global interoperability of 
+
+Industry 4.0 technologies and 
+
+processes  
+
+Infrastructure
+
+Funding &
+
+Incentive
+
+Standards
+
+&
+
+Digital
+
+Integration
+
+Ecosystem
+
+Support
+
+Governance
+
+SUPPLY
+
+Training
+
+Providers
+
+Existing, but underutilised funds for 
+
+training and development, and need 
+
+for higher allocation for STEM 
+
+education (e.g. scholarships)
+
+No specific financial support and 
+
+incentives for Industry 4.0 
+
+technology development, ranging 
+
+from R&D, prototyping, testing, 
+
+scaling up to upgrading facilities
+
+Limited number of local players 
+
+providing Industry 4.0 solutions 
+
+across key technologies and not 
+
+cost competitive vis-à-vis 
+
+international players
+
+Education syllabus 
+
+and pedagogy for 
+
+STEM-related 
+
+subjects are not 
+
+attractive and do 
+
+not match with 
+
+industry needs
+
+Limited 
+
+attractiveness of 
+
+manufacturing as 
+
+career destination 
+
+for top talent
+
+Existing training 
+
+programmes are not 
+
+sufficiently geared towards 
+
+Industry 4.0 and current 
+
+pool of trainers are unable 
+
+to keep up with the 
+
+advancement of technology
+
+Limited collaboration and industry take-up of Industry 4.0 
+
+outputs from universities and research institutes
+
+Shortage of experts in the industry, universities and research 
+
+institutes across most Industry 4.0 technologies  
+
+Insufficient local capabilities and capacities in providing 
+
+cybersecurity solutions that protect Industry 4.0 applications
+
+Addressing Malaysia’s Issues & Challenges
+
+Lack of awareness on the impact of, 
+
+and need for, Industry 4.0 
+
+technologies, both in terms of 
+
+opportunities and business model 
+
+disruption, especially among SMEs  
+
+Best
+
+Practices
+
+Innovation
+
+High Cost of
+
+Investment
+
+Digital
+
+Readiness &
+
+Connectivity
+
+Awareness
+
+DEMAND
+
+Skill
+
+Enhancement
+
+Lack of a centralised and easily 
+
+accessible information platform to 
+
+understand best practices and 
+
+relevant use cases
+
+Few visible success stories of
+
+applying Industry 4.0 technologies and 
+
+processes by local companies 
+
+Higher cost of adoption and 
+
+longer payback period for 
+
+Industry 4.0 technologies and 
+
+processes
+
+Inadequate understanding 
+
+of costs vs benefits and 
+
+ability to conduct Industry 
+
+4.0 business case analysis  
+
+Limited understanding of 
+
+manufacturing firms of required future 
+
+skills and expertise, and own 
+
+readiness to embark on Industry 4.0 
+
+transformation  
+
+Significant shortage of required 
+
+talents, skills and knowledge for 
+
+Industry 4.0, particularly in the areas 
+
+of IoT, robotics and AI
+
+Evolving customer expectations 
+
+and demand for customisation of 
+
+products and faster delivery 
+
+Ownership of Intellectual Properties 
+
+due to inter-connectivity and 
+
+information sharing along the 
+
+supply chain
+
+Low digital adoption especially 
+
+among SMEs (~20%) and 
+
+limited use of automation by 
+
+manufacturing firms (majority 
+
+of firms use less than 50% of 
+
+automation)
+
+Lack of integrated and digital 
+
+approach to data gathering 
+
+along manufacturing and 
+
+supply chains
+
+Exposure to cyberthreats with 
+
+increased connectivity and new 
+
+technologies, especially IoT
+
+31
+
+To ensure this Policy comprehensively addresses potential issues and challenges faced by Malaysian manufacturing 
+firms, a series of industry and government agency workshops were conducted, involving a broad range of 
+stakeholders. 
+
+The issues on both the demand and supply side are summarised as follows:
+
+Multiple, but isolated efforts and limited 
+coordination among all stakeholders in moving 
+towards a common vision for Industry 4.0
+
+No national platform and mechanism to coordinate 
+programmes and structure collaborative and 
+aligned approaches for Industry 4.0 requirements
+
+Gaps in deployment of high speed 
+broadband infrastructure in key 
+industrial and training locations and 
+not always able to support Industry 
+4.0 technology needs
+
+Limited digitalisation and digital 
+integration of key Government 
+agencies and processes into 
+manufacturing and supply chain 
+(e.g. some certifications, licensing, 
+custom clearances, approvals, etc.)
+
+Lack of clear standards for 
+equipment or systems that support 
+local and global interoperability of 
+Industry 4.0 technologies and 
+processes  
+
+Governance
+
+Infrastructure
+
+Funding &
+Incentive
+
+Standards
+&
+Digital
+Integration
+
+SUPPLY
+
+Training
+Providers
+
+Ecosystem
+Support
+
+Existing, but underutilised funds for 
+training and development, and need 
+for higher allocation for STEM 
+education (e.g. scholarships)
+
+No specific financial support and 
+incentives for Industry 4.0 
+technology development, ranging 
+from R&D, prototyping, testing, 
+scaling up to upgrading facilities
+
+Limited number of local players 
+providing Industry 4.0 solutions 
+across key technologies and not 
+cost competitive vis-à-vis 
+international players
+
+Education syllabus 
+and pedagogy for 
+STEM-related 
+subjects are not 
+attractive and do 
+not match with 
+industry needs
+
+Limited 
+attractiveness of 
+manufacturing as 
+career destination 
+for top talent
+
+Existing training 
+programmes are not 
+sufficiently geared towards 
+Industry 4.0 and current 
+pool of trainers are unable 
+to keep up with the 
+advancement of technology
+
+Limited collaboration and industry take-up of Industry 4.0 
+outputs from universities and research institutes
+
+Shortage of experts in the industry, universities and research 
+institutes across most Industry 4.0 technologies  
+
+Insufficient local capabilities and capacities in providing 
+cybersecurity solutions that protect Industry 4.0 applications
+
+32
+
+Industry4wrd : National Policy on Industry 4.0
+
+CASE  FOR
+ACTION
+
+MALAYSIA 
+moving forward…
+
+From the stakeholder interactions and issue analyses, five themes emerge that drive 
+the  development  of  an  end-to-end  Industry  4.0  ecosystem  in  Malaysia. They  have 
+also  been  guiding  the  development  of  this  National  Policy  on  Industry  4.0  and  the 
+four key goals of GDP contribution, national productivity, high-skilled employment and 
+innovation capabilities.
+
+Upskilling and reskilling existing and future 
+labour pool need to be at the heart of Malaysia’s 
+transformation
+
+Inclusive involvement of SMEs is critical to 
+power a holistic step up in labour productivity across the 
+economy
+
+Significant evolution in innovation 
+capabilities and collaborative platforms is essential to 
+foster the development of, and access to, cost-effective 
+technologies that address specific sector needs 
+
+Focused funding support is needed to kickstart 
+the adoption and complement private sector investments
+
+Good digital infrastructure is required to enable 
+reliable and secure Industry 4.0 operations
+
+33
+
+34
+
+Industry4wrd : National Policy on Industry 4.0
+
+MOVING FORWARD
+
+Policy Objectives
+
+The Framework – Industry4WRD
+
+Strategic Enablers & Actions
+
+Implementation Approach
+
+35
+
+MOVING FORWARD
+
+Policy Objectives
+The Framework – Industry4WRD
+Strategic Enablers & Actions
+Implementation Approach
+
+36
+
+Industry4wrd : National Policy on Industry 4.0
+
+MOVING
+FORWARD
+
+POLICY 
+Objectives
+
+Already,  a  number  of  initiatives  and  organisations  have  been  established  at 
+national, state and regional levels by both the Government and industry to develop 
+action  plans  to  strengthen  the  manufacturing  industry. This  support  for,  and  focus 
+on,  manufacturing  firms  are  important.  However,  these  initiatives  have  largely 
+been  developed  independently  and  often  have  overlapping  objectives  and  industry 
+audiences.
+
+There is a need for a more streamlined and cohesive national agenda under which these 
+initiatives and organisations can be integrated to accelerate Malaysia’s transformation 
+into a smart and modern manufacturing system. This will also include the need for 
+a  greater  alignment  across  Government,  research  and  academia  regarding  priority 
+industries, specific goals, enabling actions, and their funding. Countries like Germany 
+and  Japan  provide  examples  of  best  practices  where  Government,  research  and 
+academia are tightly integrated with the manufacturing industry through collaborative 
+public-private  partnerships  (PPPs)  that  develop  innovative  solutions  for  specific 
+industry needs.
+
+With  this  in  mind,  Malaysia  has  put  in  place  the  National  Policy  on  Industry  4.0  – 
+Industry4WRD – that provides a concerted and comprehensive transformation agenda 
+for the manufacturing sector and its related services.
+
+OBJECTIVES OF THE
+
+NATIONAL POLICY ON INDUSTRY 4.0
+
+ARE THREEFOLD: A-C-T
+
+A
+
+C
+
+T
+
+Attract stakeholders to 
+
+Industry 4.0 technologies & 
+
+processes, and further 
+
+increase Malaysia’s 
+
+attractiveness as a preferred 
+
+manufacturing location
+
+Create the right ecosystem 
+
+for Industry 4.0 to be 
+
+adopted and align existing 
+
+and future development 
+
+initiatives 
+
+Transform Malaysia’s 
+
+industry capabilities in both a 
+
+holistic and an accelerated 
+
+manner
+
+Attract stakeholders  
+
+Create the right ecosystem
+
+Transform industry 
+
+• Adoption of Industry 4.0 
+
+• Talent supply & skill levels
+
+capabilities
+
+• SME inclusion
+
+• Preferred manufacturing 
+
+location
+
+• Collaborative platforms
+
+• Digital infrastructure
+
+• Funding support
+
+• Data availability & sharing
+
+• Innovation capacity
+
+• Labour productivity
+
+• Cost efficiency
+
+• Share of high-skilled jobs
+
+• Technology & innovation 
+
+capabilities
+
+• Local technology 
+
+development
+
+NATIONAL POLICY
+
+ON INDUSTRY 4.0 
+
+BY THE NUMBERS
+
+National
+
+Goals
+
+4
+
+Targeted outcomes
+
+• Higher manufacturing 
+
+sector contribution
+
+• More high value-
+
+added products
+
+• Continuing FDIs
+
+Strategic
+
+Enablers
+
+13
+
+5
+
+Action
+
+Plans
+
+38
+
+Strategies
+
+ACTOBJECTIVES OF THE
+NATIONAL POLICY ON INDUSTRY 4.0
+ARE THREEFOLD: A-C-T
+
+A
+
+C
+
+T
+
+Attract stakeholders to 
+Industry 4.0 technologies & 
+processes, and further 
+increase Malaysia’s 
+attractiveness as a preferred 
+manufacturing location
+
+Attract stakeholders  
+• Adoption of Industry 4.0 
+• SME inclusion
+• Preferred manufacturing 
+
+location
+
+Create the right ecosystem 
+for Industry 4.0 to be 
+adopted and align existing 
+and future development 
+initiatives 
+
+Transform Malaysia’s 
+industry capabilities in both a 
+holistic and an accelerated 
+manner
+
+Create the right ecosystem
+• Talent supply & skill levels
+• Collaborative platforms
+• Digital infrastructure
+• Funding support
+• Data availability & sharing
+• Innovation capacity
+
+Transform industry 
+capabilities
+• Labour productivity
+• Cost efficiency
+• Share of high-skilled jobs
+• Technology & innovation 
+
+capabilities
+
+• Local technology 
+
+development
+
+37
+
+Targeted outcomes
+• Higher manufacturing 
+sector contribution
+
+• More high value-
+added products
+• Continuing FDIs
+
+NATIONAL POLICY
+ON INDUSTRY 4.0 
+BY THE NUMBERS
+
+National
+Goals
+
+4
+
+Strategic
+Enablers
+
+13
+
+5
+
+Action
+Plans
+
+38
+
+Strategies
+
+ACT38
+
+Industry4wrd : National Policy on Industry 4.0
+
+THE  FRAMEWORK
+
+Industry4WRD
+
+Malaysia’s vision for the 
+manufacturing sector in 
+the next 10 years
+
+Strategic partner 
+for smart 
+manufacturing & 
+related services in 
+Asia Pacific
+
+Primary 
+destination for 
+high-tech industry
+
+Total solutions 
+provider for 
+advanced 
+technology
+
+The Vision
+
+Specific goals to 
+guide and measure 
+the progress of 
+transformation
+
+A set of shift factors 
+that need to be 
+optimised in a 
+balanced manner
+
+The National Goals
+
+The Shift Factors
+
+Labour
+Productivity
+Growth
+
+Manufacturing
+Contribution to
+Economy
+
+Innovation
+Capacity
+
+High-skilled Jobs
+
+PEOPLE
+
+PROCESS
+
+TECHNOLOGY
+
+Specific 
+enablers that 
+determine the 
+strategies, 
+policies and 
+action plans
+
+The
+Enablers
+
+FUNDING
+Funding 
+&  Outcome-
+based
+Incentives
+
+INFRASTRUCTURE
+Enabling
+Ecosystem &
+Efficient Digital
+Infrastructure
+
+REGULATIONS
+Regulatory
+Framework
+& Industry
+Adoption
+
+SKILLS &
+TALENT
+Upskilling
+Existing &
+Producing
+Future
+Talents
+
+TECHNOLOGY
+Access to 
+Smart
+Technologies
+
+39
+
+ENVISIONING 
+THE FUTURE OF MALAYSIAN 
+MANUFACTURING INDUSTRY
+
+The development of these visions is made in full realisation that there is a need to 
+transform the manufacturing industry to embrace Industry 4.0. This is due to the fact 
+that global trends point towards the ability to master and adopt the new technology 
+development which will then drive Malaysia towards greater competitiveness. 
+
+National vision 
+for Malaysia’s 
+manufacturing 
+sector in the 
+next 10 years
+
+Vision
+Strategic partner for 
+smart manufacturing 
+and related services 
+in Asia Pacific
+
+Rationale
+Ensure continued 
+relevance and 
+importance for Malaysia 
+in global and regional 
+production value chains
+
+Vision
+Primary destination 
+for high-tech
+industry
+
+Rationale
+Remain preferred 
+manufacturing location 
+for leading global and 
+regional players
+
+Vision
+Total solutions 
+provider for advanced 
+technology
+
+Rationale
+Create a holistic 
+ecosystem that propels 
+Malaysia’s 
+transformation and helps 
+SMEs scale up
+
+40
+
+Industry4wrd : National Policy on Industry 4.0
+
+MOVING
+FORWARD
+
+SHIFT  FACTORS
+
+Malaysia’s transformation will require an approach and an ecosystem that optimise the relationships among people, process and technology. Industry 
+4.0 adoption will only be as good as the processes that are implemented around it, and the processes are only as good as the people who execute them.
+
+The Shift Factors
+
+PEOPLE
+
+PROCESS
+
+TECHNOLOGY
+
+Purpose
+
+Given its criticality, 
+developing, upgrading 
+and retaining the 
+required talent and skills 
+are at the center of this 
+Policy.
+
+Improving both 
+manufacturing and 
+business processes is 
+important for Malaysia’s 
+transformation and this 
+Policy aims to create a 
+favourable business 
+environment and 
+facilitate public-private 
+partnerships.
+
+Technology 
+advancement is 
+increasingly propelling 
+global manufacturing 
+competitiveness and this 
+Policy fosters a 
+seamless and 
+accelerated adoption of 
+Industry 4.0 
+technologies, especially 
+for SMEs.
+
+To bring the shift factor gears together and achieve optimal results, a well-coordinated orchestration and top-level driven implementation will be important.
+
+41
+
+42
+
+Industry4wrd : National Policy on Industry 4.0
+
+MOVING
+FORWARD
+
+NATIONAL GOALS & TARGETS
+
+The specific goals and targets are in support of the national vision for the transformation of the manufacturing sector. They guide and measure Malaysia’s 
+progress in improving productivity, strengthening the innovation capacity and capability, driving the shift to a higher skilled workforce, and expanding the 
+overall contribution of the manufacturing sector to the national economy.
+
+To increase the level of productivity in the manufacturing sector
+
+To elevate the contribution of the manufacturing sector to the economy
+
+To strengthen our innovation capacity and capability, reflected in global
+innovation rankings
+
+To increase the number of high-skilled workers in the manufacturing sector
+
+The targets for 2025, developed from 2016 baseline figures:
+
+Productivity of the
+manufacturing industry
+per person
+
+Absolute contribution in  
+Ringgit Malaysia (RM) term 
+from the manufacturing sector 
+to the national economy
+
+Global Innovation
+Index ranking
+
+Numbers of high-skilled 
+workers in the
+manufacturing sector
+
+From RM106,647
+To increase by
+30%
+
+From RM254 billion
+To RM392 billion
+
+From  #35
+To top 30 nations
+
+From 18%
+ to 35%
+
+43
+
+44
+
+Industry4wrd : National Policy on Industry 4.0
+
+THE  STRATEGIC ENABLERS
+
+THE STRATEGIC ENABLERS EXPLAINED
+
+F
+
+Funding
+
+I
+
+Infrastructure
+
+Funding & Outcome-based Incentives
+
+The development and adoption of Industry 4.0 
+technologies and processes may require 
+substantial investments by manufacturing 
+firms. Questions will arise on what incentives 
+and funding options are available by both 
+Government agencies and private entities, 
+especially for SMEs. 
+
+The funding strategies are aimed at 
+encouraging companies to adopt new 
+manufacturing technologies and processes 
+and invest in R&D, specifically to develop 
+local solutions targeted at Malaysia’s needs 
+and priorities. Special attention will be given 
+to collaborative efforts in developing and 
+deploying Industry 4.0 technologies. 
+
+To ensure progress and impact, the incentives 
+will be linked to specific outcomes.
+These strategies are applicable to both 
+manufacturing firms as the users and 
+adopters, and to service providers of Industry 
+4.0 technologies and solutions. 
+
+Enabling Ecosystem & Efficient Digital 
+Infrastructure
+
+Fast and secure data connection is a basic 
+requirement for the realisation of Industry 4.0. 
+Good and reliable internet speed rate is needed 
+for implementing internet-based production 
+technologies or services, be it IoT solutions, use 
+of augmented reality and wearables in 
+production or the evaluation of real-time data. 
+Although Malaysia has deployed High Speed 
+Broadband and 4G technologies on a 
+widespread basis, there are still some gaps in 
+key industrial and training locations.
+
+A digitalised and connected infrastructure across 
+supply and manufacturing value chains is critical 
+to foster a seamless movement of goods, data 
+and services; drive efficiency and resource 
+optimisation and support joint development 
+efforts. Currently, a number of processes are still 
+not digitalised across many ministries and 
+Government agencies, ranging from various 
+approvals, licensing, certification, to clearance of 
+goods and other processes.
+
+Service providers will play an essential role in 
+helping Malaysian companies accelerate their 
+transition to Industry 4.0, particularly in 
+developing people, transforming processes and 
+adopting technologies. As such, involving service 
+providers and linking them to manufacturing 
+firms, especially SMEs, is important to create a 
+holistic and effective Industry 4.0 ecosystem.
+
+R
+
+S
+
+T
+
+Regulations
+
+Skills & Talent
+
+Technology
+
+Regulatory Framework & Industry 
+
+Upskilling Existing & Producing Future 
+
+Access to Smart Technologies & Standards
+
+Adoption
+
+Talents
+
+Regulation is a key enabler of Malaysia’s 
+
+Industry 4.0 transformation. Special emphasis 
+
+will need to be on increasing awareness of 
+
+the need and benefits of adopting Industry 4.0 
+
+technologies and processes. This is 
+
+particularly important for SMEs who still have 
+
+a limited understanding of digital adoption 
+
+and Industry 4.0 and often are concerned 
+
+about the cost and level of change required.
+
+Moreover, to foster an accelerated 
+
+transformation, mechanisms will need to be 
+
+put in place to help manufacturing firms 
+
+understand their current capabilities and what 
+
+it will take for them to transform and 
+
+implement Industry 4.0 technologies and 
+
+upgrade their processes and skills.
+
+Data integrity, security and analysis are 
+
+important areas of focus to ensure seamless 
+
+data flow across value chains. This will also 
+
+help the Government understand priority 
+
+issues across initiatives, ministries and 
+
+agencies in charting effective programmes 
+
+and providing regulatory support.
+
+Industry 4.0 is fundamentally reshaping the 
+
+Understanding of and access to advanced, 
+
+jobs landscape and will foster significant 
+
+cost-effective and interoperable Industry 4.0 
+
+changes in how industrial workers perform 
+
+technologies are at the core of unlocking the 
+
+their jobs. Entirely new jobs with very different 
+
+potential of Industry 4.0. At present, the 
+
+skill requirements will be created, while some 
+
+majority of Malaysian manufacturing firms 
+
+tasks will become obsolete. The shifting 
+
+surveyed adopt less than 50% automation.
+
+employment landscape has significant 
+
+implications for industry, education systems 
+
+The experiences from other countries 
+
+and the Government.
+
+A qualified and skilled workforce is 
+
+indispensable for the introduction and 
+
+adoption of Industry 4.0. The technical 
+
+demonstrate the importance of 
+
+digital/technology labs and collaborative 
+
+platforms, especially public-private 
+
+partnerships (PPPs), in disseminating Industry 
+
+4.0 technologies and transferring knowledge. 
+
+knowledge required is high, and will be 
+
+The Government aims to work with global and 
+
+primarily recruited from the STEM (science, 
+
+local industry leads to set up digital and 
+
+technology, engineering and mathematics) 
+
+Industry 4.0 demonstration labs.
+
+subjects. However, for some years the number 
+
+of STEM graduates has fallen below 
+
+Moreover, standards compliance that fosters 
+
+expectations.
+
+interoperability of systems, both nationally 
+
+and internationally, is important to support 
+
+There is an urgent need to create a skilled 
+
+seamless value chains, optimise resources 
+
+and diverse workforce, with high salary, both 
+
+by upskilling the existing labour pool and by 
+
+and improve productivity.
+
+attracting and developing future talent in the 
+
+Finally, developing and commercialising new 
+
+manufacturing sector. Particular attention also 
+
+technologies and processes that address 
+
+needs to be given to reskilling and upskilling 
+
+specific needs in priority sectors will be 
+
+lesser-skilled workers to other sectors and 
+
+crucial to retain Malaysia’s position as a 
+
+activities.
+
+preferred high-tech and manufacturing hub, 
+
+and supply chain partner.
+
+The
+Strategic
+Enablers
+F.I.R.S.T
+
+45
+
+R
+
+S
+
+T
+
+Regulations
+
+Skills & Talent
+
+Technology
+
+Regulatory Framework & Industry 
+Adoption
+
+Upskilling Existing & Producing Future 
+Talents
+
+Access to Smart Technologies & Standards
+
+Regulation is a key enabler of Malaysia’s 
+Industry 4.0 transformation. Special emphasis 
+will need to be on increasing awareness of 
+the need and benefits of adopting Industry 4.0 
+technologies and processes. This is 
+particularly important for SMEs who still have 
+a limited understanding of digital adoption 
+and Industry 4.0 and often are concerned 
+about the cost and level of change required.
+
+Moreover, to foster an accelerated 
+transformation, mechanisms will need to be 
+put in place to help manufacturing firms 
+understand their current capabilities and what 
+it will take for them to transform and 
+implement Industry 4.0 technologies and 
+upgrade their processes and skills.
+
+Data integrity, security and analysis are 
+important areas of focus to ensure seamless 
+data flow across value chains. This will also 
+help the Government understand priority 
+issues across initiatives, ministries and 
+agencies in charting effective programmes 
+and providing regulatory support.
+
+Industry 4.0 is fundamentally reshaping the 
+jobs landscape and will foster significant 
+changes in how industrial workers perform 
+their jobs. Entirely new jobs with very different 
+skill requirements will be created, while some 
+tasks will become obsolete. The shifting 
+employment landscape has significant 
+implications for industry, education systems 
+and the Government.
+
+A qualified and skilled workforce is 
+indispensable for the introduction and 
+adoption of Industry 4.0. The technical 
+knowledge required is high, and will be 
+primarily recruited from the STEM (science, 
+technology, engineering and mathematics) 
+subjects. However, for some years the number 
+of STEM graduates has fallen below 
+expectations.
+
+There is an urgent need to create a skilled 
+and diverse workforce, with high salary, both 
+by upskilling the existing labour pool and by 
+attracting and developing future talent in the 
+manufacturing sector. Particular attention also 
+needs to be given to reskilling and upskilling 
+lesser-skilled workers to other sectors and 
+activities.
+
+Understanding of and access to advanced, 
+cost-effective and interoperable Industry 4.0 
+technologies are at the core of unlocking the 
+potential of Industry 4.0. At present, the 
+majority of Malaysian manufacturing firms 
+surveyed adopt less than 50% automation.
+
+The experiences from other countries 
+demonstrate the importance of 
+digital/technology labs and collaborative 
+platforms, especially public-private 
+partnerships (PPPs), in disseminating Industry 
+4.0 technologies and transferring knowledge. 
+The Government aims to work with global and 
+local industry leads to set up digital and 
+Industry 4.0 demonstration labs.
+
+Moreover, standards compliance that fosters 
+interoperability of systems, both nationally 
+and internationally, is important to support 
+seamless value chains, optimise resources 
+and improve productivity.
+
+Finally, developing and commercialising new 
+technologies and processes that address 
+specific needs in priority sectors will be 
+crucial to retain Malaysia’s position as a 
+preferred high-tech and manufacturing hub, 
+and supply chain partner.
+
+46
+
+Industry4wrd : National Policy on Industry 4.0
+
+THE
+NATIONAL
+STRATEGIES
+
+F
+
+Funding
+
+Attract
+
+I
+
+Create
+
+R
+
+Infrastructure
+
+Regulations
+
+Funding  &  
+Outcome-based Incentives
+
+Enabling Ecosystem & 
+Efficient Digital 
+Infrastructure
+
+Regulatory Framework & 
+Industry Adoption
+
+2016
+
+RM106,647
+
+Strategy F1:
+
+Strategy I1:
+
+Strategy R1:
+
+Strategy S1:
+
+Strategy T1:
+
+Labour
+Productivity
+
+RM254b
+
+Manufacturing
+Contribution
+
+35
+
+Ranking in Global
+Innovation Index
+
+18%
+
+High-skilled Workers in
+Manufacturing
+Sector
+
+Provide outcome-based 
+incentives, including tax 
+incentives to encourage 
+investments in, and adoption 
+of, Industry 4.0 technologies 
+& processes
+
+Strengthen the digital 
+connectivity in and between 
+industrial, education and training 
+hubs to remove connectivity 
+bottlenecks in adopting Industry 
+4.0 technologies
+
+Increase awareness of the 
+need, benefits and 
+opportunities of Industry 4.0 
+technologies and business 
+processes among 
+manufacturing firms
+
+Strategy F2:
+
+Strategy I2:
+
+Strategy R2:
+
+Strategy S2:
+
+Strategy T2:
+
+Introduce dynamic and 
+innovative financial products 
+to encourage the adoption of 
+Industry 4.0 technologies & 
+processes
+
+Enhance the digitalisation and 
+integration of Government 
+processes and infrastructure 
+along supply and manufacturing 
+value chains
+
+Create a platform and 
+mechanism to help 
+manufacturing and related 
+services firms, especially 
+SMEs, assess and develop 
+their Industry 4.0 capabilities
+
+Strategy I3:
+
+Strategy R3:
+
+Involve service providers for 
+Industry 4.0 and link them to 
+manufacturing firms to help 
+implement technologies, 
+processes and skills 
+development
+
+Improve data integrity, standards, 
+sharing and security to facilitate 
+seamless integration of 
+manufacturing value chains and 
+support intra-ministerial 
+coordination for effective Industry 
+4.0 programmes
+
+Transform
+
+S
+
+Skills & Talent
+
+Upskilling Existing & 
+
+Producing Future Talent
+
+T
+
+Technology
+
+Access to (cid:31)Smart 
+
+Technologies 
+
+& Standards
+
+Enhance capabilities of existing 
+
+workforce through national 
+
+development programmes specially 
+
+designed for specific manufacturing 
+
+sectors and support reskilling and 
+
+upskilling
+
+Establish digital/technology labs and 
+
+collaborative platforms, especially 
+
+public-private partnerships (PPPs), to 
+
+create awareness and understanding, 
+
+foster the adoption of new 
+
+technologies, and facilitate the transfer 
+
+of knowledge
+
+Ensure the availability of future 
+
+talent by equipping students with 
+
+the necessary skillsets to work in 
+
+the Industry 4.0 environment
+
+Establish and implement standards for 
+
+interoperability, quality and safety for 
+
+smart manufacturing and Industry 4.0 
+
+technologies
+
+Strategy T3:
+
+Intensify Research, Innovation, 
+
+Commercialisation and 
+
+Entrepreneurship (RICE) programmes 
+
+and activities in specific Industry 4.0 
+
+technologies and processes that 
+
+support and advance priority sectors
+
+2025
+
++30%
+
+Labour Productivity
+
+Growth
+
+RM392b
+
+Manufacturing
+
+Contribution
+
+30
+
+Top 30 Ranking
+
+in  Global
+
+Innovation Index
+
+35%
+
+High-skilled
+
+Workers in
+
+Manufacturing
+
+Sector
+
+Attract
+
+I
+
+Create
+
+R
+
+F
+
+Funding
+
+Infrastructure
+
+Regulations
+
+Funding  &  
+
+Outcome-based Incentives
+
+Enabling Ecosystem & 
+
+Efficient Digital 
+
+Infrastructure
+
+Regulatory Framework & 
+
+Industry Adoption
+
+Provide outcome-based 
+
+incentives, including tax 
+
+incentives to encourage 
+
+investments in, and adoption 
+
+of, Industry 4.0 technologies 
+
+& processes
+
+Strengthen the digital 
+
+connectivity in and between 
+
+industrial, education and training 
+
+hubs to remove connectivity 
+
+bottlenecks in adopting Industry 
+
+4.0 technologies
+
+Increase awareness of the 
+
+need, benefits and 
+
+opportunities of Industry 4.0 
+
+technologies and business 
+
+processes among 
+
+manufacturing firms
+
+2016
+
+Labour
+
+Productivity
+
+RM254b
+
+Manufacturing
+
+Contribution
+
+35
+
+Ranking in Global
+
+Innovation Index
+
+18%
+
+High-skilled Workers in
+
+Manufacturing
+
+Sector
+
+Transform
+
+S
+
+Skills & Talent
+
+Upskilling Existing & 
+Producing Future Talent
+
+T
+
+Technology
+
+Access to (cid:31)Smart 
+Technologies 
+& Standards
+
+RM106,647
+
+Strategy F1:
+
+Strategy I1:
+
+Strategy R1:
+
+Strategy S1:
+
+Strategy T1:
+
+Enhance capabilities of existing 
+workforce through national 
+development programmes specially 
+designed for specific manufacturing 
+sectors and support reskilling and 
+upskilling
+
+Establish digital/technology labs and 
+collaborative platforms, especially 
+public-private partnerships (PPPs), to 
+create awareness and understanding, 
+foster the adoption of new 
+technologies, and facilitate the transfer 
+of knowledge
+
+Strategy F2:
+
+Strategy I2:
+
+Strategy R2:
+
+Strategy S2:
+
+Strategy T2:
+
+Introduce dynamic and 
+
+innovative financial products 
+
+to encourage the adoption of 
+
+Industry 4.0 technologies & 
+
+processes
+
+Enhance the digitalisation and 
+
+integration of Government 
+
+processes and infrastructure 
+
+along supply and manufacturing 
+
+value chains
+
+Create a platform and 
+
+mechanism to help 
+
+manufacturing and related 
+
+services firms, especially 
+
+SMEs, assess and develop 
+
+their Industry 4.0 capabilities
+
+Ensure the availability of future 
+talent by equipping students with 
+the necessary skillsets to work in 
+the Industry 4.0 environment
+
+Establish and implement standards for 
+interoperability, quality and safety for 
+smart manufacturing and Industry 4.0 
+technologies
+
+Strategy I3:
+
+Strategy R3:
+
+Involve service providers for 
+
+Industry 4.0 and link them to 
+
+manufacturing firms to help 
+
+implement technologies, 
+
+processes and skills 
+
+development
+
+Improve data integrity, standards, 
+
+sharing and security to facilitate 
+
+seamless integration of 
+
+manufacturing value chains and 
+
+support intra-ministerial 
+
+coordination for effective Industry 
+
+4.0 programmes
+
+Strategy T3:
+
+Intensify Research, Innovation, 
+Commercialisation and 
+Entrepreneurship (RICE) programmes 
+and activities in specific Industry 4.0 
+technologies and processes that 
+support and advance priority sectors
+
+47
+
+2025
+
++30%
+
+Labour Productivity
+Growth
+
+RM392b
+
+Manufacturing
+Contribution
+
+30
+
+Top 30 Ranking
+in  Global
+Innovation Index
+
+35%
+
+High-skilled
+Workers in
+Manufacturing
+Sector
+
+48
+
+Industry4wrd : National Policy on Industry 4.0
+
+FUNDING & OUTCOME-BASED INCENTIVES
+
+FUNDING & OUTCOME-BASED INCENTIVES
+
+F1STRATEGY
+
+Provide outcome-based incentives, including tax incentives to 
+encourage investments in, and adoption of, Industry 4.0 
+technologies & processes
+
+F2STRATEGY
+
+Introduce dynamic and innovative financial products to encourage 
+
+the adoption of Industry 4.0 technologies & processes
+
+RATIONALE
+The Government aims to support industry transformation and develop local technologies by providing and aligning 
+incentives with targeted outcomes to manufacturing firms and solution providers
+
+In fulfilling the needs of diverse and innovative businesses, the Government and private sector will spur the 
+
+implementation of Industry 4.0 through dynamic and innovative funding options for local firms, SMEs and start-ups 
+
+RATIONALE
+
+as well as MNCs
+
+STRATEGIC OUTCOMES
+
+STRATEGIC OUTCOMES
+
+Fiscal and non-fiscal incentives for local firms, SMEs and start-ups as well as multinational corporations (MNCs) that deploy or 
+develop Industry 4.0 technologies and processes
+
+A suite of comprehensive financial products that local firms, SMEs and start-ups as well as MNCs can leverage on in line with 
+
+their needs in implementing and adopting Industry 4.0 technologies and processes, across all stages of business lifecycle
+
+Development funds for adoption, development or deployment of Industry 4.0 technologies and processes
+
+ACTION PLANS/PROGRAMMES
+
+ACTION PLANS/PROGRAMMES
+
+Explore the realigning and leveraging of incentive packages to encourage the adoption of Industry 4.0 among local firms, 
+especially SMEs
+
+Explore the provision of incentive packages to MNCs partnering with local firms, especially SMEs, to expedite the adoption and 
+implementation of Industry 4.0
+
+Explore the creation of Government-led development funds for Industry 4.0
+
+Create an enabling ecosystem to encourage financial service providers to provide various financing options for Industry 4.0 
+
+Explore and align new and existing alternative financing including venture capital, crowd funding and other intermediaries to 
+
+expedite the adoption and implementation of Industry 4.0
+
+FUNDING & OUTCOME-BASED INCENTIVES
+
+49
+
+F2STRATEGY
+
+Introduce dynamic and innovative financial products to encourage 
+the adoption of Industry 4.0 technologies & processes
+
+RATIONALE
+In fulfilling the needs of diverse and innovative businesses, the Government and private sector will spur the 
+implementation of Industry 4.0 through dynamic and innovative funding options for local firms, SMEs and start-ups 
+as well as MNCs
+
+STRATEGIC OUTCOMES
+
+A suite of comprehensive financial products that local firms, SMEs and start-ups as well as MNCs can leverage on in line with 
+their needs in implementing and adopting Industry 4.0 technologies and processes, across all stages of business lifecycle
+
+Development funds for adoption, development or deployment of Industry 4.0 technologies and processes
+
+ACTION PLANS/PROGRAMMES
+
+Explore the creation of Government-led development funds for Industry 4.0
+
+Create an enabling ecosystem to encourage financial service providers to provide various financing options for Industry 4.0 
+
+Explore and align new and existing alternative financing including venture capital, crowd funding and other intermediaries to 
+expedite the adoption and implementation of Industry 4.0
+
+50
+
+Industry4wrd : National Policy on Industry 4.0
+
+ENABLING ECOSYSTEM & EFFICIENT DIGITAL INFRASTRUCTURE
+
+ENABLING ECOSYSTEM & EFFICIENT DIGITAL INFRASTRUCTURE
+
+I1
+
+STRATEGY
+
+Strengthen the digital connectivity in and between industrial, 
+education and training hubs to remove connectivity bottlenecks in 
+adopting Industry 4.0 technologies
+
+I2
+
+STRATEGY
+
+Enhance the digitalisation and integration of Government processes 
+
+and infrastructure along supply and manufacturing value chains
+
+RATIONALE
+Fast and secure data connection is a basic requirement for the realisation of Industry 4.0. technologies and services. 
+Malaysia has already deployed High Speed Broadband (HSBB) and 4G technologies on a widespread basis. However, 
+there are still some gaps in key industrial and training locations that could impact the adoption and development of 
+Industry 4.0 technologies and processes.
+This strategy aims to systematically address and remove key connectivity bottlenecks in priority locations. 
+
+RATIONALE
+
+Digitalising and integrating Government processes and infrastructure elements along value chains will be key to enable 
+
+secure data flow, assure seamless movement of goods, and drive improvements in efficiency and productivity. 
+
+A number of Government processes are not yet digitalised and will need to be optimised, digitalised and integrated 
+
+to support Malaysia’s Industry 4.0 transformation. These include certain approvals, licensing, certification, clearance 
+
+of goods and other processes.
+
+STRATEGIC OUTCOMES
+
+STRATEGIC OUTCOMES
+
+High speed, reliable and affordable connectivity for industrial, education and training hubs 
+
+End-to-end digitalisation of Government processes along the manufacturing and supply value chains
+
+Adoption of digital and Industry 4.0 technologies and processes among manufacturing firms and related services providers
+
+Seamless movement of goods and services among manufacturers, suppliers and supporting agencies with improved visibility 
+
+ACTION PLANS/PROGRAMMES
+
+Prioritise and expedite the implementation of HSBB at key industrial areas and training centres
+
+Assess priority Government-related processes and elements that impact manufacturing and supply chains and Industry 4.0 
+
+Encourage the deployment of converged networks that are essential for Industry 4.0 technologies
+
+Support the accelerated digitalisation and integration of these processes, led by the respective Government agencies
+
+and optimised resourcing
+
+ACTION PLANS/PROGRAMMES
+
+transformation
+
+ENABLING ECOSYSTEM & EFFICIENT DIGITAL INFRASTRUCTURE
+
+51
+
+I2
+
+STRATEGY
+
+Enhance the digitalisation and integration of Government processes 
+and infrastructure along supply and manufacturing value chains
+
+RATIONALE
+Digitalising and integrating Government processes and infrastructure elements along value chains will be key to enable 
+secure data flow, assure seamless movement of goods, and drive improvements in efficiency and productivity. 
+A number of Government processes are not yet digitalised and will need to be optimised, digitalised and integrated 
+to support Malaysia’s Industry 4.0 transformation. These include certain approvals, licensing, certification, clearance 
+of goods and other processes.
+
+STRATEGIC OUTCOMES
+
+End-to-end digitalisation of Government processes along the manufacturing and supply value chains
+
+Seamless movement of goods and services among manufacturers, suppliers and supporting agencies with improved visibility 
+and optimised resourcing
+
+ACTION PLANS/PROGRAMMES
+
+Assess priority Government-related processes and elements that impact manufacturing and supply chains and Industry 4.0 
+transformation
+
+Support the accelerated digitalisation and integration of these processes, led by the respective Government agencies
+
+52
+
+Industry4wrd : National Policy on Industry 4.0
+
+ENABLING ECOSYSTEM & EFFICIENT DIGITAL INFRASTRUCTURE
+
+I3
+
+STRATEGY
+
+Involve service providers for Industry 4.0 and link them to 
+manufacturing firms to help implement technologies, processes and 
+skills development
+
+RATIONALE
+Services related to Industry 4.0 are important to help Malaysian companies accelerate their transition, especially in 
+developing people, transforming processes and adopting technologies. 
+Hence, Industry 4.0 service providers need to be involved as an integral part of the ecosystem and be connected to 
+manufacturing firms, especially SMEs, who often have limited visibility.
+
+STRATEGIC OUTCOMES
+
+End-to-end ecosystem support and service provider visibility for manufacturing firms
+
+Improved performance of service providers in helping manufacturing firms adopt and transform to Industry 4.0
+
+ACTION PLANS/PROGRAMMES
+
+Develop and disseminate a catalogue of service providers
+
+Link service providers to manufacturing firms and SMEs through collaborative platforms 
+
+Support digital adoption within the manufacturing value chain with a structured approach and measurable outcomes
+
+53
+
+54
+
+Industry4wrd : National Policy on Industry 4.0
+
+REGULATORY FRAMEWORK & INDUSTRY ADOPTION
+
+REGULATORY FRAMEWORK & INDUSTRY ADOPTION
+
+R1STRATEGY
+
+Increase awareness of the need, benefits and opportunities of 
+Industry 4.0 technologies and business processes among 
+manufacturing firms
+
+R2STRATEGY
+
+Create a platform and mechanism to help manufacturing and related 
+
+services firms, especially SMEs, assess and develop their Industry 
+
+4.0 capabilities
+
+RATIONALE
+Lack of awareness in digitalisation and Industry 4.0 is one of the main barriers to embark on smart 
+manufacturing transformation. 
+A greater understanding of Industry 4.0 is crucial for manufacturing firms to make informed decisions on investments, 
+especially on assessing impact, determining costs and benefits of automation, and capitalising on data.
+Structured awareness programmes are needed to educate and promote the understanding and need for action to 
+local firms, particularly SMEs.
+
+For many companies, Industry 4.0 will be a major transformation, not only in terms of investment in technologies but also changes in business 
+
+The experiences of other countries show that assessment tools and platforms for learning and sharing of best practices help companies, especially SMEs, 
+
+Implementing this strategy will require a close collaboration with different industry associations to ensure focus on the priorities.
+
+This strategy will also help the Government better assess the broader needs, challenges and priorities of Malaysian manufacturing firms.
+
+pinpoint priorities of what to address and how to transform. 
+
+RATIONALE
+
+processes and culture.
+
+STRATEGIC OUTCOMES
+
+STRATEGIC OUTCOMES
+
+Increased understanding of the need, benefits and opportunities of Industry 4.0
+
+Better understanding of best practices, own capabilities and transformation requirements by manufacturing firms
+
+More manufacturing firms adopting Industry 4.0 technologies and processes
+
+Profile of the state of readiness of local manufacturing industry in adopting Industry 4.0 for targeted technological improvement 
+
+ACTION PLANS/PROGRAMMES
+
+Undertake a comprehensive Industry 4.0 awareness program across all stakeholders with particular focus on SMEs
+
+Create tools and processes to help manufacturing and related services firms, assess their capabilities and readiness to adopt 
+
+Create a regulatory sandbox that enables firms to manage regulatory risks during testing stage
+
+and support prioritisation
+
+ACTION PLANS/PROGRAMMES
+
+Industry 4.0 technologies and processes
+
+Establish a national Readiness Assessment Programme as a tool for conducting assessment, sharing global and local best 
+
+practices, supporting the development of local firms and identifying national Industry 4.0 priorities
+
+Establish collaborative programmes with other countries that are leading in the Industry 4.0 transformation to share best 
+
+practices and help guide Malaysia’s programmes for optimal impact
+
+REGULATORY FRAMEWORK & INDUSTRY ADOPTION
+
+55
+
+R2STRATEGY
+
+Create a platform and mechanism to help manufacturing and related 
+services firms, especially SMEs, assess and develop their Industry 
+4.0 capabilities
+
+RATIONALE
+For many companies, Industry 4.0 will be a major transformation, not only in terms of investment in technologies but also changes in business 
+processes and culture.
+The experiences of other countries show that assessment tools and platforms for learning and sharing of best practices help companies, especially SMEs, 
+pinpoint priorities of what to address and how to transform. 
+Implementing this strategy will require a close collaboration with different industry associations to ensure focus on the priorities.
+This strategy will also help the Government better assess the broader needs, challenges and priorities of Malaysian manufacturing firms.
+
+STRATEGIC OUTCOMES
+
+Better understanding of best practices, own capabilities and transformation requirements by manufacturing firms
+
+Profile of the state of readiness of local manufacturing industry in adopting Industry 4.0 for targeted technological improvement 
+and support prioritisation
+
+ACTION PLANS/PROGRAMMES
+
+Create tools and processes to help manufacturing and related services firms, assess their capabilities and readiness to adopt 
+Industry 4.0 technologies and processes
+
+Establish a national Readiness Assessment Programme as a tool for conducting assessment, sharing global and local best 
+practices, supporting the development of local firms and identifying national Industry 4.0 priorities
+
+Establish collaborative programmes with other countries that are leading in the Industry 4.0 transformation to share best 
+practices and help guide Malaysia’s programmes for optimal impact
+
+56
+
+Industry4wrd : National Policy on Industry 4.0
+
+REGULATORY FRAMEWORK & INDUSTRY ADOPTION
+
+R3STRATEGY
+
+Improve data integrity, standards, sharing and security to facilitate 
+seamless integration of manufacturing value chains and to support 
+intra-ministerial coordination for effective Industry 4.0 programmes
+
+RATIONALE
+A significant barrier to enable seamless digital flow along manufacturing and supply chains is the lack of standards, 
+interoperability and governance for both data and intellectual properties. 
+Issues with data integrity and interoperability can also affect intra-ministerial and industry coordination and effective 
+analysis in identifying programme and regulatory priorities. 
+This will require both the development of standards and security protocols and integration especially across
+ministries and agencies.
+This strategy supports strategy I2, the digitalisation and integration of Government processes into manufacturing 
+supply chains.
+
+STRATEGIC OUTCOMES
+
+Integrated, standardised, secure and trusted data ecosystem that enables seamless data flow throughout major manufacturing 
+and supply chains 
+
+Better understanding and analysis of priority issues across initiatives, ministries and agencies, driving more effective 
+programmes and regulatory support
+
+ACTION PLANS/PROGRAMMES
+
+Identify and implement effective, streamlined and standardised data, laws, regulations and compliance protocols within and 
+between ministries and agencies
+
+Collaborate with businesses to ensure suitable standards are in place for data privacy, including appropriate handling, ownership 
+and storage
+
+Create a manufacturing industry data depository that will enable sharing and analyses across all ministries and agencies
+
+Establish a set of cybersecurity and IoT security guidelines for Industry 4.0 as part of Malaysia’s broader development of 
+cybersecurity capabilities
+
+57
+
+58
+
+Industry4wrd : National Policy on Industry 4.0
+
+UPSKILLING EXISTING & PRODUCING FUTURE TALENT
+
+UPSKILLING EXISTING & PRODUCING FUTURE TALENT
+
+S1STRATEGY
+
+Enhance the capabilities of the existing workforce through national 
+development programmes specially designed for specific 
+manufacturing sectors and support reskilling and upskilling
+
+S2STRATEGY
+
+Ensure the availability of future talent by equipping students with 
+
+the necessary skillsets to work in the Industry 4.0 environment
+
+RATIONALE
+The transition to smart manufacturing business models, technologies and processes is rapidly changing the required skill sets for 
+the existing workforce. Many firms, especially SMEs, will require more structured and up-to-date training and skills development 
+avenues for developing and maintaining world-class practices and capabilities within their workforce, including experts with 
+advanced Industry 4.0 knowledge.
+This strategy aims to both upskill the existing workforce and mitigate the potential impact on jobs.
+
+Ensuring the pipeline of future talent in the manufacturing sector is important as advances in manufacturing techniques and 
+
+processes require a higher skilled and more educated workforce. The focus on technical and vocational education and training 
+
+(TVET), and science, technology, engineering and mathematics (STEM) education will be of priority to ensure a continuous supply 
+
+Structured industrial training programmes between industry and academia are able to close the gap between classroom modules 
+
+and skills required in the working environment. There is also a need to raise the profile of high-tech manufacturing industry as an 
+
+attractive workplace and career option. This will be key to attracting more students to STEM subjects.
+
+RATIONALE
+
+of highly qualified talent.
+
+STRATEGIC OUTCOMES
+
+STRATEGIC OUTCOMES
+
+Increase in overall labour productivity due to upskilling and reskilling of the existing workforce
+
+Increase in number of high-skilled and multi-skilled workers with high wages in the manufacturing industry, particularly in high 
+value-added activities
+
+Mitigation of potential job losses as a result of automation and technology adoption
+
+Continuous availability of Industry 4.0 talent for
+
+Graduates equipped with relevant and practical 
+
+the manufacturing industry
+
+Industry 4.0 skills
+
+Increased number of TVET and STEM students
+
+Increased industry-academia collaboration
+
+ACTION PLANS/PROGRAMMES
+
+ACTION PLANS/PROGRAMMES
+
+Create an Industry 4.0 Talent Competency & Technology Mentoring programmes to drive broader workforce development 
+initiatives in line with specific sector requirements
+
+Boost support for TVET and STEM education programmes, in part by increasing funding for vocational education and training 
+
+Establish Skills Certification programmes in Industry 4.0 areas
+
+Develop tailored training courses for the reskilling of transitioning employees
+
+Enhance classroom modules for intensive upskilling programmes by using augmented or virtual reality (AR/VR)
+
+Enable the availability of data on Industry 4.0 talent and labour pools for the Government, academia and industry (in order to 
+chart future action plans)
+
+programmes
+
+opportunities
+
+and university graduates
+
+sectors
+
+Integrate theory and practical Industry 4.0 applications into tertiary education curricula, including structuring industry placement 
+
+Promote manufacturing as a preferred option for high-skilled jobs to overcome public perception and attract both skilled labour 
+
+Enhance and increase the capacity and capability of educators, trainers and instructors in the manufacturing-related education 
+
+ 
+UPSKILLING EXISTING & PRODUCING FUTURE TALENT
+
+59
+
+S2STRATEGY
+
+Ensure the availability of future talent by equipping students with 
+the necessary skillsets to work in the Industry 4.0 environment
+
+RATIONALE
+Ensuring the pipeline of future talent in the manufacturing sector is important as advances in manufacturing techniques and 
+processes require a higher skilled and more educated workforce. The focus on technical and vocational education and training 
+(TVET), and science, technology, engineering and mathematics (STEM) education will be of priority to ensure a continuous supply 
+of highly qualified talent.
+Structured industrial training programmes between industry and academia are able to close the gap between classroom modules 
+and skills required in the working environment. There is also a need to raise the profile of high-tech manufacturing industry as an 
+attractive workplace and career option. This will be key to attracting more students to STEM subjects.
+
+STRATEGIC OUTCOMES
+
+Continuous availability of Industry 4.0 talent for
+the manufacturing industry
+
+Graduates equipped with relevant and practical 
+Industry 4.0 skills
+
+Increased number of TVET and STEM students
+
+Increased industry-academia collaboration
+
+ACTION PLANS/PROGRAMMES
+
+Boost support for TVET and STEM education programmes, in part by increasing funding for vocational education and training 
+programmes
+
+Integrate theory and practical Industry 4.0 applications into tertiary education curricula, including structuring industry placement 
+opportunities
+
+Promote manufacturing as a preferred option for high-skilled jobs to overcome public perception and attract both skilled labour 
+and university graduates
+
+Enhance and increase the capacity and capability of educators, trainers and instructors in the manufacturing-related education 
+sectors
+
+60
+
+Industry4wrd : National Policy on Industry 4.0
+
+ACCESS TO SMART TECHNOLOGIES & STANDARDS
+
+ACCESS TO SMART TECHNOLOGIES & STANDARDS
+
+ACCESS TO SMART TECHNOLOGIES & STANDARDS
+
+T1STRATEGY
+
+Establish digital/technology labs and collaborative platforms, 
+especially public-private partnerships (PPPs), to create awareness 
+and understanding, foster the adoption of new technologies, and 
+facilitate the transfer of knowledge
+
+T2STRATEGY
+
+Establish and implement standards for interoperability, quality and 
+
+safety for smart manufacturing and Industry 4.0 technologies
+
+RATIONALE
+Digital and technology labs by manufacturing leaders create showcase for local companies, especially SMEs, to 
+understand available and best-in-class technologies and practical use cases, and engage in collaborative
+deployment efforts.
+PPPs is a proven concept to help expedite the adoption of new technologies in priority areas.
+The Government intends to work with local and global leaders to establish more digital and technology labs and 
+collaborative platforms through PPPs.
+
+Standards and interoperability of systems are important to facilitate extensive adoption of Industry 4.0 
+
+technologies and processes, given the need for collaboration and integration along manufacturing and supply 
+
+chains. These standards need to be clear, well documented and accessible, and allow Malaysian-based 
+
+manufacturing firms to integrate both within local and global production networks and supply chains.
+
+RATIONALE
+
+STRATEGIC OUTCOMES
+
+STRATEGIC OUTCOMES
+
+Access for local companies, especially SMEs, to key enabling Industry 4.0 technologies and partners
+
+Standardisation for interoperability of Industry 4.0 technologies and processes
+
+Stronger collaboration in deploying new technologies across value chains
+
+PPPs for industry, academia, Government and other stakeholders to work for a targeted outcome in Industry 4.0
+
+Seamless integration and interoperability in local and global manufacturing and supply value chains
+
+ACTION PLANS/PROGRAMMES
+
+ACTION PLANS/PROGRAMMES
+
+Support leading global and local industry leaders to establish digital and technology labs that showcase the potential 
+applications, benefits and proof of concept of new technologies for industry adoption
+
+Establish an inventory of, and develop Industry 4.0-related standards – consolidate, harmonise and align with global standards
+
+Address interoperability barriers by implementing appropriate and advanced industry standards, in close consultation with
+
+Create PPPs and collaborative programmes for manufacturing activities that foster digital adoption, collaborative deployment and 
+development of local capabilities, especially in priority sectors and technologies
+
+the industry
+
+Provide local firms, especially SMEs, with open access to smart manufacturing research, tools and technologies and help them 
+understand what can be applied in the early stages of adoption
+
+ACCESS TO SMART TECHNOLOGIES & STANDARDS
+ACCESS TO SMART TECHNOLOGIES & STANDARDS
+
+61
+
+T2STRATEGY
+
+Establish and implement standards for interoperability, quality and 
+safety for smart manufacturing and Industry 4.0 technologies
+
+RATIONALE
+Standards and interoperability of systems are important to facilitate extensive adoption of Industry 4.0 
+technologies and processes, given the need for collaboration and integration along manufacturing and supply 
+chains. These standards need to be clear, well documented and accessible, and allow Malaysian-based 
+manufacturing firms to integrate both within local and global production networks and supply chains.
+
+STRATEGIC OUTCOMES
+
+Standardisation for interoperability of Industry 4.0 technologies and processes
+
+Seamless integration and interoperability in local and global manufacturing and supply value chains
+
+ACTION PLANS/PROGRAMMES
+
+Establish an inventory of, and develop Industry 4.0-related standards – consolidate, harmonise and align with global standards
+
+Address interoperability barriers by implementing appropriate and advanced industry standards, in close consultation with
+the industry
+
+62
+
+Industry4wrd : National Policy on Industry 4.0
+
+ACCESS TO SMART TECHNOLOGIES & STANDARDS
+
+T3STRATEGY
+
+Intensify Research, Innovation, Commercialisation and 
+Entrepreneurship (RICE) programs and activities in specific 
+Industry 4.0 technologies and processes that support and 
+advance priority sectors
+
+RATIONALE
+Growth opportunities in the manufacturing sector will need to be supported by technological innovation from 
+both private and public research communities. Sustained growth in the manufacturing sector will require 
+proactive investments in advancing and enabling Industry 4.0 technologies and processes.
+A further step up in Malaysia’s innovation capabilities will be important to propel priority sectors and 
+technologies and reinforce Malaysia’s position as preferred high-tech manufacturing destination.
+
+STRATEGIC OUTCOMES
+
+Increase in capacity and capability of Malaysian firms, start-ups, universities and research institutes in Industry 4.0 technologies
+
+Production and commercialisation of high value and innovative products and services
+
+Position as primary destination for high-tech industry
+
+ACTION PLANS/PROGRAMMES
+
+Prioritise technology development programmes on Industry 4.0 that strengthen the overall research, innovation, 
+commercialisation and entrepreneurship (RICE) capacity and provide solutions for priority sectors
+
+Improve understanding by, and access for, manufacturing firms of existing Industry 4.0 research facilities and ongoing R&D
+
+Create technology development and experimentation labs for collaborative Industry 4.0 technology and solutions development
+
+63
+
+64
+
+Industry4wrd : National Policy on Industry 4.0
+
+IMPLEMENTATION  APPROACH
+
+The strategies and 
+action plans outlined 
+in this Policy require  
+collaborative efforts 
+across multiple 
+stakeholders and 
+organisations.
+To accelerate or 
+improve the intended 
+outcome of these 
+actions, a number of 
+factors must be 
+taken into 
+consideration to 
+identify the most 
+efficient and 
+effective 
+implementation 
+approach. This 
+includes but not 
+limited to: 
+
+Not a one-stop 
+solution 
+Although efforts
+have been taken to 
+incorporate all possible 
+interventions, this Policy 
+is not a solution to all.
+
+Multi-ministries 
+jurisdictions 
+The strategies and 
+action plans in this 
+Policy form a 
+systemic solution for 
+the manufacturing 
+industry and its 
+related services.
+
+One size fits all – breadth and depth 
+This Policy provides broad strategies and action 
+plans. It is premised upon the principle that each 
+sector within the manufacturing industry has 
+different levels of readiness in embracing and 
+adopting Industry 4.0. Further work is required 
+to customise these recommendations for each 
+sector depending on their needs and priorities.
+
+Differentiating circumstances
+
+In recognising the best practices among manufacturing 
+
+ecosystems such as Germany and Japan, it is acknowledged 
+
+that the needs and the driving factors of these countries are 
+
+very much different from Malaysia’s. An exact replication of 
+
+their successful systems would not work well in Malaysia’s 
+
+context due to these differences. As such, each manufacturing 
+
+sub-sector needs to consider which elements of these 
+
+international benchmarks could be adopted.
+
+Solutions for SMEs 
+
+Majority of the manufacturing firms are SMEs. They typically have lower 
+
+levels of collaboration in research, limited access to high performing 
+
+graduates and lack of capital to invest in strategic planning.  However, the 
+
+agility and specialisation of SMEs will be critical in achieving the 8-year vision 
+
+for the manufacturing sector. In implementing the suggested actions, it is 
+
+important to ensure solutions are accessible and effective for SMEs, and that 
+
+the research community and larger businesses are more incentivised to 
+
+collaborate with SMEs.
+
+Transforming Malaysian manufacturing sector is not a short-term 
+
+process, where many industries having experienced significant 
+
+challenges for decades. A supportive policy environment is required 
+
+over the next decade to provide businesses with stability and allow 
+
+them to execute these long-term strategies. 
+
+65
+
+The strategies and 
+
+action plans outlined 
+
+in this Policy require  
+
+collaborative efforts 
+
+across multiple 
+
+stakeholders and 
+
+organisations.
+
+To accelerate or 
+
+improve the intended 
+
+outcome of these 
+
+actions, a number of 
+
+factors must be 
+
+taken into 
+
+consideration to 
+
+identify the most 
+
+efficient and 
+
+effective 
+
+implementation 
+
+approach. This 
+
+includes but not 
+
+limited to: 
+
+Not a one-stop 
+
+solution 
+
+Although efforts
+
+have been taken to 
+
+incorporate all possible 
+
+interventions, this Policy 
+
+is not a solution to all.
+
+Multi-ministries 
+
+jurisdictions 
+
+The strategies and 
+
+action plans in this 
+
+Policy form a 
+
+systemic solution for 
+
+the manufacturing 
+
+industry and its 
+
+related services.
+
+One size fits all – breadth and depth 
+
+This Policy provides broad strategies and action 
+
+plans. It is premised upon the principle that each 
+
+sector within the manufacturing industry has 
+
+different levels of readiness in embracing and 
+
+adopting Industry 4.0. Further work is required 
+
+to customise these recommendations for each 
+
+sector depending on their needs and priorities.
+
+Differentiating circumstances
+In recognising the best practices among manufacturing 
+ecosystems such as Germany and Japan, it is acknowledged 
+that the needs and the driving factors of these countries are 
+very much different from Malaysia’s. An exact replication of 
+their successful systems would not work well in Malaysia’s 
+context due to these differences. As such, each manufacturing 
+sub-sector needs to consider which elements of these 
+international benchmarks could be adopted.
+
+Solutions for SMEs 
+Majority of the manufacturing firms are SMEs. They typically have lower 
+levels of collaboration in research, limited access to high performing 
+graduates and lack of capital to invest in strategic planning.  However, the 
+agility and specialisation of SMEs will be critical in achieving the 8-year vision 
+for the manufacturing sector. In implementing the suggested actions, it is 
+important to ensure solutions are accessible and effective for SMEs, and that 
+the research community and larger businesses are more incentivised to 
+collaborate with SMEs.
+
+Transforming Malaysian manufacturing sector is not a short-term 
+process, where many industries having experienced significant 
+challenges for decades. A supportive policy environment is required 
+over the next decade to provide businesses with stability and allow 
+them to execute these long-term strategies. 
+
+66
+
+Industry4wrd : National Policy on Industry 4.0
+
+MOVING
+FORWARD
+
+GOVERNANCE  & OVERSIGHT
+
+Propelling Malaysia’s Industry 4.0 transformation will require a concerted effort across many ministries and agencies, industry, research facilities and 
+academic institutes. MITI will oversee and manage the Malaysia Industry4WRD Council, chaired by the Minister of International Trade and Industry, and 
+work with various working groups to coordinate all stakeholder activities and drive progress.
+
+Industry4WRD Council
+(MITI Minister)
+
+Council Members
+
+Government
+
+Industry
+
+High Level Task Force
+(Secretary General MITI)
+
+Technical Working Groups*
+
+Frequency
+
+Bi-Annual
+
+Secretariat
+(Industry 4.0 Unit, MITI)
+
+Quarterly
+
+Quarterly
+
+Responsibilities (TOR)
+
+Review progress of individual project KPIs, ensure milestones and targets are met
+
+Approval and strategic issue resolution of all projects
+
+Remove operational roadblocks/issues
+
+Monitor overall project cost, safety and manpower needs
+
+Escalate strategic issues to Cabinet
+
+Provide risk management input on key decisions
+
+Endorse any change management to the projects
+
+National Outcomes
+
+Labour Productivity 
+
+GDP Contribution
+
+High skilled workers
+
+Budget requirements
+
+Ranking in Global Innovation Index
+
+F
+
+Funding
+(MOF)
+
+I
+
+R
+
+S
+
+T
+
+Infrastructure
+(KKMM)
+
+Regulations
+(MITI)
+
+Skills & Talent
+(MOHR/MOE)
+
+Technology
+(MESTECC)
+
+* Each Technical Working Group will be co-chaired by an Industry Lead
+
+Provides a consolidated ‘big picture’ achievement of all projects
+
+Update overall Program/Project progress to Industry4WRD Council.
+
+Raise the ‘red flag’ on KPIs that are delayed and problematic to Industry4WRD Council and work together with project team for quick resolution
+
+67
+
+68
+
+Industry4wrd : National Policy on Industry 4.0
+
+Attract
+
+I
+
+Create
+
+R
+
+Infrastructure
+
+Regulations
+
+F
+
+Funding
+
+Funding  &  
+Outcome-based Incentives
+
+Enabling Ecosystem & 
+Efficient Digital 
+Infrastructure
+
+Regulatory Framework & 
+Industry Adoption
+
+Transform
+
+S
+
+Skills & Talent
+
+Upskilling Existing & 
+
+Producing Future Talent
+
+T
+
+Technology
+
+Access to(cid:31)Smart 
+
+Technologies 
+
+& Standards
+
+Strategy F1:
+
+Strategy I1:
+
+Strategy R1:
+
+Strategy S1:
+
+Strategy T1:
+
+LEAD
+AGENCIES
+
+MINISTRY OF FINANCE
+
+MINISTRY OF INTERNATIONAL 
+TRADE AND INDUSTRY
+
+MINISTRY OF COMMUNICATIONS AND MULTIMEDIA MALAYSIA
+
+MINISTRY OF INTERNATIONAL 
+TRADE AND INDUSTRY
+
+MINISTRY OF EDUCATION
+
+MINISTRY OF HUMAN RESOURCES
+
+MINISTRY OF ENERGY, SCIENCE,
+
+MINISTRY OF INTERNATIONAL 
+
+TECHNOLOGY, ENVIRONMENT AND
+
+TRADE AND INDUSTRY
+
+CLIMATE CHANGE
+
+Strategy F2:
+
+Strategy I2:
+
+Strategy R2:
+
+Strategy S2:
+
+Strategy T2:
+
+ECONOMIC PLANNING UNIT,
+MINISTRY OF
+ECONOMIC AFFAIRS
+
+MINISTRY OF INTERNATIONAL 
+TRADE AND INDUSTRY
+
+MINISTRY OF INTERNATIONAL 
+TRADE AND INDUSTRY
+
+MINISTRY OF EDUCATION
+
+MINISTRY OF HUMAN RESOURCES
+
+MINISTRY OF ENERGY, SCIENCE,
+
+MINISTRY OF INTERNATIONAL 
+
+TECHNOLOGY, ENVIRONMENT AND
+
+TRADE AND INDUSTRY
+
+CLIMATE CHANGE
+
+Strategy I3:
+
+Strategy R3:
+
+MINISTRY OF INTERNATIONAL 
+TRADE AND INDUSTRY
+
+MINISTRY OF INTERNATIONAL 
+TRADE AND INDUSTRY
+
+MINISTRY OF ENERGY, SCIENCE,
+
+MINISTRY OF INTERNATIONAL 
+
+TECHNOLOGY, ENVIRONMENT AND
+
+TRADE AND INDUSTRY
+
+CLIMATE CHANGE
+
+Strategy T3:
+
+MINISTRY OF EDUCATION
+
+69
+
+Attract
+
+I
+
+Create
+
+R
+
+F
+
+Funding
+
+Infrastructure
+
+Regulations
+
+Funding  &  
+
+Outcome-based Incentives
+
+Enabling Ecosystem & 
+
+Efficient Digital 
+
+Infrastructure
+
+Regulatory Framework & 
+
+Industry Adoption
+
+Transform
+
+S
+
+Skills & Talent
+
+Upskilling Existing & 
+Producing Future Talent
+
+T
+
+Technology
+
+Access to(cid:31)Smart 
+Technologies 
+& Standards
+
+Strategy F1:
+
+Strategy I1:
+
+Strategy R1:
+
+Strategy S1:
+
+Strategy T1:
+
+LEAD
+
+AGENCIES
+
+MINISTRY OF FINANCE
+
+MINISTRY OF INTERNATIONAL 
+
+MINISTRY OF COMMUNICATIONS AND MULTIMEDIA MALAYSIA
+
+TRADE AND INDUSTRY
+
+MINISTRY OF INTERNATIONAL 
+
+TRADE AND INDUSTRY
+
+MINISTRY OF EDUCATION
+
+MINISTRY OF HUMAN RESOURCES
+
+MINISTRY OF ENERGY, SCIENCE,
+TECHNOLOGY, ENVIRONMENT AND
+CLIMATE CHANGE
+
+MINISTRY OF INTERNATIONAL 
+TRADE AND INDUSTRY
+
+Strategy F2:
+
+Strategy I2:
+
+Strategy R2:
+
+Strategy S2:
+
+Strategy T2:
+
+ECONOMIC PLANNING UNIT,
+
+MINISTRY OF
+
+ECONOMIC AFFAIRS
+
+MINISTRY OF INTERNATIONAL 
+
+TRADE AND INDUSTRY
+
+MINISTRY OF INTERNATIONAL 
+
+TRADE AND INDUSTRY
+
+MINISTRY OF EDUCATION
+
+MINISTRY OF HUMAN RESOURCES
+
+MINISTRY OF ENERGY, SCIENCE,
+TECHNOLOGY, ENVIRONMENT AND
+CLIMATE CHANGE
+
+MINISTRY OF INTERNATIONAL 
+TRADE AND INDUSTRY
+
+Strategy I3:
+
+Strategy R3:
+
+Strategy T3:
+
+MINISTRY OF INTERNATIONAL 
+
+TRADE AND INDUSTRY
+
+MINISTRY OF INTERNATIONAL 
+
+TRADE AND INDUSTRY
+
+MINISTRY OF ENERGY, SCIENCE,
+TECHNOLOGY, ENVIRONMENT AND
+CLIMATE CHANGE
+
+MINISTRY OF INTERNATIONAL 
+TRADE AND INDUSTRY
+
+MINISTRY OF EDUCATION
+
+NOMINISTRY OF INTERNATIONAL
+
+TRADE AND INDUSTRY
+
+n a t i o n a l   p o l i c Y   O N  
+
+i n d u s t r y   4 . 0
+
+

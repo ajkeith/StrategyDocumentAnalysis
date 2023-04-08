@@ -1,0 +1,323 @@
+DECISION
+
+ON ISSUING THE NATIONAL STRATEGY ON RESEARCH, DEVELOPMENT AND APPLICATION OF ARTIFICIAL INTELLIGENCE UNTIL THE YEAR 2030
+
+PRIME MINISTER
+
+Pursuant to the Law on Government Organization dated June 19, 2015; Law on amending and supplementing a number of articles of the Law on Government Organization and the Law on Local Government Organization dated November 22, 2019;
+
+Pursuant to the Law on High Technology dated November 13, 2008;
+
+Pursuant to the Government's Resolution No. 50 / NQ-CP dated April 17, 2020 promulgating the Government's Action Plan to implement the Politburo's Resolution No. 52-NQ/TW dated September 27, 2019 on a number of undertakings and policies to actively participate in the Fourth Industrial Revolution;
+
+Upon the request of the Minister of Science and Technology,
+
+DECIDES:
+
+Article 1. To promulgate the National Strategy on the Research, Development and Application of Artificial Intelligence until 2030 (hereinafter referred to as the Strategy) with the following details:
+
+I. DIRECTIONS 
+
+1. Artificial Intelligence (AI) is the background technology of ​​the Fourth Industrial Revolution, making an important contribution to creating a breakthrough in production capacity and improving national competitiveness, promoting sustainable economic growth.
+
+2. Inheriting and promoting the latest human achievements, the research, development and application of AI should associate with the socio-economic development tasks and goals, strengthen national defence and security, develop science and technology; unlock the potentials of the entrepreneurs, effectively mobilize all resources; gradually receive, master and then upgrade technology transfer.
+
+3. Allocating resources on creating and developing essential AI products and services that Viet Nam possesses a competitive advantage; strategize key investments into the application of AI in a number of fields related to national defence and security, natural resource and environment management, and services for the public; vigorously develop AI application enterprises, and AI start-ups.
+
+II. TARGETS
+
+To promote research, development and application of AI, making which an important technology of Viet Nam in the Fourth Industrial Revolution. By 2030, Viet Nam will develop to be a center for innovation, development of AI solutions and applications in ASEAN and over the world.
+
+1. Targets towards 2025
+
+a) Bringing AI to be an important technology of Viet Nam
+
+- Viet Nam will be among the top 5 countries in the ASEAN and top 60 leading countries in research, development and application of AI;
+
+- Setting up 05 renowned brands in the region;
+
+- Developing 01 national center for big data storage and high-performance computing.
+
+b) Viet Nam becomes a center for innovation, development of AI solutions and applications
+
+- Setting up 02 national innovation centers for AI; increasing the number of innovative AI startups and total investment in the AI ​​sector in Viet Nam;
+
+- Upgrading and forming 10 new key research and training institutions on AI.
+
+c) Developing a creative society, effective government to protect the national security, maintain social order and safety and promote sustainable economic development.
+
+- AI is widely used in public administration, online public services to help reduce processing time, human resources, reduce the waiting time and costs of the public;
+
+- Improve the operational efficiency of the public administrative management system in social resources allocation and mobilization, social management and urban planning, especially in big cities such as Hanoi and Ho Chi Minh City and Da Nang.
+
+2. Targets towards 2030
+
+a) Bringing AI to be an important technology of Viet Nam
+
+- Viet Nam is among the top 4 countries in ASEAN and in the group of world's top 50 countries in research, development and application of AI;
+
+- Setting up 10 renowned AI centers in the region;
+
+- Developing 03 national centers for big data storage and high-performance computing; connecting domestic data centers and high-performance computing centers to create a shared network for big data and computing for AI;
+
+- Developing 50 open, linked and connected data sets in different economic sectors, socio-economic fields serving the research, development and application of AI.
+
+b) Viet Nam is a center for innovation, developing solutions and vigorously applying AI
+
+- Establishing 03 national innovation centers for AI;
+
+- Building up a contingent of high-quality human resources working on AI, including a team of experts and engineers in applying AI applications. Rapidly increasing the number of scientific projects and patent applications for AI in Viet Nam;
+
+- At least 01 representative ranked in the top 20 AI research and training institutions in ASEAN.
+
+c) Promoting a creative society, effective government to protect the national security and maintain social order and safety and promote sustainable economic growth
+
+- Universalizing the basic skills of AI application to direct workers, to promote innovation, reduce costs, boost labor productivity and improve the living standard of the people;
+
+- Applying AI in national defence and security, rescue operations, prevention of natural disasters, and in incidents and epidemics responses;
+
+- Along with digital transformation, the application of AI contributes to promoting growth in a number of economic sectors.
+
+III. STRATEGIC DIRECTIONS
+
+1. Building a system of legal documents and regulations related to AI
+
+- Formulating and completing policies and laws to create an open legal corridor to meet the requirements of promoting research, development and application of AI in real life.
+
+- Developing and applying AI with people and entrepreneurs at the center, avoiding technology abuse and infringement upon legitimate rights and interests of organizations and individuals.
+
+2. Building data and computing infrastructure for the research, development and application of AI
+
+- Promoting data sharing for AI research, development and application, establishing shared, open databases for research and development of AI application. Developing a data-sharing mechanism on the principle of mutual benefits, creating motivation for sharing, and at the same time ensuring decentralization of data access, avoiding disclosure and leakage of private data of individuals or organizations.
+
+- Strengthen national capacity for high-performance computing, cloud computing, and fog computing.
+
+3. Developing the AI ​​ecosystem
+
+- Human resource development: Deploying basic skills in AI application and data science (DS) to promote innovation for young people. Promote the implementation of short-term and medium-term training courses on AI for students in different occupations and workers wishing to change careers.
+
+- Organizational construction: To attract domestic and foreign resources to build training centers, to develop and apply AI and DS. The Government invests in building key centers for research and training talents and high-quality human resources in AI and DS at leading universities and research institutes.
+
+- Research and development deployment: Focusing on investment in research and development of urgent and important platforms and products for the domestic market, targeting towards regional and global markets. Applying AI to improve the efficiency of research and development outputs in other fields.
+
+- Promoting the construction of incubation centers and attracting investment for the development of AI enterprises: Deploying solutions to mobilize investment capital for the development of AI companies and brands in Viet Nam.
+
+4. Promoting the application of AI
+
+- Promoting AI applying businesses: Increasing the number of businesses implementing, developing and applying AI to meet domestic demands in the fields that are ready for data, technology and initial funding. Promoting the deployment of available software platforms and open applications of AI.
+
+- The application of AI in national defence and security and socio-economic fields: Developing specific AI products in Viet Nam, gradually forming the AI ​​industry in Viet Nam. Promoting ministries, agencies and localities to use AI applications and services to improve operational efficiency in distribution, mobilization of social resources, boost the quality of state management, social management and urban management.
+
+- Raising awareness about AI: Improving the capacity, qualifications and awareness of officials, civil servants, businesses, and the public about AI data and application.
+
+5. Promote international cooperation in AI
+
+- Organizing and implementing bilateral and multilateral scientific research cooperation programs and projects on AI. Promoting the development of AI research centers; projects in technology transfer, application of AI inventions and industrial property rights between Vietnamese and foreign enterprises; AI high-quality human resources training centers and programs for the domestic and global market.
+
+- Exchanging experts, researchers, students of Vietnamese organizations and enterprises with foreign AI research and training organizations and enterprises. Joining international AI associations, organizations and networks. Inviting foreign AI experts, overseas Vietnamese to participate in counselling, research and training on AI in Viet Nam.
+
+- Improving institutions and policies to attract foreign direct investment (FDI), encourage multinational high-tech corporations to build centers for AI research, development and application in Viet Nam.
+
+IV. SOLUTIONS AND ASSIGNMENTS
+
+1. Ministry of Science and Technology
+
+- Develop and develop additional legal documents on intellectual property rights related to AI.
+
+- Expand projects to build community data in the form as specified in the Digitalizing Vietnamese Knowledge System project; connect AI communities, open scientific communities in Viet Nam; support mastery research, develop domestic platforms for high-performance computing, cloud computing, and fog computing; organize regular activities to connect academic and research communities; professional communities developing and applying AI and data science (DS) in Viet Nam and abroad.
+
+- Strongly implement public-private cooperation, co-finance AI training centers, research and development centers and application centers; invest in developing key research groups on AI and DS in universities and public research institutes; invest in facilities for key laboratories on AI and DS in public universities and research institutes; establish centers for AI innovation, develop Vietnamese brands on AI in the world.
+
+- Carry out basic research on AI, decode technology, master the technology, catch up on AI advances and initially contribute to the development of new AI methods in research organizations in mathematics and information technology; focus on researching and developing AI products based on specific data sources and knowledge of Viet Nam; implement the national key research programs on AI together with training graduate students; researching and developing platforms to provide important AI services and products such as natural language processing, computer vision, automated processes, data-based AI technologies, and robotics and autonomous vehicles, in research fields that are data-, technology-ready and have domestic application needs, targeting the regional and global market.
+
+- Establish open specified groups, allow shortening time for completion of research results; promote multi-sector, interdisciplinary and trans-disciplinary usage, sharing and opening of data, technology and application of AI to accelerate results generation and improve the output efficiency of dynamic research and development in other fields; provide extensive training on open platforms for AI data and application; promote open source communities and forums on AI; encourage enterprises to order research institutes and universities on research and development of Viet Nam's specific AI products.
+
+- Organize the chain of events on AI; support domestic individuals and organizations to participate in international conferences, exhibitions and exams on AI; participate in the organization and implementation of bilateral and multilateral scientific research cooperation programs and projects on AI; promote the development of AI research and cooperation centers, cooperation projects in technology transfer, application of AI inventions and industrial property rights between Vietnamese and foreign enterprises; high-quality AI human resources training centers and programs serving the domestic and global market; exchange experts, researchers, students of Vietnamese organizations and enterprises with foreign AI research and training organizations and enterprises. Join international AI associations, organizations and networks.
+
+2. Ministry of Information and Communications
+
+- Develop and supplement additional legal documents on electronic transactions, data set-up and sharing, sandboxes, create a favourable testing space with the separate legal framework for testing AI in potential areas; establish standards, technical regulations and formats for AI technologies and products.
+
+- Set up the basis of data and computing: Develop regulations and lists of professional databases that ministries, agencies and localities must use together, share, open; promote the culture of developing and sharing, sharing and opening data in the scientific, businesses and public communities; implement the National Data Strategy; focus the public investment in forming mutually used, shared and open administrative databases in implementing the e-Government; set up a reliable data sharing framework to promote data sharing among businesses and individuals in the private sector; integrate mutually used, shared and open data of ministries, agencies and localities onto the National Data Portal; implement public-private partnerships, co-finance the construction of high-performance computing platforms and systems, cloud computing, fog computing; develop mechanisms to support, encourage, and promote the use of domestic platforms, to link and share high-performance computing systems, cloud computing, and fog computing.
+
+- Establish organizations to develop short-term training for researchers, technicians and managers.
+
+3. Ministry of Defence
+
+- Construct a national-level center for big data storage and high performance computing, cloud computing, and fog computing.
+
+- Develop AI applications in military, defence, in the intelligentization and modernization of equipment and weapons, in the development of operational plans, in national defence systems, system of prevention, handling and rapid response against cyber, biological, chemistry warfare and in rescue operations, disaster prevention and response to incidents and epidemics.
+
+4. Ministry of Public Security
+
+- Develop and supplement additional legal documents on privacy protection, human rights, security related to the development and application of AI and on ensuring network security for AI-related activities.
+
+- Establish a national-level center for big data storage and high performance computing, cloud computing, and fog computing.
+
+- Deploy AI applications in national security systems, immigration management systems, high-tech crime control systems, and develop proactive technical solutions to prevent crimes using scientific achievements on AI.
+
+5. Ministry of Education and Training
+
+- Deploy STEAM training programs for young people; implement mass programs on popularizing data building skills, apply AI for young people; promote formal training programs on AI, data science; include subjects on data analysis, AI application in the curriculum of different disciplines in universities and colleges.
+
+- Encourage and promote domestic technology groups to invest in building high-quality research institutes and training institutions in AI and DS; invest in universities to carry out undergraduate and postgraduate training in AI and DS.
+
+- Promote and carry out AI applications in the education sector: predict the work demand of the market; identify the student assessment criteria, support students to identify their job strengths upon graduation; automate the professional process of teachers; identify the criteria for achieving learning goals; personalize learning, improve learning efficiency with the help of teachers and virtual tutors to support students' awareness.
+
+6. Ministry of Planning and Investment
+
+- Develop a specific mechanism for innovation centers to attract venture capital funds to innovative AI start-ups in Viet Nam.
+
+- Improve institutions and policies to attract foreign direct investment (FDI), multinational high-tech corporations to build centers for AI research, development and application in Viet Nam as guided in the Resolution. No. 50-NQ / TW dated August 20, 2019 of the Politburo on the orientation to develop institutions, policies, and improve the quality and efficiency of foreign investment cooperation to 2030.
+
+7. The Ministry of Finance:
+
+Promote the development and application of AI in the financial sector. Pursuant to the provisions of law to balance, allocate funds to implement the Strategy.
+
+8. Ministry of Industry and Trade
+
+- Gather, standardize and share open data sets in the country in the industrial sector as input to existing applications, serving the needs of AI applications in these fields.
+
+- Promote the development and deployment of AI applications in the industrial sector in order to improve intelligence, automate the production process, improve productivity and quality of industrial products.
+
+- Develop and apply AI in e-commerce: in demand trends forecast, maximizing and automating negotiation with suppliers; factory and management automation; sales optimization, product classification; price optimization, promotion personalization and real-time website rendering; recommendations personalization, providing online support with virtual assistants and chat-bots; automated in-store payments and delivery completion.
+
+9. Ministry of Agriculture and Rural Development
+
+- Gather, standardize and share open agricultural data sets to the existing applications, serving the needs of AI applications in these fields.
+
+- Promote AI applications in agricultural hi-tech production, in order to improve intelligence, automate production processes, improve productivity and quality of agricultural products, ensure transparent production process, origin, and clean food supply for consumers.
+
+10. The Ministry of Transport
+
+Promote AI applications in the field of transportation and logistics: automatically detecting the identification of vehicles, determining the speed and automate the processes at traffic control and monitoring centers; improving the traffic monitoring and toll collection process associated with vehicle detection and identification; providing data for optimizing the logistics systems; providing automatic route finding services and customer consultation in technology transport models; researching and deploying solutions to warn dangerous situations for vehicle drivers; supporting statistics, evaluation, analysis and planning for the maintenance, maintenance of transport infrastructure, transportation planning and smart traffic management.
+
+11. The Ministry of Culture, Sports and Tourism
+
+Promote AI applications in the field of culture and tourism: developing digital culture industry; automating the process of building a digital database of Vietnamese cultural heritages and destinations, combined with smart user-oriented travel consultation services; forecasting trends and personalizing tourism based on analyzing users perception on social networks, contributing to improving the quality of planning and operation of smart travel services.
+
+12. Ministry of Labor - Invalids and Social Affairs
+
+Deploy training consultation on AI and DS for employees with career-change needs.
+
+13. State Bank of Viet Nam
+
+Promote AI applications in the banking sector: analyzing and predicting loan needs, borrowers, supporting credit granting activities; detecting fraudulent practices; personalizing banking services to customers; providing instant support services to customers through virtual assistants and chat-bots.
+
+14. Ministry of Natural Resources and Environment.
+
+Promote AI applications in the field of natural resources and environment: forecasting data in the natural resources and the environment sector, applying AI in monitoring, collecting, measuring, investigating and surveying environment, land and natural resources to provide and share real-time baseline survey and data on environment, land and environmental resources; ensure effective treatment of environmental pollution and response to climate change.
+
+15. Ministry of Health
+
+- Gather, standardize and share open health data sets in the country to available applications, serving the needs of AI applications in these fields.
+
+- Promote AI applications in healthcare and medical care for the public: assisting doctors in detecting, diagnosing and making decisions, monitoring and treating patients remotely, individualizing treatment, research, production and drug production.
+
+16. Ministry of Justice
+
+Develop and supplement additional regulations on legal responsibilities of objects related to AI.
+
+17. Viet Nam Academy of Science and Technology
+
+Establish a national center for big data storage and high performance computing, cloud computing, and fog computing.
+
+Article 2. Operations
+
+1. The Ministry of Science and Technology is responsible for: acting as the focal point of implementing the Strategy; organizing the implementation of the Strategy; sending annual reports to the Prime Minister; organizing a preliminary review of the implementation of the Strategy until the year 2025 and identifying tasks and priority projects for the next period until the year 2030.
+
+2. Relevant ministries, branches and agencies are assigned to organize the implementation of the Strategy within its assigned functions and tasks and in accordance with current law provisions.
+
+3. The People's Committees of the provinces and national cities are responsible for implementing the Strategy, ensuring consistency and synchronization with the implementation of local socio-economic development plans. Accelerate AI application in urban management, social management and public administration.
+
+4. Research institutes and universities shall develop implementation plans and propose solutions to ministries, agencies and local governments based on the Strategy's contents and solutions.
+
+5. Ministries, agencies and local governments shall send annual reports to the Ministry of Science and Technology on the implementation of the Strategy before December 15 for reporting to the Prime Minister.
+
+6. Financial source for the implementation
+
+- Financial sources for the implementation of the Strategy include the fund from the state budget, corporate investment, international funding and other legally mobilized capital as prescribed by law.
+
+- Funding from the state budget has to be allocated in compliance with the current state decentralization regulation. Ministries, ministerial-level agencies, People's Committees of provinces and centrally-run cities, based on the objectives and assignments stated in the Strategy to estimate specific cost for the implementation.
+
+- Promote the mobilization of financial resources from domestic and foreign organizations, individuals, and enterprises to participate in the implementation of the Strategy in accordance with the law; to integrate the tasks assigned to ministries, agencies and local governments in other relevant national target programs.
+
+Article 3. Effectiveness and responsibility for implementation
+
+This Decision takes effect from the date of signing.
+
+Ministers, Heads of Ministerial-level agencies, Heads of Governmental agencies, Chairpersons of the People's Committees of centrally-run cities and provinces are responsible for implementing this Decision.
+
+APPENDIX
+
+KEY PROGRAMS, PROJECTS OF THE NATIONAL STRATEGY FOR RESEARCH, DEVELOPMENT AND APPLICATION OF ARTIFICIAL INTELLIGENCE UNTIL THE YEAR 2030
+(Persuant to Decision number 127/QĐ-TTg dated 26 January 2021 of the Prime Minister)
+
+No
+
+Programs, Projects
+
+Organizing agency
+
+Coordinating organization
+
+Implementation period
+
+1
+
+Developing high-quality AI human resource until the year 2030 project
+
+Ministry of Education and Training
+
+Ministry of Science and Technology;
+
+Ministry of Information and Communications;
+
+Ministry of Labor – Invalids and Social Affairs
+
+2020 - 2030
+
+2
+
+Establishing 03 national centers for data storage and high efficiency computing project
+
+Ministry of Defence; Ministry of Public Security; Viet Nam Academy of Science and Technology
+
+Ministry of Information and Communications;
+
+Ministry of Science and Technology
+
+2020 - 2030
+
+4
+
+National scientific and technological AI-related program
+
+Ministry of Science and Technology
+
+Related ministries and agencies
+
+2020 - 2030
+
+5
+
+Supporting AI enterprises in accordance with the National digitalization Program
+
+Ministry of Information and Communications
+
+Ministry of Science and Technology
+
+2020 - 2030
+
+6
+
+Establishing open specified data groups for reseach and development of AI in Viet Nam
+
+Ministry of Science and Technology
+
+Related ministries and agencies
+
+2020 - 2030
+
+
+For reference only

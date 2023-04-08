@@ -9,13 +9,20 @@ def extract_pdfs(dir_path):
     """
     Extract text from pdf
     """
-    # # load text (sgp ai strategy)
-    # with open(dir_path, encoding="utf8") as file:
-    #     text = file.read() 
-    # TODO: future work to extract text from pdfs
-    # pdfs = [f for f in os.listdir(dir_path) if f.endswith('.pdf')]
     print("extracting text from pdfs...\n")
-    text = extract_text(dir_path)
+    directory = os.fsencode(os.path.join(os.getcwd(), 'data', 'policies'))
+    for file in os.listdir(directory):
+        filename = os.fsdecode(file)
+        if filename.endswith(".pdf"): 
+            print("Converting " + filename + " ...")
+            fileloc = os.path.join(os.getcwd(), 'data', 'policies', filename)
+            outname = os.path.join(os.getcwd(), 'data', 'text', filename.replace(".pdf",".txt"))
+            with open(outname, "w", encoding='utf-8') as text_file:
+                text = extract_text(fileloc)
+                text_file.write(text)
+            continue
+        else:
+            continue
     print("text extract complete\n")
     return text
 
@@ -27,9 +34,10 @@ def build_nlp_pipelines():
     # note: direclty downloading the same classifier weights is timing out for some reason
     print("building sentiment pipeline...\n")
     sclass = pipeline(task="sentiment-analysis")
-    print("building sentiment pipeline...\n")
-    tclass = pipeline(task="sentiment-analysis")
-    # zero shot topic classification pipeline
+    print("building lda pipeline...\n")
+    # TODO: topic pipeline with lda
+    print("building topic pipeline...\n")
+    # TODO: topic pipeline with bertopic
     print("building zero shot topic classification pipeline...\n")
     zclass = pipeline(model="facebook/bart-large-mnli")
     print("pipelines complete\n")

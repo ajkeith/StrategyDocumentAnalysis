@@ -1,0 +1,1811 @@
+2
+0
+2
+
+0DEFENCE
+STRATEGIC
+UPDATE
+
+© Commonwealth of Australia 2020
+
+ISBN: 978-1-925890-26-6
+
+This work is copyright. Apart from any use as permitted under the 
+
+Copyright Act 1968 (Cwth), no part may be reproduced by any process 
+
+without prior written permission from the Department of Defence.
+
+2020 DEFENCE STRATEGIC UPDATE1
+
+ ` Table of Contents 
+
+Foreword . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Executive Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Chapter One: Australia’s changing strategic environment . . . . . . . . . . . . . . . 11
+Chapter Two: Defence policy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Shape Australia’s strategic environment . . . . . . . . . . . . . . . . . . . . . . . . .25
+Deter actions against Australia’s interests  . . . . . . . . . . . . . . . . . . . . . . .27
+Respond with credible military force. . . . . . . . . . . . . . . . . . . . . . . . . . . .29
+Implications for force structure  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .30
+Chapter Three: Capability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Capability priorities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .34
+Information and Cyber capabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . .36
+Maritime capabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .36
+Air capabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .38
+Space capabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .38
+Land capabilities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .39
+The Defence enterprise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .40
+Workforce  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .41
+Information and communications technology  . . . . . . . . . . . . . . . . . . . . .41
+Estate and infrastructure   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .42
+Chapter Four: Industry and Innovation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Industry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .45
+Australian Industry Capability  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .46
+Sovereign Industrial Capability Priorities   . . . . . . . . . . . . . . . . . . . . . . . .46
+Skilling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .47
+Innovation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .47
+Chapter Five: Resourcing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+The Government’s Defence funding model . . . . . . . . . . . . . . . . . . . . . . .53
+How will Defence funding be spent?  . . . . . . . . . . . . . . . . . . . . . . . . . . .54
+Alignment of strategy, capability and resources  . . . . . . . . . . . . . . . . . . .55
+Chapter Six: Reform . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+
+2020 DEFENCE STRATEGIC UPDATE2020 DEFENCE STRATEGIC UPDATE3
+
+ ` Foreword
+
+The Government’s firm commitment to the Australian people remains that we 
+will keep our nation safe and protect our way of life for future generations.
+
+It is clear, however, that Australia’s strategic environment has deteriorated more 
+rapidly than anticipated when we made this commitment in the 2016 Defence 
+White Paper.  This deterioration means that adjustments should be made by the 
+Government to our defence policy, capability and force structure.
+
+This 2020 Defence Strategic Update sets out the challenges in Australia’s 
+strategic environment and their implications for Defence planning.  
+
+Our region is in the midst of the most consequential strategic realignment 
+since the Second World War, and trends including military modernisation, 
+technological disruption and the risk of state-on-state conflict are further 
+complicating our nation’s strategic circumstances.  
+
+The Indo-Pacific is at the centre of greater strategic competition, making the 
+region more contested and apprehensive.  These trends are continuing and will 
+potentially sharpen as a result of the coronavirus (COVID-19) pandemic.  
+
+As a result of the decisions taken by the Government in the 2016 Defence 
+White Paper, substantial progress has been made in transforming the Australian 
+Defence Force into a more capable, agile and potent force.  This has been 
+underpinned by investment in Australia’s military capabilities and industries, 
+a focus on strengthened international engagement, particularly with the 
+United States, Japan, India, ASEAN and other allies and partners in our region, 
+and successful implementation of the 2015 First Principles Review by the 
+Department of Defence.
+
+The Government has directed Defence to implement a new strategic policy 
+framework that signals Australia’s ability – and willingness – to project military 
+power and deter actions against us.  Under this new framework, Defence’s 
+
+2020 DEFENCE STRATEGIC UPDATE4
+
+strategic objectives are to deploy military power to shape Australia’s strategic 
+environment, deter actions against our interests and, when required, respond 
+with credible military force. 
+
+These objectives require new military capabilities and demonstrated resolve.  
+The Government will invest approximately $270 billion over the coming  
+decade in new and upgraded Defence capabilities, including more potent  
+and longer-range combat systems and more secure supply chains.  The 
+Government will also continue deepening our alliance with the United States 
+and strengthening our regional engagement across the Indo-Pacific, including 
+through the Pacific Step-Up, and increase the Australian Defence Force’s ability 
+to respond to natural disasters, including within Australia.
+
+As a nation – and as an important regional leader in the global community – 
+Australia is experiencing significant changes to our strategic environment.  The 
+2020 Defence Strategic Update ensures Australia has the strategic defence 
+policy to deal with these challenges.
+
+The Hon Scott Morrison MP 
+Prime Minister 
+
+Senator the Hon Linda Reynolds CSC 
+Minister for Defence
+
+2020 DEFENCE STRATEGIC UPDATE5
+
+ ` Executive Summary
+
+i 
+
+ii 
+
+iii 
+
+iv 
+
+v 
+
+Australia is at the centre of a dynamic strategic environment.  In 
+response, Australia’s defence policy must be agile and adaptive.  In line 
+with the Government’s intent that defence strategy be subject to regular 
+review, the Department of Defence commenced a Strategic Policy 
+Review in 2019 to re-assess the strategic underpinnings of the 2016 
+Defence White Paper.
+
+While the drivers shaping the development of Australia’s future strategic 
+environment identified in that white paper remain relevant, some have 
+accelerated in ways that were not anticipated in 2016.
+
+Military modernisation in the Indo-Pacific has accelerated faster 
+than envisaged.  Regional force modernisation has resulted in the 
+development and deployment of new weapons that challenge Australia’s 
+military capability edge.  Expanding cyber capabilities – and the 
+willingness of some countries and non-state actors to use them – are 
+further complicating Australia’s strategic environment.
+
+Confidence in the rules-based global order is being undermined by 
+disruptions from a widening range of sources.  Major power competition 
+has intensified and the prospect of high-intensity conflict in the  
+Indo-Pacific, while still unlikely, is less remote than in the past.
+
+The conduct of ‘grey-zone’ activities has also expanded in the Indo-Pacific.  
+These activities involve military and non-military forms of assertiveness 
+and coercion aimed at achieving strategic goals without provoking conflict.  
+In the Indo-Pacific, these activities have ranged from militarisation of 
+the South China Sea to active interference, disinformation campaigns 
+and economic coercion.  Defence must be better prepared to respond to 
+these activities, including by working more closely with other elements of 
+Australia’s national power.
+
+2020 DEFENCE STRATEGIC UPDATE6
+
+vi 
+
+vii 
+
+viii 
+
+ix 
+
+This security environment is markedly different from the relatively more 
+benign one of even four years ago, with greater potential for military 
+miscalculation.  This could conceivably include state-on-state conflict 
+that could engage the Australian Defence Force (ADF) where Australia’s 
+interests are threatened.  Accordingly, Defence must be better prepared 
+for the prospect of high-intensity conflict.
+
+Although the long-term impacts of the coronavirus (COVID-19) 
+pandemic are not yet clear, it has altered the economic trajectory of 
+the region and the world with implications for Australia’s prosperity and 
+security.  The trend towards a more competitive and contested region 
+will not be fundamentally altered by the effects of the pandemic, but 
+it is sharpening some aspects of strategic competition between the 
+United States and China.  Some countries are using the situation to 
+seek greater influence, while countries that were expected to become 
+more prosperous and stable may experience economic hardship and 
+instability.  The pandemic has also highlighted the importance of secure 
+supply chains for Defence and defence industry, including sovereign 
+industrial capability in some areas.
+
+This 2020 Defence Strategic Update sets out the challenges in 
+Australia’s strategic environment and their implications for defence 
+planning.  It provides a new strategic policy framework to ensure 
+Australia is able – and is understood as willing – to deploy military 
+power to shape our environment, deter actions against our interests and, 
+when required, respond with military force.
+
+The Government has decided that under this new framework,  
+defence planning will focus on our immediate region: ranging from the  
+north-eastern Indian Ocean, through maritime and mainland South 
+East Asia to Papua New Guinea and the South West Pacific.  This new 
+framework will provide a tight focus for defence planning and alignment 
+with broader initiatives such as the Pacific Step-up.  
+
+2020 DEFENCE STRATEGIC UPDATE7
+
+x 
+
+xi 
+
+xii 
+
+xiii 
+
+xiv 
+
+This will have implications for Defence capability and force structure.  It 
+will mean adjustments to the plans set out in the 2016 Defence White 
+Paper so that we are prepared for the challenges we are most likely 
+to face.  These adjustments focus on ensuring the ADF can shape 
+Australia’s strategic environment, deliver credible deterrence and 
+respond to challenges to our interests.  More detail on the Government’s 
+capability plans is set out in the 2020 Force Structure Plan.  
+
+Defence will continue to strengthen its engagement with Australia’s 
+international partners in support of shared regional security interests and 
+will continue to deepen Australia’s alliance with the United States.
+
+The Government’s plans for Defence capability are underpinned by 
+its policies of developing a strong, sustainable and secure Australian 
+defence industry and supporting leading edge national innovation.  The 
+Government is committed to maximising opportunities for Australian 
+industry, including in regional areas, in Defence projects.
+
+The Government’s plans for future ADF capability are also underpinned 
+by its ongoing commitment to providing funding certainty for Defence.  
+This includes a commitment to a Defence Budget of $42.2 billion in 
+2020-21 (including the Australian Signals Directorate).  The Defence 
+Budget will grow over the next ten years to $73.7 billion in 2029-30 
+with total funding over the decade of $575 billion.  This total includes 
+approximately $270 billion of investment in Defence capability, compared 
+with approximately $195 billion for the decade to 2025-26 when the 
+2016 Defence White Paper was released.
+
+Continuous transformational reform within Defence is essential to 
+implement the strategy set out in this document and to build Defence’s 
+capacity to respond to a more uncertain external environment.  Reform 
+cannot be a one-off process – improvement is continual – and it must 
+be purposeful.  Defence will continue to evolve and adapt to meet 
+Australia’s changing strategic environment and maintain alignment of 
+strategy, capability and resources.
+
+2020 DEFENCE STRATEGIC UPDATEIntentionally blank1
+
+2020 DEFENCE STRATEGIC UPDATE11
+
+ ` Chapter One: Australia’s 
+
+changing strategic environment
+
+1.1 
+
+1.2 
+
+1.3 
+
+The 2016 Defence White Paper set out six drivers that would shape 
+Australia’s strategic environment: the roles of the United States and 
+China; challenges to the stability of the rules-based global order; 
+the enduring threat of terrorism; state fragility; the pace of military 
+modernisation in our region; and the emergence of new, complex 
+non-geographic threats.  These drivers will remain relevant over the 
+next two decades.  However, several have accelerated since 2016, and 
+in some cases their impacts are posing new challenges.  Additional 
+factors that will shape Australia’s environment and impact defence 
+planning have also emerged, in particular the economic and strategic 
+consequences of the COVID-19 pandemic. 
+
+Strategic competition, primarily between the United States and China, 
+will be the principal driver of strategic dynamics in our region.  This 
+competition is playing out across the Indo-Pacific and increasingly in our 
+immediate region: the area ranging from the north-eastern Indian Ocean 
+through maritime and mainland South East Asia to Papua New Guinea 
+and the South West Pacific.
+
+Since 2016, major powers have become more assertive in advancing 
+their strategic preferences and seeking to exert influence, including 
+China’s active pursuit of greater influence in the Indo-Pacific.  Australia 
+is concerned by the potential for actions, such as the establishment of 
+military bases, which could undermine stability in the Indo-Pacific and 
+our immediate region.  It is essential that countries pursue their interests 
+in ways that are mutually respectful and supportive of stability, prosperity 
+and security.
+
+2020 DEFENCE STRATEGIC UPDATE12
+
+1.4 
+
+1.5 
+
+1.6 
+
+Some countries will continue to pursue their strategic interests through 
+a combination of coercive activities, including espionage, interference 
+and economic levers.  Tensions over territorial claims and the 
+establishment of new military facilities are rising and are involving the 
+use of military or para-military forces more frequently than in the past, 
+including coercive para-military activities in the South China Sea.
+
+Grey-zone activities are being adopted and integrated into statecraft 
+and are being applied in ways that challenge sovereignty and habits 
+of cooperation.  This includes challenges to the long established and 
+mutually beneficial security partnerships Australia has with many 
+countries, including in the Indo-Pacific.
+
+Box 1 The grey zone
+
+‘Grey zone’ is one of a range of terms used to describe activities 
+designed to coerce countries in ways that seek to avoid military 
+conflict.  Examples include using para-military forces, militarisation 
+of disputed features, exploiting influence, interference operations and 
+the coercive use of trade and economic levers.  These tactics are not 
+new.  But they are now being used in our immediate region against 
+shared interests in security and stability.  They are facilitated by 
+technological developments including cyber warfare.
+
+The rules, norms and institutions that help maintain peace and 
+security and guide global cooperation are under strain.  Pressures on 
+governance in the global commons, and in domains such as space and 
+cyberspace, will open up potential sources of friction.  The thresholds 
+for activities that could trigger a military response are unclear in space 
+and cyberspace as they lack the more clearly defined boundaries of 
+national borders and geography.  The undermining of norms or treaty 
+arrangements will complicate efforts to manage these pressures as 
+countries seek to impose systems that will support their own approach, 
+while undermining the interests of other countries.
+
+2020 DEFENCE STRATEGIC UPDATE13
+
+1.7 
+
+1.8 
+
+1.9 
+
+At the same time, many countries in the Indo-Pacific are accelerating 
+their military modernisation, enabled by a long period of economic 
+growth.  The rapid spread of technology will both support and challenge 
+Defence’s requirement to maintain a regional capability edge in 
+advanced warfighting and enabling capabilities.
+
+Regional military modernisation includes the introduction of advanced 
+strike, maritime surveillance and anti-access and area denial 
+technologies, which have implications for Australian operations in the 
+region.  New weapons being introduced into the region have increased 
+range, speed, precision and lethality, placing Australian military forces 
+at greater risk over longer distances.  North Korea’s missile and nuclear 
+programs risk provoking significant shifts in the strategic system in 
+North Asia.
+
+Emerging and disruptive technologies will be rapidly translated 
+into weapons systems – such as sophisticated sensors, autonomous 
+systems and long-range and high-speed weapons – reducing decision 
+times and improving weapon precision and lethality.  This will be 
+facilitated by more highly educated, qualified and mobile workforces, 
+the rapid dissemination of scientific knowledge via the internet as well 
+as expanded commercial and research collaboration.  In some countries 
+this will be further boosted by higher government priority and funding.  
+Non-state actors such as terrorists have also demonstrated their ability 
+to adapt new technologies for their purposes.
+
+1.10  Expanding cyber capabilities and willingness by some countries 
+
+and non-state actors to use cyber capabilities maliciously are further 
+complicating Australia’s environment.  Cyber-attacks can directly 
+compromise military capability and operations.  Cyber-enabled 
+activities can also drive disinformation and destabilising interference 
+in economies, political and social systems and infrastructure.  These 
+activities are often conducted in ways designed to facilitate deniability 
+and complicate attribution.
+
+2020 DEFENCE STRATEGIC UPDATE14
+
+1.11  The increasing connectivity of services and infrastructure to the internet 
+will expose vulnerabilities in global supply chains, critical infrastructure 
+and support services.  These will be key targets in grey-zone activities 
+and as a precursor to conventional conflict.  The challenge of protecting 
+critical technologies from intellectual property theft will become harder 
+and will have major security as well as economic impacts.
+
+1.12  Major power competition, coercion and military modernisation are 
+
+increasing the potential for and consequences of miscalculation.  While 
+still unlikely, the prospect of high-intensity military conflict in the 
+Indo-Pacific is less remote than at the time of the 2016 Defence White 
+Paper, including high-intensity military conflict between the United States 
+and China.
+
+1.13  Previous Defence planning has assumed a ten-year strategic warning 
+time for a major conventional attack against Australia.  This is no longer 
+an appropriate basis for defence planning.  Coercion, competition and 
+grey-zone activities directly or indirectly targeting Australian interests 
+are occurring now.  Growing regional military capabilities, and the speed 
+at which they can be deployed, mean Australia can no longer rely on 
+a timely warning ahead of conflict occurring.  Reduced warning times 
+mean defence plans can no longer assume Australia will have time to 
+gradually adjust military capability and preparedness in response to 
+emerging challenges.  This includes the supply of specialised munitions 
+and logistic requirements, such as fuel, critical to military capability.
+
+2020 DEFENCE STRATEGIC UPDATE
+
+15
+
+Box 2 Strategic warning time
+
+Strategic warning time for conventional conflict is the time a country 
+estimates an adversary would need to launch a major attack against 
+it, once the adversary’s intent to do so has been established.  This 
+period is determined by indications of preparation and mobilisation of 
+resources and capabilities.  New capabilities, including longer-range 
+missiles, ballistic missiles and offensive cyber and space capabilities, 
+have reduced strategic warning times.  It is also a less relevant 
+concept for grey-zone activities, which can have little or no warning 
+and occur below the threshold of armed conflict.
+
+1.14 
+
+1.15 
+
+In this era of considerable change, the COVID-19 pandemic is creating 
+even more uncertainty.  The precise long-term security implications of 
+the pandemic are not yet clear, but its impact on regional growth, trade 
+and societies will have lasting consequences.  The enormous economic 
+impact of measures to contain the spread of the virus will set back 
+development.  This economic shock could undermine political and social 
+stability.  Far-reaching measures introduced in some countries to fight 
+the pandemic could be used to reduce political freedoms.
+
+It is unlikely that the pandemic will fundamentally alter either the 
+longer-term shift in relative global economic and strategic weight to the 
+Indo-Pacific or China’s more active pursuit of greater influence in the 
+Indo-Pacific.  But it will have implications for how these trends develop.  
+While collaboration and cooperation is expanding in response to the 
+pandemic, some countries are using the situation to secure greater 
+influence.  Strategic competition between the United States and China 
+is unlikely to abate, and the pandemic has sharpened aspects of this 
+competition.  Military modernisation could slow in some countries but 
+will continue to be prioritised.
+
+2020 DEFENCE STRATEGIC UPDATE
+
+16
+
+1.16  The pandemic has disrupted globalised supply chains, which over time 
+
+have become a critical element of many of Australia’s national economic 
+sectors and Defence capability planning.  A new focus on independent 
+sovereign industrial capability has emerged.  In the first instance, this 
+has manifested in a need to produce the equipment and supplies 
+required for the health response to the pandemic.  Over the longer term, 
+the pandemic has highlighted the potential vulnerability of global supply 
+chains in providing critical defence supplies and equipment.
+
+1.17  Threats to human security – such as pandemics, and growing water 
+
+and food scarcity – are likely to result in greater political instability 
+and friction within and between countries and reshape our security 
+environment, including in the Indo-Pacific.  These threats will be 
+compounded by population growth, urbanisation and extreme weather 
+events in which climate change plays a part.  Within Australia, the 
+intensity and frequency of disasters – such as the 2019-20 Black 
+Summer bushfires – will test Australia’s resilience.  Disaster response 
+and resilience measures demand a higher priority in defence planning.
+
+1.18  State fragility, exacerbated by governance and economic challenges, 
+has the potential to facilitate threats to the region including the spread 
+of terrorism and activities that undermine stability and sovereignty.  
+Increased state fragility could also potentially lead to the ADF being 
+called on more often for evacuation, humanitarian assistance and 
+disaster relief missions and potentially more demanding stabilisation 
+operations.  It may also increase threats to Australia’s domestic security 
+including through irregular maritime arrivals.
+
+1.19  While the actions of nation states, especially strategic competition, 
+will be the principal driver of our strategic environment, the threat 
+from terrorism and violent extremism will persist.  The emergence 
+of new or renewed terrorist groups with territorial ambitions could 
+engage international military forces, as in Iraq and the Philippines.  
+Within Australia, terrorism presents an evolving challenge, including 
+
+2020 DEFENCE STRATEGIC UPDATE17
+
+the adoption by terrorists of new technologies and techniques requiring 
+minimal preparation.
+
+1.20  The trends set out above signal a security environment markedly 
+
+different from the relatively more benign one of the past, with greater 
+potential for military miscalculation, including state-on-state conflict that 
+could engage the ADF.
+
+1.21  The next chapter sets out the Government’s defence policy response to 
+
+this environment. 
+
+2020 DEFENCE STRATEGIC UPDATE18
+
+2020 DEFENCE STRATEGIC UPDATE19
+
+2
+
+2020 DEFENCE STRATEGIC UPDATE2020 DEFENCE STRATEGIC UPDATE21
+
+ ` Chapter Two: Defence policy
+
+2.1 
+
+2.2 
+
+2.3 
+
+The security environment described in the previous chapter requires a 
+new strategy to sharpen defence planning.  This Strategic Update sets 
+out the Government’s new strategic defence policy framework, which 
+provides clearly identified geographical, operational and capability 
+priorities.  This framework is intended to provide a tight focus for 
+planning, and alignment with broader Government initiatives such as the 
+Pacific Step-up and efforts to build a secure, prosperous and inclusive 
+Indo-Pacific of independent, sovereign and resilient states.  Defence 
+will continue to work closely with other Government departments and 
+agencies to implement these broader initiatives.
+
+The Government has decided that defence planning will focus on 
+Australia’s immediate region: ranging from the north-eastern Indian 
+Ocean, through maritime and mainland South East Asia to Papua New 
+Guinea and the South West Pacific.
+
+That immediate region is Australia’s area of most direct strategic 
+interest.  Within it, Australia must be capable of building and exercising 
+influence in support of shared regional security interests.  Access 
+through it is critical for Australia’s security and trade.  Defence has 
+long-established patterns of deployment and engagement in this region.  
+Our defence relationships with countries in this region are an essential 
+part of our security planning, including with the Association of Southeast 
+Asian Nations (ASEAN) member states, Papua New Guinea, Timor-Leste 
+and Pacific Island countries.
+
+2.4 
+
+Australia is a steadfast supporter of ASEAN’s central role in facilitating 
+regional security dialogue and cooperation and plays an active role in 
+the ASEAN Defence Ministers’ Meeting Plus to drive practical defence 
+cooperation between regional countries.
+
+2020 DEFENCE STRATEGIC UPDATE22
+
+2.5 
+
+2.6 
+
+2.7 
+
+The Pacific Step-up builds on Australia’s history of sustained 
+engagement with countries in the Pacific and our shared and abiding 
+interest in the promotion of sovereignty, stability, security and prosperity 
+in the region.  In line with the Boe Declaration adopted by Pacific leaders 
+at the 2018 Pacific Islands Forum, Australia is enhancing its security 
+cooperation with Pacific countries, including through expanded ADF 
+training activities, infrastructure development, maritime capability and 
+people-to-people links.
+
+But habits of cooperation in the Indo-Pacific are being challenged, 
+leading to uncertainty and complicating security partnerships.  This is 
+why Defence will continue to work to strengthen defence and diplomatic 
+ties with the countries in Australia’s immediate region, working alongside 
+important partners such as the United States, Japan and New Zealand.  
+In some countries the economic and social impacts of COVID-19 may 
+require an adjustment to planned activities, but we will work closely with 
+partners to tailor our cooperation to meet evolving needs.
+
+Australia’s immediate region is also the area in which we should be 
+most capable of military cooperation with the United States.  Australia 
+is a staunch and active ally of the United States, which continues to 
+underwrite the security and stability of the Indo-Pacific.  We will continue 
+working with the United States to build defence cooperation in the region 
+to meet security challenges – such as the ongoing threat from terrorism 
+– and to build common approaches to ensure stability in our region.  It 
+also includes responding to natural disasters.  Should circumstances 
+require it, this is also the region in which Australia needs to be capable 
+of leading military operations.
+
+2.8  While Australia’s immediate region will be the focus for defence 
+
+planning, Defence will continue to invest in relationships, collaboration 
+and partnerships across the Indo-Pacific and globally.  This is vital for 
+the development of Defence capability, intelligence sharing (including 
+through the Five Eyes arrangement) and cooperation in support of 
+shared security interests.  
+
+2020 DEFENCE STRATEGIC UPDATE2020 DEFENCE STRATEGIC UPDATE24
+
+2.9 
+
+Australia engages multilaterally, such as with the United Nations, and 
+through bilateral partnerships such as our Special Strategic Partnership 
+with Japan and our Comprehensive Strategic Partnership with India, 
+to support shared interests in global rules and norms.  Australia also 
+works with smaller groups of likeminded countries, such as the Trilateral 
+Strategic Dialogue between Australia, Japan and the United States, to 
+address common strategic issues.
+
+2.10  Australia will continue to be an active and vocal advocate for a  
+
+rules-based international order designed to support economic growth, 
+security, prosperity and our values.  This includes support for laws and 
+treaties, such as the United Nations Convention on the Law of the Sea, 
+and international institutions that help constrain the exercise of coercive 
+power and support collective responses to challenges such as terrorism 
+and the proliferation of weapons of mass destruction.
+
+2.11  Defence must also remain prepared to make military contributions 
+outside of our immediate region where our interests are sufficiently 
+engaged, including in support of US-led coalitions and counter 
+terrorism actions such as in the Middle East.  Therefore, the ADF’s 
+ability to deploy forces globally, where the Government chooses to do 
+so, must be maintained.  This includes contributions across the wider 
+Indo-Pacific, including in North Asia.  North Asia is a region of global 
+strategic and economic significance and Australia has important trade 
+and broader partnership-based interests with countries in the region.  
+But any such wider contributions must be based on specific national 
+interests.  Consideration of making wider military contributions should 
+not be an equally-important determinant for force structure compared to 
+ensuring we have credible capability to respond to any challenge in our 
+immediate region.
+
+2.12  The Government has set three new strategic objectives for defence 
+
+planning.  These objectives replace the Strategic Defence Framework set 
+out in the 2016 Defence White Paper.  The new objectives are: to shape 
+
+2020 DEFENCE STRATEGIC UPDATE25
+
+Australia’s strategic environment; to deter actions against Australia’s 
+interests; and to respond with credible military force, when required.
+
+2.13  These new objectives will guide all aspects of Defence’s planning 
+including force structure planning, force generation, international 
+engagement and operations.  To implement the new objectives, 
+Defence will:
+
+•  prioritise our immediate region (the north-eastern Indian Ocean, 
+through maritime and mainland South East Asia to Papua New 
+Guinea and the South West Pacific) for the ADF’s geographical focus;
+
+•  grow the ADF’s self-reliance for delivering deterrent effects;
+
+•  expand Defence’s capability to respond to grey-zone activities, 
+
+working closely with other arms of Government; 
+
+•  enhance the lethality of the ADF for the sorts of high-intensity 
+
+operations that are the most likely and highest priority in relation to 
+Australia’s security; 
+
+•  maintain the ADF’s ability to deploy forces globally where the 
+
+Government chooses to do so, including in the context of US-led 
+coalitions; and
+
+•  enhance Defence’s capacity to support civil authorities in response to 
+
+natural disasters and crises.
+
+Shape Australia’s strategic environment
+
+2.14  Australia must be an active and assertive advocate for stability, security 
+and sovereignty in our immediate region.  To support this objective, 
+international engagement will continue to be a core Defence activity.  
+Defence will continue to build new, and strengthen existing, partnerships 
+that support this objective.  This includes continuing to build on the 
+Government’s Pacific Step-up.
+
+2020 DEFENCE STRATEGIC UPDATE26
+
+2.15  Our partnerships with regional countries have a long history but will need 
+
+to be continually developed to support shared interests in the context 
+of our evolving strategic environment.  This will involve expanding our 
+defence diplomacy, cooperation and capacity-building activities, including 
+delivering security-related infrastructure.  This increased engagement 
+will focus on the growing shared interest across the Indo-Pacific in 
+strengthening sovereignty and resilience to coercion.  Defence will 
+also expand its regional operational cooperation including in relation to 
+humanitarian assistance and disaster relief and maritime security.
+
+2.16  The capacity to conduct cooperative defence activities with countries 
+in the region is fundamental to our ability to shape our strategic 
+environment.  For defence planning, shaping Australia’s strategic 
+environment includes preventing our operational access in the region 
+from being constrained.  Constrained access would limit cooperative 
+activities and the ADF’s ability to deploy military force in support of 
+shared interests.  We must also be prepared to lead coalition operations 
+where it is in the interests of the region for us to do so, especially in our 
+immediate region.
+
+2.17  The security arrangements, interoperability, intelligence sharing, and 
+
+technological and industrial cooperation between Australia and the 
+United States are critical to Australia’s national security.  We will continue 
+to deepen the Alliance, including ensuring it reflects the priority our 
+respective defence strategies accord the Indo-Pacific.
+
+2.18  We will also continue to prioritise our engagement and defence 
+
+relationships with partners whose active roles in the region will be vital 
+to regional security and stability, including Japan, India and Indonesia.
+
+2.19  We will also increase investment in capabilities that support the ADF’s 
+
+awareness of our immediate region.  This includes expanding the Jindalee 
+Operational Radar Network to provide wide area surveillance of Australia’s 
+eastern approaches.  The Jindalee Operational Radar Network, based on 
+
+2020 DEFENCE STRATEGIC UPDATE27
+
+world-leading Australian technology, currently provides comprehensive 
+surveillance of Australia’s northern and western approaches and is a vital 
+component of Australia’s strategic surveillance network.
+
+Deter actions against Australia’s interests
+
+2.20  Australia has a highly effective, deployable and integrated military force.  
+
+But maintaining what is a capable, but largely defensive, force in the 
+medium to long term will not best equip the ADF to deter attacks against 
+Australia or its interests in the challenging environment this document 
+sets out.
+
+2.21  The nature of current and future threats – including coercion in the 
+
+region, more capable and active regional military forces, and expanding 
+anti-access and area denial capabilities – requires Defence to develop 
+a different set of capabilities.  These must be able to hold potential 
+adversaries’ forces and infrastructure at risk from a greater distance, 
+and therefore influence their calculus of costs involved in threatening 
+Australian interests.
+
+2.22  Only the nuclear and conventional capabilities of the United States 
+
+can offer effective deterrence against the possibility of nuclear threats 
+against Australia.  But it is the Government’s intent that Australia take 
+greater responsibility for our own security.  It is therefore essential that 
+the ADF grow its self-reliant ability to deliver deterrent effects.
+
+2.23  Given Australia’s limited resource base, we must improve our ability to 
+deliver these effects without seeking to match the capability of major 
+powers.  This includes developing capabilities to hold adversary forces 
+and infrastructure at risk further from Australia, such as longer-range 
+strike weapons, cyber capabilities and area denial systems.
+
+2.24  These capabilities will need to deliver deterrent effects against a broad 
+
+range of threats, including preventing coercive or grey-zone activities 
+
+2020 DEFENCE STRATEGIC UPDATE28
+
+2020 DEFENCE STRATEGIC UPDATE29
+
+from escalating to conventional conflict.  The ADF’s presence and 
+regional engagement must also serve to prevent actions that undermine 
+regional resilience and sovereignty.
+
+Respond with credible military force
+
+2.25  The prospect of high-intensity conflict in the Indo-Pacific, while still 
+
+unlikely, is now less remote.  The ADF must be better prepared for such 
+conflict if deterrence measures fail, or to support the United States and 
+other partners where Australia’s national interests are engaged.
+
+2.26  This means it is vital that we continue to enhance the lethality and 
+
+readiness of the ADF, as well as the logistic support required for 
+high-intensity warfighting.  In the event of a high-intensity conflict that 
+engages the ADF, we need to have depth for sustaining key capabilities 
+and materiel, especially munitions.  This will require less risk-averse 
+engagement with industry to accelerate capability development and 
+strengthen supply, as well as selectively increasing interdependence 
+with the United States and other partners in more responsive and 
+assured global supply chains. 
+
+2.27  Defence will also need to enhance its support to civil authorities in 
+
+response to national and regional crises and natural disasters, such 
+as pandemics, bushfires, floods or cyclones.  This includes detailed 
+planning for the provision of logistic and other support for civil authorities 
+during and after a disaster.  The Government has directed further 
+development of Defence capability in this area, including in relation 
+to equipment, facilities, training, logistics and planning.  It also means 
+strengthening partnerships with civil authorities in Australia to support 
+national efforts against shared challenges, including closer relationships 
+with other Commonwealth as well as state and territory authorities.
+
+2020 DEFENCE STRATEGIC UPDATE30
+
+Implications for force structure 
+
+2.28  The 2016 Defence White Paper judged that Australia required a force 
+
+structure and military capability able to undertake a broad range of 
+tasks.  Objectives for this force covered Australia and its approaches, our 
+nearer region, the broader Indo-Pacific and global order.  The objectives 
+were equally weighted for force structure and force posture  
+decision-making.
+
+2.29  The 2016 Defence White Paper maintained broad continuity with past 
+defence planning, based on a strategy designed to respond to a wide 
+range of regional and global challenges.  Our relatively more benign past 
+security environment provided the strategic space for this strategy.
+
+2.30  Our environment is now more complex, with Australian interests being 
+
+more directly challenged than in the past, and sharper prioritisation 
+is required.  Although the security implications of the COVID-19 
+pandemic are unclear, they are unlikely to improve the long-term trends 
+in Australia’s environment, such as increasing strategic competition, 
+or decrease the importance of building a more potent ADF.  Defence 
+must be able to deploy military power to shape our environment, 
+deter actions against our interests and, when required, respond with 
+military force.  The new policy will require force structure and capability 
+adjustments focussing on responding to grey-zone challenges, the 
+possibility of high-intensity conflict and domestic crises.
+
+2.31  More detail on the Government’s plans to strengthen Defence 
+
+capabilities to deliver its strategic policy is set out in the next chapter.
+
+2020 DEFENCE STRATEGIC UPDATE3
+
+2020 DEFENCE STRATEGIC UPDATE32
+
+2020 DEFENCE STRATEGIC UPDATE33
+
+ ` Chapter Three: Capability
+
+3.1 
+
+3.2 
+
+As a result of the decisions the Government made in the 2016 Defence 
+White Paper, Defence has made substantial progress in building a more 
+potent, capable and agile ADF.  Defence is regenerating and expanding 
+its maritime capabilities, delivering a fifth-generation air force and 
+enhancing the mobility and security of its land forces.  Defence is also 
+implementing upgrades and enhancements to critical enabling functions 
+that support its warfighting capabilities.
+
+However, the Government has decided that adjustments to the 2016 
+Defence White Paper plans are required.  These adjustments focus on 
+ensuring the ADF can shape Australia’s strategic environment, deliver 
+credible deterrence and respond to challenges to our interests.  The 
+Government’s strategy includes continuing to strengthen the intelligence 
+and cyber capabilities of the Australian Signals Directorate, which 
+are critical for identifying and responding to foreign threats targeting 
+Australian interests.
+
+3.3 
+
+The Government’s plans include:
+
+•  capabilities to support an enhanced Defence posture and  
+
+whole-of-government efforts to build Australia’s partnerships and 
+influence in the region, including the Pacific Step-up objectives; 
+
+•  more potent capabilities to hold adversary forces and infrastructure 
+at risk further from Australia, including longer-range strike weapons, 
+cyber capabilities and area denial systems; 
+
+•  more durable supply chain arrangements and strengthened 
+
+sovereign industrial capabilities to enhance the ADF’s self-reliance, 
+including in the context of high-intensity operations; 
+
+• 
+
+increased investment in capabilities to respond to grey-zone 
+activities, including improved situational awareness, cyber 
+capabilities, electronic warfare and information operations; and
+
+2020 DEFENCE STRATEGIC UPDATE34
+
+•  measures to enhance ADF support to civil authorities in response to 
+national crises and natural disasters, such as pandemics, bushfires, 
+floods or cyclones. 
+
+Capability priorities
+
+3.4 
+
+3.5 
+
+3.6 
+
+As is longstanding practice, Defence regularly reviews its capability plans 
+to ensure they can deliver the Government’s strategy.  Under the 2020 
+Force Structure Plan, a comprehensive assessment of the ADF’s force 
+structure and current and future Defence capability investments has 
+been conducted.  This assessment focussed on meeting the strategic 
+guidance set out in this document, responding to new technologies and 
+supporting ongoing modernisation of Defence over a 20 year timeframe.
+
+The Government has directed that Defence implement the 2020 Force 
+Structure Plan.  To deliver the Government’s defence strategy, including 
+the capabilities set out in this chapter and the 2020 Force Structure Plan, 
+the Government will provide Defence, including the Australian Signals 
+Directorate, with total funding over the decade to 2029-30 of $575 billion, 
+including approximately $270 billion of investment in Defence capability.  
+Further details of the Defence funding model are set out in Chapter Five.
+
+The development of the 2020 Force Structure Plan was based on 
+extensive experimentation and analysis, underpinned by cost modelling.  
+This included assessing the ADF’s ability and capacity in relation to a 
+range of possible scenarios, including responding to natural disasters, 
+and managing a number of concurrent tasks.  
+
+2020 DEFENCE STRATEGIC UPDATE35
+
+3.7 
+
+This investment plan will strengthen Defence capability across five 
+domains: Information and Cyber; Maritime; Air; Space; and Land.  The 
+Government has also allocated funding for measures to enhance resilience 
+and supply chain security and initiatives to enhance Defence’s workforce, 
+enterprise information and communications technology and infrastructure 
+and estate.  These capabilities are essential for strengthening the ADF’s 
+ability to deploy and operate as an integrated joint force.
+
+Chart 1 – Proportional Capability Investment for the  
+Decade 2020-2030
+
+3%
+
+28%
+
+24%
+
+6%
+
+2%
+
+11%
+
+20%
+
+6%
+
+  Air Domain
+  Other Enterprise and 
+  Enabler Programs
+  Enterprise Information 
+  Communication Technology 
+  Enterprise Infrastructure 
+  and Estate 
+  Information and Cyber Domain
+  Land Domain
+  Maritime Domain
+  Space Domain
+
+Note:  these percentages are rounded numbers and may not equate exactly to the capability 
+domain investment figures.
+
+3.8 
+
+Key investments in each of these areas are set out below, with further 
+detail outlined in the 2020 Force Structure Plan.  The capabilities outlined 
+in this plan will provide the Government with a flexible range of options to 
+shape Australia’s strategic environment, deter actions against Australia’s 
+interests and respond with credible military force.  Increasing integration 
+across Defence will continue to be critical to deliver these options, with 
+individual capabilities contributing to different options in different ways.
+
+2020 DEFENCE STRATEGIC UPDATE36
+
+Information and Cyber capabilities
+
+3.9 
+
+Information underpins all effective military operations.  Secure and 
+resilient information systems are critical to delivering capability, 
+conducting operations, sharing information with partners and 
+communicating with other government agencies.  This includes measures 
+to ensure that critical information and communications infrastructure, 
+systems and networks are defended against cyber attacks.  
+
+3.10 
+
+Investments are planned in joint command, control and communications 
+systems, joint electronic warfare and defensive cyberspace operations.  
+This investment in systems will be complemented by the establishment 
+of a new counter-intelligence capability, including infrastructure and 
+training equipment.
+
+3.11  Defence will also invest in offensive cyber and operational cyberspace 
+capabilities for deployed forces, as well as systems to integrate 
+intelligence, surveillance and reconnaissance programs and data.  
+Intelligence capability will be further bolstered by continued investment 
+in signals intelligence and the expansion and upgrading of secure 
+communication systems.  
+
+3.12  This investment in strengthened Information and Cyber domain 
+
+capabilities will total around $15 billion over the next decade.
+
+Maritime capabilities
+
+3.13  Australia’s naval and maritime forces are a vital element of our defence 
+
+strategy.  They must be able to project force at long range from Australia, 
+operate across vast distances and work closely with civil maritime 
+security agencies to protect our borders.  The 2016 Defence White 
+Paper laid the foundation for the largest recapitalisation of the Royal 
+Australian Navy in modern history, underpinned by a continuous National 
+Naval Shipbuilding Enterprise.  This includes the acquisition of 12 Attack 
+
+2020 DEFENCE STRATEGIC UPDATE37
+
+Class Submarines, nine Hunter Class Frigates and 12 Arafura Class 
+Offshore Patrol Vessels.  
+
+3.14  The Government will continue to deliver this nationally significant program 
+
+of investment in ships and submarines, modern shipyard infrastructure 
+and the associated vital workforce growth and skilling initiatives.  
+Additional investments will be made in anti-submarine warfare, sealift, 
+border security operations, maritime patrol and reconnaissance, air 
+warfare, sea control and undersea warfare capabilities.  The Government 
+will also prioritise the acquisition of strike weapons to increase the ADF’s 
+maritime deterrence and long-range land strike capabilities.  
+
+3.15  Significant planned investments will extend Navy’s ability to project 
+
+and sustain joint operations, including in responding to disasters.  This 
+includes two multi-role sealift and replenishment vessels, life extension 
+of Australian Defence Vessel Ocean Protector and its subsequent 
+replacement with an ice-rated vessel capable of operating in the 
+Southern Ocean.  The Government is also planning the acquisition of a 
+vessel built in Australia to support the Pacific Step-up.  The Government 
+will also invest in area denial systems including an enhanced mine 
+warfare capability to secure Australia’s maritime approaches.  Navy’s 
+mine countermeasures and tactical hydrographic capabilities will be 
+enhanced through the acquisition of up to eight additional vessels, 
+built in Australia, potentially based on the Arafura Class Offshore Patrol 
+Vessel design.
+
+3.16  The Government’s strengthening of the ADF’s maritime capabilities will 
+involve investment of around $75 billion over the next decade.  Further 
+detail on the critical role of Australia’s shipbuilding industry in delivering 
+this plan will be included in an update to the Government’s Naval 
+Shipbuilding Plan at the end of 2020.  
+
+2020 DEFENCE STRATEGIC UPDATE38
+
+Air capabilities
+
+3.17  Australia requires a technologically advanced strike and air combat 
+
+capability which must be capable of defeating threats as far from 
+Australia or its deployed forces as possible.  As well as possessing 
+potent weapons, our air combat capabilities must be fully integrated 
+with supporting intelligence, surveillance, reconnaissance and logistics 
+systems.  Investment will be made in Australia’s air combat capability, 
+comprising the F-35A Lightning II Joint Strike Fighters and EA-18G 
+Growler Electronic Attack aircraft, to ensure they remain capable of 
+delivering lethal and potent effects.  Defence will also acquire additional 
+advanced air defence and longer-range strike weapons.  
+
+3.18  The Government’s plans also include the acquisition of remotely 
+operated and/or autonomous air vehicles and the development of 
+advanced air-to-air and strike capabilities with improved range, speed 
+and survivability, potentially including hypersonic weapons.  The 
+survivability of our deployed forces will also be improved through new 
+investments in an enhanced integrated air and missile defence system 
+and very high-speed and ballistic missile defence capabilities for 
+deployed forces.
+
+3.19  The Government will also enhance Defence’s intelligence, surveillance 
+and reconnaissance capabilities.  This includes expanding the Jindalee 
+Operational Radar Network to provide wide area surveillance of 
+Australia’s eastern approaches.
+
+3.20  To deliver these strengthened air capabilities the Government will invest 
+
+around $65 billion over the next decade.
+
+Space capabilities
+
+3.21  Assured access to space is critical to ADF warfighting effectiveness, 
+situational awareness and the delivery of real-time communications 
+and information.  
+
+2020 DEFENCE STRATEGIC UPDATE39
+
+3.22  The Government will significantly increase investment in Defence’s 
+space capabilities.  This includes plans for a network of satellites to 
+provide an independent and sovereign communications network and 
+an enhanced space control program.  The Government will continue 
+investment in space situational awareness, including sensors and 
+tracking systems.  
+
+3.23  Defence will work closely with industry and other government agencies 
+to advance its space capabilities, including through the Australian 
+Space Agency.
+
+3.24  The Government has agreed to invest around $7 billion in space 
+
+capabilities over the next decade.
+
+Land capabilities
+
+3.25  The land force must be connected, protected, lethal and enabled.  
+
+Enhanced mobility, firepower, protection and situational awareness will 
+allow land forces to rapidly deploy, achieve their missions and return 
+home safely.  
+
+3.26  To enable this, investments will be made in enhancing the protection, 
+weaponry and communication systems of the land force.  Long-range 
+lethality will be strengthened through additional long-range rocket 
+systems, protected mobile artillery and enhanced missile development.
+
+3.27  Regional force projection and lift capabilities will be enhanced with new 
+
+large landing craft, special operations vehicles, watercraft and long-
+range helicopters.  
+
+3.28  The Government will strengthen the ADF’s land capabilities with 
+investment of around $55 billion over the next decade.
+
+2020 DEFENCE STRATEGIC UPDATE40
+
+The Defence enterprise
+
+3.29  A Defence enterprise that is resilient to shocks and outside interference 
+is critical to the Government’s defence strategy.  The ADF must increase 
+its self-reliant ability to deploy and deliver combat power and reduce 
+its dependencies on partners for critical capability.  The ADF must 
+also be more capable of working with Commonwealth and state and 
+territory agencies, including to respond to disasters within Australia.  
+The Government will enhance Defence’s resilience through a range of 
+investments and sustainment funding in the Defence enterprise.  
+
+3.30  To further build resilience and self-reliance, Defence will increase the 
+
+range and quantity of the weapon stocks it holds.  Funding has also 
+been allocated for exploring and potentially implementing additional 
+measures, including the development of sovereign manufacturing 
+capabilities for advanced guided weapons and explosive ordnance and 
+expanding ADF fuel storage capacity.
+
+3.31 
+
+Increased sustainment funding will increase the ADF’s preparedness to 
+provide faster responses, longer duration assistance and more flexibility 
+to Government in support of operations in Australia or overseas.  The 
+ADF’s preparedness will also be increased through enhancements to 
+Defence training areas and facilities both live and simulated.
+
+3.32  The Government will also continue to build Australia’s self-reliant 
+geospatial-information and intelligence capability, both to support 
+strategic intelligence requirements and support precision guided 
+weapons.  This will include acquisition of a sovereign space-based 
+imagery capability to enhance coverage of the Indo-Pacific region. 
+
+3.33  Upgrades to Defence’s core enterprise management systems will be 
+
+driven by a business enterprise architecture and transformation program, 
+which will include improvements to Defence’s human resource, health, 
+resource planning and enterprise information management systems.
+
+3.34  This capability investment in the Defence enterprise will be around  
+
+$15 billion over the next decade.
+
+2020 DEFENCE STRATEGIC UPDATE41
+
+Workforce
+
+3.35  The Government has determined that the ADF and Defence’s 
+
+Australian Public Service workforce must grow beyond the plans in 
+the 2016 Defence White Paper.  The requirement is based on detailed 
+analysis of a range of scenarios, from humanitarian assistance and 
+disaster relief operations to combat.  Additional growth is also planned 
+for cyber operations within the Australian Signals Directorate.  
+
+3.36 
+
+In the short term out to 2024, the Navy, Army and Air Force will all 
+grow their workforce.  In particular, the Navy workforce must expand to 
+support the introduction of new naval capabilities. This larger workforce 
+will support increasing maritime commitments in the region, including an 
+increased presence in the Pacific and enhanced border security.  
+
+3.37  The Government has directed Defence to develop further plans for 
+
+subsequent workforce growth over the medium to long term for 
+consideration by Government in 2021.  This growth will be critical to 
+deliver the enhanced capabilities set out in this document.  Continual 
+reform will be essential to recruiting, developing and supporting our 
+workforce to ensure that Defence has the people it needs into the 
+future.  This is particularly important in growing and highly competitive 
+fields including shipbuilding, cyber security and information and 
+communications technology.  
+
+Information and communications technology
+
+3.38  Defence has undertaken significant investment in its critical enabling 
+information and communications technology, including provision 
+of a secure Defence terrestrial communications network and the 
+modernisation of desktop computing and infrastructure. 
+
+3.39  Over the next five years, Defence will need to plan for developments 
+
+including next generation secure wireless networks, artificial intelligence 
+and augmented analytics.  The technology changes with implications 
+
+2020 DEFENCE STRATEGIC UPDATE42
+
+for Defence projected over the following six to ten years will also likely 
+include robotics, immersive technologies and quantum computing. 
+
+3.40  Defence will continue to focus investments on ensuring it is able to seize 
+the opportunities and meet the challenges posed by such developments.  
+In particular, investments aligned to security, information access and 
+management, connectivity, and processing and storage are planned.  They 
+include upgrades to secure networks and to systems that support sharing 
+information with domestic and international partners.  In addition to its 
+investments, Defence will continue to deliver enterprise-wide information 
+and communications technology business transformation projects. 
+
+3.41  The Government has committed investment of around $5 billion in 
+
+Defence information and communications technology capability over the 
+next decade.
+
+Estate and infrastructure 
+
+3.42 
+
+Infrastructure such as bases, ports, airfields, training areas and logistics 
+facilities underpin the ADF’s ability to prepare for, conduct and sustain 
+military operations including in response to disasters.  The Government 
+has committed to strengthening the Defence estate and infrastructure 
+with investment of around $30 billion over the next decade.
+
+3.43  The Government will continue to invest in new and enhanced facilities 
+
+to support and sustain the ADF.  Key planned investments include 
+a new Army watercraft base in Northern Australia, upgrades to key 
+maritime ports to support Navy’s operations, upgrades or new facilities 
+to support the expanded submarine fleet and provisions for significant 
+enhancements for Australia’s airbases.
+
+43
+
+4
+
+44
+
+2020 DEFENCE STRATEGIC UPDATE45
+
+ ` Chapter Four: Industry and 
+
+Innovation
+
+4.1 
+
+The Government remains committed to developing a strong, sustainable 
+and secure Australian defence industry and supporting leading edge 
+national innovation.  Both are vital to the ADF’s ability to act with greater 
+independence in an increasingly contested strategic environment.  
+
+Industry
+
+4.2 
+
+4.3 
+
+A robust, resilient and internationally competitive defence industrial base 
+is a fundamental input to Defence capability.  Continuing the cultural 
+shift to a genuine partnership between Defence and industry is critical to 
+ensuring the expertise resident in our industrial base effectively supports 
+Australia’s national security.  This means making it easier for industry 
+to work with Defence to access opportunities in the defence sector, 
+including in major capability and infrastructure programs.  Defence must 
+also help industry equip itself with the skilled workforce it will require to 
+support the ADF and connect industry to opportunities in international 
+markets. 
+
+The positive and effective relationship between Defence and industry has 
+been demonstrated in the context of the COVID-19 pandemic.  Defence 
+has worked closely with industry to ensure continuity of support to 
+critical national security capabilities despite the pressures and impact 
+of the pandemic.  The Australian Government has also implemented 
+significant initiatives to support defence industry through the pandemic, 
+and Defence will continue to contribute to strengthening and growing the 
+Australian economy as it recovers from this crisis.
+
+2020 DEFENCE STRATEGIC UPDATE46
+
+Australian Industry Capability 
+
+4.4 
+
+4.5 
+
+4.6 
+
+The Australian Industry Capability Program supports Australian industry 
+involvement in Defence procurement and projects.  The program requires 
+that prime companies competing for Defence contracts demonstrate how 
+they will maximise Australian industry involvement.  Examples include the 
+acquisition contract for Boxer Combat Reconnaissance Vehicles involving 
+an Australian Industry Capability commitment of $1.3 billion and the 
+more than 300 Australian companies that are currently associated with 
+the construction of the Offshore Patrol Vessels. 
+
+Australia’s defence industry is growing with over 4,000 businesses 
+employing approximately 30,000 staff.  An additional 11,000 Australian 
+companies directly benefit from Defence investment and, when further 
+downstream suppliers are included, the benefits flow to approximately 
+70,000 workers in total.
+
+The Government is committed to maximising opportunities for Australian 
+industry, including in regional areas, to participate in Defence projects.  
+Defence is establishing an independent audit program to ensure that 
+prime contractors deliver on their contracted obligations to support 
+Australian industry and that commitments to Australian businesses are 
+honoured.  Defence will use contractual and non-contractual means to 
+ensure that prime contractors meet the Government’s expectation that 
+they maximise Australian industry involvement. 
+
+Sovereign Industrial Capability Priorities 
+
+4.7 
+
+The Government has identified an initial ten Sovereign Industrial 
+Capability Priorities, set out in the 2018 Defence Industrial Capability 
+Plan.  They are the industrial capabilities that are critical to Defence and 
+must be developed or supported by Australian industry.  This means 
+Australia must have access to, or control over the skills, technology, 
+
+2020 DEFENCE STRATEGIC UPDATE
+
+47
+
+intellectual property, financial resources or infrastructure that underpin 
+the Priorities.  The Priorities represent a subset of the industrial 
+capabilities that Defence relies on to deliver its core objectives and will 
+be managed closely across Defence and industry planning. 
+
+4.8 
+
+By the end of 2020, implementation plans will be available for each 
+of the Priorities.  The plans will further clarify the specific industrial 
+capabilities that Defence needs now and into the future.  These plans 
+will give industry the confidence to invest in the equipment, people and 
+technologies needed to develop and deliver these industrial capabilities.
+
+Skilling
+
+4.9 
+
+Science, technology, engineering and maths skills will underpin the 
+industries and jobs of the future, including in the defence sector.  The 
+Schools Pathways Program, the Defence Industry Internship Program 
+and a new Skilling Australia’s Defence Industry program will continue 
+to equip the defence sector with the skilled workforce it will require to 
+support and sustain the ADF.  The Naval Shipbuilding College is also 
+working closely with industry and education and training stakeholders to 
+understand demand and supply requirements of the naval shipbuilding 
+industry throughout all phases of build and sustainment. 
+
+Innovation
+
+4.10  The Government will continue to invest in innovation through a 
+
+structured approach to deliver a comprehensive, cohesive and agile 
+innovation system that will bridge the gap between technology 
+development, acquisition and delivery into service.
+
+4.11  Effectively shaping and harnessing the national science and technology 
+enterprise is required to achieve a cohesive and agile innovation system 
+that can deliver defence priorities.  Defence, through the Defence 
+
+2020 DEFENCE STRATEGIC UPDATE
+
+48
+
+Science and Technology Group, will play a stronger role in enabling, 
+coordinating and focusing support to Defence from the national science 
+and technology enterprise including universities, other publicly funded 
+research agencies and industry.  
+
+4.12  This more focussed science and technology effort is set out in the More 
+Together: Defence Science and Technology Strategy 2030.  The strategy 
+provides guidance to ensure the national science and technology 
+enterprise is strengthened and leveraged to address the strategic 
+challenges Australia faces.  It includes initiatives to direct resources to 
+Defence’s most critical challenges and supports a more streamlined 
+transition of promising technological concepts into capability.
+
+4.13  The future Defence innovation system includes continued funding for 
+
+the Next Generation Technologies Fund and the Defence Innovation 
+Hub.  This will enable investment in potentially high payoff research and 
+in relatively lower-risk incremental innovation developed from industry 
+technology.  This investment reinforces Defence’s commitment to 
+stability and continued growth in the innovation sector.
+
+4.14  To ensure Defence’s innovation system has the capacity to meet 
+
+the demands of future technological development, a new Capability 
+Acceleration Fund will be introduced from the middle of this decade.  
+This fund is planned to support the development of key disruptive 
+technologies with industry beyond the early-stage research and 
+demonstration stages, taking promising future technologies all the way 
+through to acquisition.  
+
+4.15  The Government has committed around $3 billion of capability 
+
+investment in Defence innovation, science and technology over the next 
+decade.
+
+4.16  Effectively leveraging Australia’s defence industry and innovation 
+
+capabilities will depend on ongoing reform of the Defence organisation, 
+as set out in Chapter Six.
+
+2020 DEFENCE STRATEGIC UPDATE49
+
+2020 DEFENCE STRATEGIC UPDATE2020 DEFENCE STRATEGIC UPDATEIntentionally blank51
+
+5
+
+2020 DEFENCE STRATEGIC UPDATE52
+
+2020 DEFENCE STRATEGIC UPDATE53
+
+ ` Chapter Five: Resourcing
+
+5.1 
+
+5.2 
+
+The Government is providing long-term funding certainty for Defence 
+so it can deliver the strategy set out in this document.  To provide this 
+certainty, the Government is continuing its policy of providing a 10-year 
+funding model for Defence, first articulated in the 2016 Defence White 
+Paper.  This funding model will provide Defence, including the Australian 
+Signals Directorate, with total funding of $575 billion to 2029-30.
+
+Defence needs this certainty so it can plan over the long term, including 
+for complex capability acquisition programs that can span decades.  
+Australian defence industry also requires certainty to underpin its 
+investments in the skills and technology that Defence relies on to deliver 
+and support its capabilities.
+
+The Government’s Defence funding model
+
+5.3 
+
+5.4 
+
+The Government is on track to meet its commitment to growing the 
+Defence budget to two per cent of Australia’s Gross Domestic Product 
+(GDP) in 2020-21, providing $42.2 billion of funding to Defence 
+(including the Australian Signals Directorate) in 2020-21.  
+
+This funding will grow over the next ten years to $73.7 billion by 
+2029-30.  The total funding of $575 billion over the decade includes 
+around $270 billion in capability investment, compared to $195 billion 
+in capability investment for the decade to 2025-26 when the 2016 
+Defence White Paper was released.  The Defence Budget has been 
+decoupled from GDP forecasts to avoid the need for adjusting Defence’s 
+plans in response to future fluctuations in GDP.  
+
+2020 DEFENCE STRATEGIC UPDATE54
+
+Table 1 Total Defence Funding Profile 2020-21 to 2029-30 
+(Including the Australian Signals Directorate)
+
+2020-21 
+$m
+
+2021-22 
+$m
+
+2022-23 
+$m
+
+2023-24 
+$m
+
+2024-25 
+$m
+
+2025-26 
+$m
+
+2026-27 
+$m
+
+2027-28 
+$m
+
+2028-29 
+$m
+
+2029-30 
+$m
+
+Total 
+Decade 
+2020-21 
+ to  
+2029-30 
+$m
+
+Defence Funding 
+(including ASD)1
+
+42,151
+
+46,037
+
+50,170
+
+53,318
+
+55,567
+
+58,175
+
+61,239
+
+64,639
+
+69,986
+
+73,687
+
+574,969
+
+NOTE:
+1. Defence Funding (including ASD) is as at the MYEFO 2019-20 price basis. This price basis will be regularly adjusted in line with  
+Commonwealth Budget processes.
+
+How will Defence funding be spent? 
+
+5.5 
+
+5.6 
+
+5.7 
+
+The Defence budget, not including its funding for operations, comprises 
+three major categories of costs: acquisition of new capability; 
+sustainment of capability; and workforce.  A fourth category, the 
+operating budget, is comparatively minor.  Details of the three key 
+categories of funding are outlined below.
+
+Over the decade to 2029-30, investment in the acquisition of new 
+capability will grow from $14.4 billion (34 per cent of the budget) to 
+$29.2 billion (40 per cent of the budget).  
+
+Over the decade to 2029-30, investment in sustainment of current and 
+future capability will grow from $12.6 billion (30 per cent of the budget) 
+to $23.8 billion (32 per cent of the budget).  
+
+5.8  Over the decade to 2029-30, investment in the Defence workforce will 
+
+grow from $13.5 billion (32 per cent of the budget) to $19.2 billion 
+(26 per cent of the budget).  
+
+5.9 
+
+The breakdown of the categories of Defence funding, including the 
+Australian Signals Directorate, is illustrated in the chart below.
+
+2020 DEFENCE STRATEGIC UPDATE55
+
+Chart 2 –Total Defence Funding Model by Category (including the 
+Australian Signals Directorate)
+
+80,000
+
+70,000
+
+60,000
+
+50,000
+
+m
+$
+
+40,000
+
+30,000
+
+20,000
+
+10,000
+
+-
+
+2020–21
+
+2021–22
+
+2022–23
+
+2023–24
+
+2024–25
+
+2025–26
+
+2026–27
+
+2027–28
+
+2028–29
+
+2029–30
+
+WORKFORCE 
+
+SUSTAINMENT 
+
+ACQUISITION 
+
+OPERATING 
+
+Alignment of strategy, capability and resources 
+
+5.10  The strategy and resourcing set out in this Strategic Update provide 
+
+Defence with clear direction and certainty to underpin its planning 
+to support Australia’s security.  However, Defence’s capability 
+and funding plans must continue to be responsive to our rapidly 
+changing circumstances.  The 2016 Defence White Paper set out the 
+Government’s direction that Defence maintain alignment of strategy, 
+capability and resources over time.
+
+5.11  To ensure Defence remains responsive to the challenges of today and 
+to those in the future, adjustments have been made to several projects 
+planned in the 2016 Defence White Paper.  These adjustments are 
+necessary to ensure the future ADF can project military power to shape 
+our environment, deter actions against our interests and, when required, 
+respond with effective military force.  Major adjustments include a 
+
+2020 DEFENCE STRATEGIC UPDATE56
+
+significant reduction in the planned modernisation and replacement of 
+the G-Wagon vehicle fleet.  Defence will also adjust the composition of 
+its intelligence, surveillance and reconnaissance, refuelling and airlift 
+aircraft fleets and will not proceed with the purchase of an enhanced 
+long-range search and rescue capability.  A number of infrastructure and 
+enabling projects will also be adjusted.
+
+5.12  Although resources have been allocated to implement this  
+
+Strategic Update, further force structure adjustments and, potentially, 
+trade-offs will be required over the medium to longer term.  In particular 
+this could involve the introduction of additional, longer-range weapon 
+systems, which are being developed and introduced into service in many 
+advanced military forces and which will be critical for the ADF to be able 
+to deliver credible deterrent effects.
+
+5.13  Accordingly, the plans set out in this Strategic Update will be subject to 
+
+regular review by Government and regular reporting to the Australian 
+people through the Parliament.  The Government expects that Defence 
+will continue to make investment decisions that balance expenditure 
+on capability acquisition, sustainment, operating and workforce costs 
+to ensure the Government’s strategy is delivered within the Defence 
+budget.  Ongoing reform of the Defence organisation will be critical 
+to continuing to deliver capability efficiently and effectively, and is 
+addressed in the next chapter.
+
+ 
+57
+
+6
+
+2020 DEFENCE STRATEGIC UPDATE59
+
+ ` Chapter Six: Reform
+
+6.1 
+
+6.2 
+
+6.3 
+
+6.4 
+
+6.5 
+
+6.6 
+
+The Government has directed that the three pillars of strategy, capability 
+and reform underpin all aspects of Defence planning and activity.  
+
+Defence must be a single strategy-led and centrally directed 
+organisation – one that is agile, proactive and effective in adapting to 
+strategic and technological trends and changes.  To achieve this vision, 
+Defence must improve its capacity to identify and seize opportunities for 
+organisational reform. 
+
+The 2015 First Principles Review commenced Defence’s transformation 
+into an adaptive strategy-led organisation.  Implementation has 
+enhanced Defence’s agility in strategic policy and capability 
+development, including tighter alignment of strategic and force structure 
+analysis, policy development, acquisition, research and development and 
+industry policy. 
+
+Defence is now driving its next phase of reform under Defence 2022 – 
+Embedding One Defence. These reforms are strengthening Defence’s 
+strategic centre and clarifying accountabilities to improve strategic 
+performance and governance. 
+
+The new strategic policy framework set out in this Strategic Update will 
+be incorporated into Defence’s classified planning guidance.  This annual 
+planning guidance directs all planning processes across Defence to 
+ensure the ongoing alignment of strategy, capability and resources.
+
+Defence continues to mature its approach to managing capability 
+through an end-to-end capability life cycle.  Improvements in the 
+processes and analysis of force design decisions are also enhancing 
+Defence’s performance in developing and delivering capability.  
+These improvements have underpinned the Government’s record 
+of implementing its capability plans through significant numbers of 
+
+2020 DEFENCE STRATEGIC UPDATE60
+
+capability investment approvals, while ensuring ongoing responsible and 
+effective management of Defence’s resources.
+
+6.7 
+
+The culture of reform has also underpinned the development of the 
+2020 Force Structure Plan.  
+
+6.8  Work has commenced to determine further reforms necessary to deliver 
+
+the outcomes required by this new strategy, including improving Defence’s 
+accountability and reporting frameworks.  Stronger force design processes 
+will be complemented through capability being managed as programs 
+rather than individual projects.  Capability will be delivered through clearer 
+and even more streamlined acquisition processes and in even closer 
+partnership with Australian Defence Industry.
+
+6.9 
+
+Cultural reform undertaken through Pathway to Change: Evolving 
+Defence Culture 2017-2022 continues to embed workplace norms and 
+behaviours that support Defence people, help attract the best talent and 
+promote Defence values.
+
+6.10  Defence will further transform its business processes and integrate 
+the delivery of corporate and enabling services to ensure Defence 
+personnel focus on their core roles in delivering and supporting Defence 
+capability.  These changes will strengthen Defence’s strategic centre, 
+improve enterprise performance and governance, and redirect resources 
+currently devoted to administering Defence to bolstering capability.
+
+6.11  The outcome of these reforms is not simply about the extent to which 
+Defence is performing well against its own internal measures, rather 
+its capacity to ensure that its development and use of capability is 
+sustainable and robust as well as transparent to all Australians through 
+the Parliament.
+
+2020 DEFENCE STRATEGIC UPDATE61
+
+6.12  Continuous transformational reform is essential for building Defence’s 
+capacity to respond to a more uncertain external environment.  Reform 
+cannot be a one-off process – improvement is continual – and it must 
+be purposeful.  Defence must continue to evolve and adapt to meet 
+Australia’s changing strategic environment and maintain alignment of 
+strategy, capability and resources.
+
+2020 DEFENCE STRATEGIC UPDATE0
+
+2
+
+0DEFENCE
+
+2
+
+STRATEGIC
+
+UPDATE
+
+

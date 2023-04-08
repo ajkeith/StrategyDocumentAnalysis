@@ -1,0 +1,543 @@
+Thailand National AI Strategy and Action Plan 
+(2022 – 2027)
+
+1
+
+Outline
+
+Background
+• What led to Thailand NAIS?
+• Challenges in AI Development and Adoption in Thailand
+• Initiatives between MHESI and MDES
+
+Thailand NAIS
+• 5 Strategies
+• Governance Mechanisms
+
+2
+
+Background
+
+• What led to Thailand NAIS?
+• Challenges in AI Development and Adoption 
+
+in Thailand
+
+• Initiatives between MHESI and MDES
+
+3
+
+What led to Thailand National AI Strategy?
+▶ Thailand’s Government Artificial Intelligence Readiness Index 
+
+Thailand AI Index Scores are No. 7 & 9 compared to countries in 
+East Asia in 2020 & 2021
+
+Pillars & Dimensions 
+of the Ranking 
+in 2020 detail
+
+Ranking 2019
+
+56
+
+2020
+
+60
+
+2021
+
+59
+
+Year
+
+2020
+
+2021
+
+Global Position
+
+Overall Score
+
+Government
+
+60 (from 172)
+
+59 (from 160)
+
+48.16
+
+52.63
+
+38.70
+
+45.45
+
+Technology 
+Sector
+40.76
+
+Data & 
+Infrastructure
+65.01
+
+41.22
+
+71.21
+
+Source: Oxford Insights, International Research Centre, 2019, 2020 & 2021
+
+2020
+
+2021
+
+4
+
+Challenges in AI Development and Adoption in Thailand
+
+AI Human capacity
+• Lack of strong AI expert community
+• Lack of AI manpower in both academic 
+
+and industry
+
+• Lack of AI technology expertise
+• No proper AI academic program in Thai 
+
+universities
+
+Ethics law and regulation
+• AI ethics has not been adopted 
+
+broadly 
+
+• Lack of AI law and regulation
+• Lack of awareness and readiness 
+
+in the society
+
+Business adoption of AI
+• Very limited AI adoption in business sector
+• R&D and innovation is not ready for 
+
+commercialization
+
+• Insufficient government support and 
+
+stimulation 
+
+National Support Infrastructure
+• No national AI strategy for Thailand
+• Insufficient AI education among Thai 
+
+people 
+
+• Insufficient research and development 
+
+infrastructure
+
+5
+
+Initiatives between MHESI and MDES
+
+Important milestone of the initiatives
+
+19 Feb 2021
+
+14 Jul 2021
+
+19 Jul 2021
+
+12 Jan 2022
+
+Appointment order of Thailand NAIS working committee 
+
+The draft of Thailand NAIS received approval from the National Digital Economy and Society 
+committee
+The draft of Thailand NAIS received approval from the National Higher Education, Science, 
+Research and Innovation Policy Council committee 
+
+The draft of Thailand NAIS received approval from the National Economic and Social 
+Development Council committee
+
+26 Jul 2022
+
+Thailand NAIS received approval from cabinet 
+
+17 Aug 2022
+
+Appointment order of “National AI committee” (the driving committee for AI Strategy) 
+
+6
+
+Thailand National AI Strategy 
+and Action Plan (2022 – 2027)
+
+• 5 Strategies
+• Governance Mechanisms
+
+7
+
+Vision
+
+3
+
+Target 
+objectives
+
+5
+
+Strategies
+
+10
+
+Target 
+sectors
+
+Thailand National AI Strategy and Action Plan (2022 – 2027)
+“Thailand has an effective ecosystem to promote AI development and application to enhance the 
+economy and quality of life within 2027”
+
+Human capacity and Technology
+▶ AI Reskill/ Upskill/ New skill for 
+
+academic sector 
+
+Economic growth
+▶ Increase productivity with high value-
+added products and services using AI
+
+▶ AI skill is used to enhance all work 
+
+▶ AI as a driver for Thailand national 
+
+sectors
+
+agenda
+
+Social and environmental impact
+▶ Enhance public access to government services 
+
+using AI
+
+▶ Bridging income, education, and healthcare gaps
+▶ Better environment and efficient use of natural 
+
+▶ New professional based on AI and 
+
+▶ AI innovation for Tech startups / SME / 
+
+resources
+
+digital skill
+
+Digital Business
+
+▶ Enhance national security and safety
+
+Strategy 1 
+Preparing Thailand's 
+readiness in social, ethics, 
+law, and regulation for 
+AI application
+
+Strategy 2 
+Developing national 
+infrastructure for 
+sustainable AI 
+development
+
+Strategy 3 
+Increasing human 
+capability and 
+improving AI 
+education
+
+Strategy 4 
+Driving AI 
+technology and 
+innovation 
+development
+
+Strategy 5 
+Promoting the 
+use of AI in 
+public and 
+private sectors
+
+Food & agriculture
+
+Healthcare & medical
+
+Education
+
+Security & safety
+
+Energy & environment
+
+Government service
+
+Logistics & transportation
+
+Creative economy & tourism
+
+Manufacturing
+
+Trade & finance
+
+Focus on phase 1 (2022 - 2023)
+
+Additional focus on phase 2 (2024 – 2027)
+
+8
+
+Thailand NAIS : 5 Strategies  
+
+Strategy 1
+
+Strategy 2
+
+Strategy 3
+
+Strategy 4
+
+Strategy 5
+
+Preparing Thailand's 
+readiness in social, ethics, 
+law, and regulation for AI 
+application
+
+Developing 
+Infrastructure for 
+Sustainable AI 
+Development 
+
+Increasing human 
+capability and 
+improving AI 
+education
+
+Driving AI
+technology and 
+innovation 
+development 
+
+Promoting the use 
+of AI in public and 
+private sectors 
+
+9
+
+Strategy 1 
+
+Thailand NAIS
+
+Preparing Thailand's readiness in social, ethics, law, and regulation 
+for AI application
+
+Key Indicators
+
+Work plans
+
+• At least 600,000 Thai population have 
+
+awareness of AI law and ethics
+• An AI Law & Regulation is enforced
+
+1.1 Policy and standard for AI Ethics
+1.2 Driving awareness and education for AI 
+
+Ethics
+
+Note: Overall budget is still under discussion and waiting for approval from the cabinet
+
+10
+
+Strategy 2 
+
+Thailand NAIS
+
+Developing Infrastructure for Sustainable AI Development 
+
+Key Indicators
+
+• Increase Thailand’s Government AI 
+
+Readiness index to rank among top 50 
+globally
+
+• Increasing digital infrastructure investment 
+
+10% per year to support AI development in 
+both public & private sectors
+
+Work plans
+2.1 Creating AI expert networks
+2.2 Creating a national platform for advanced data 
+
+analytics and management
+
+2.3 Creating a national AI service platform
+2.4 Developing High Performance Computing (HPC) 
+
+infrastructure
+
+11
+
+Strategy 3 
+
+Thailand NAIS
+
+Increasing human capability and improving AI education 
+
+Key Indicators
+
+• Creating more than 30,000 AI 
+
+talents within 6 years 
+
+Work plans
+
+3.1 Improving AI education and knowledge creation
+3.2 AI Scholarship programs
+3.3 Cooperation mechanism development with 
+
+researchers & experts from abroad
+
+12
+
+Strategy 4 
+
+Thailand NAIS
+
+Driving AI technology and innovation development 
+
+Key Indicators
+
+Work plans
+
+• Strengthen AI technology by developing at least 
+
+4.1 Applying AI technology and innovation 
+
+100 R&D prototypes within 6 years
+
+• Wide adoption of AI research, development and 
+innovation helps create business & social impact 
+of at least 48 billion Baht by 2027 
+
+for strategic sectors
+
+4.2 Developing AI core technology and 
+
+platform 
+
+13
+
+Strategy 5 
+
+Thailand NAIS
+
+Promoting the use of AI in public and private sectors 
+
+Key Indicators
+
+Work plans
+
+• Number of agencies (government, 
+
+business & new entrepreneurs) using AI 
+innovation is increased to at least 600 
+agencies in 6 years 
+
+5.1 Promoting AI use in government sector
+5.2 Promoting AI use in key industries 
+5.3 Promoting system integrator industry  with AI 
+
+capability
+
+• Thailand's AI competitiveness is increased 
+
+5.4 Developing mechanisms & sandboxes for 
+
+by AI applications
+
+business innovation and AI Startup
+
+14
+
+A list of example projects in Phase 1 & 2
+
+Thailand AI Strategy and 
+Action Plan
+(2022 – 2027)
+
+Strategy 1: Preparing Thailand's readiness in social, ethics, law, and regulation for AI application
+• Phase 1: AI ELSI, AI LAWS
+
+Strategy 2: Developing national infrastructure for sustainable AI development
+• Phase 1: AI Service 
+• Phase 2: GDCC AI Marketplace, HPC Service 
+
+Strategy 3: Increasing human capability and improving AI education
+• Phase 1: AI Training
+• Phase 2: AI Training: Phase II, Higher Education Scholarship in AI
+
+Strategy 4: Driving AI  technology and innovation development
+• Phase 1: Medical AI, Digital Farming
+• Phase 2: Human Computer Communication AI Services, AI for Electric Vehicle, Innovative 
+
+food, AI for Audit , Behavioral and Cognitive Education
+
+Strategy 5: Promoting the use of AI in public and private sectors
+• Phase 1: AI Startup, AI for Government Services 
+• Phase 2: Tourism AI, Financial AI, Industry 4.0 Index, Targeted Crop Allocation, Demand Response 
+
+Management, AI for Public Surveillance
+
+15
+
+Governance Mechanisms
+
+Chairman (Prime Minister)
+Vice-chairman (Deputy Prime Minister: Mr. Don Pramudwinai)
+National AI Committee
+
+Secretary: NSTDA & ONDE
+
+National AI Subcommittee and Working Committee  
+
+AI COE
+
+AI Consortium
+
+Regulators
+
+Technology 
+Developers
+
+Digital business
+(IoT, Telecom., Smart Elec.)
+
+Funding agencies
+
+Businesses & Target Sectors
+
+Public Sector
+
+E
+c
+o
+s
+y
+s
+t
+e
+m
+
+16
+
+17
+
+

@@ -1,0 +1,1087 @@
+Terms of Reference 
+
+ 
+ 
+ 
+Global Partnership on Artificial Intelligence: 
+Terms of Reference 
+
+I. OVERVIEW 
+
+1. 
+The Global Partnership on Artificial Intelligence (GPAI) is an initiative dedicated 
+to artificial intelligence (AI) that will bring together countries that share the values reflected 
+in Annex A Section 1: Principles for responsible stewardship of trustworthy AI and Section 
+2: National policies and international co-operation for trustworthy AI of the OECD Council 
+Recommendation  on  Artificial  Intelligence  (hereafter  the  “OECD  Recommendation  on 
+AI”), and many of the greatest global AI experts from all relevant areas such as science, 
+industry,  labour/trade  unions,  civil  society,  international  organisations,  and  the  public 
+sector.   
+
+2. 
+GPAI  is  a  multistakeholder  initiative  grounded  in  the  political  will,  and  like-
+mindedness, of its Members, its experts and others participating in its work. Membership 
+and participation do not entail any legally binding rights or obligations under domestic or 
+international law. 
+
+1. Mission statement 
+
+3. 
+The mission of GPAI is to bring countries and experts together to support and guide 
+the  responsible  adoption  of  AI  grounded  in  human  rights,  inclusion,  diversity,  gender 
+equality,  innovation,  economic  growth,  and  environmental  and  societal  benefit,  while 
+seeking to contribute concretely to the 2030 Agenda and the UN Sustainable Development 
+Goals. GPAI facilitates international project-oriented collaboration in a multistakeholder 
+and multidisciplinary manner with the scientific community, industry, labour/trade unions, 
+civil society, international organisations, and countries, taking into particular account the 
+interests,  contributions,  and  priorities  of  emerging  and  developing  countries.  GPAI 
+collaborates  with  other  organisations  and  initiatives  and  draws  on  work  being  done 
+domestically  and  internationally  to  identify  gaps,  maximise  coordination,  and  facilitate 
+international collaboration on AI. GPAI seeks to leverage its multistakeholder nature and 
+diverse membership to add a unique perspective to the international AI landscape. 
+
+4. 
+GPAI  offers  unique  value  in  the  global  AI  ecosystem  as  an  initiative  dedicated 
+specifically  to  better  understanding  AI  challenges  and  understanding  and  shaping  AI 
+opportunities, and one that convenes expertise from a wide range of sectors, disciplines, 
+and countries to collaborate on applied projects in its Expert Working Groups. GPAI seeks 
+to  bring  together  perspectives  from  countries  and  territories  with  differing  contexts, 
+backgrounds, and experience, including by welcoming new Members. 
+
+2. Work programme 
+
+5. 
+GPAI undertakes applied projects on AI (“Projects”) and provides a mechanism for 
+sharing  multidisciplinary  analysis,  foresight  and  coordination  on  outcomes,  with  the 
+objective of facilitating collaboration, maximising synergies, and reducing duplication in 
+the area of AI. GPAI assesses – on a comprehensive, objective, open, and transparent basis 
+–  the  scientific,  technical  and  socio-economic  information  relevant to  understanding  AI 
+
+ 
+impacts,  encouraging  its  responsible  development  and  options  for  adaptation  and 
+mitigation of potential challenges.  
+
+6. 
+GPAI  Projects  are  conducted  in  line  with  the  priorities  of  GPAI  Members  to 
+facilitate  international  multistakeholder  analysis  and  understanding  of  key  AI-related 
+issues.  GPAI  Projects  aim  to  be  applicable,  as  appropriate,  to  different  contexts  across 
+Members and help inform their policy-making. Projects may include, amongst other things, 
+consolidating and assessing existing information, research, analysis, and good practices, 
+developing datasets, developing tools related to AI application, and identifying areas for 
+future work.  
+
+7. 
+GPAI focuses on the application of AI and the implementation of the principles set 
+out in Annex A, rather than on developing high-level AI norms or policy. GPAI will not 
+work on issues of national defence. 
+
+3. Outputs 
+
+8. 
+
+GPAI will deliver outputs, including the following: 
+
+•  From Expert Working Groups: Reports, tools, systems, datasets, or other outputs 
+relevant to the application of AI in practice. Expert Working Group reports may, 
+for example, consolidate and assess existing information, research, analysis, and 
+good  practices,  propose  areas  for  deeper  collaboration,  or  present  the  findings, 
+outcomes, or outputs of Expert Working Groups’ Projects. Expert Working Groups 
+may  also  make  practical  recommendations,  for  example,  as  to  how  AI  can  be 
+applied and adopted in practice in line with the Principles set out in Annex A. 
+
+•  From the Multistakeholder Expert  Group: An Annual Report synthesising the 
+work of the Expert Working Groups and of the Multistakeholder Expert Group , 
+including any practical recommendations as to how AI can be applied and adopted 
+in  practice,  assessing  key  AI  developments  and  trends,  and  taking  into 
+consideration the interests of GPAI Members. The Multistakeholder Expert Group 
+will  also  propose  themes  for  the  Multistakeholder  Expert  Group  and  Expert 
+Working Groups for the following year (these may be new or ongoing). 
+
+Disclaimers will be used in all GPAI outputs to clearly identify whose views they represent 
+(e.g. GPAI Members, GPAI Experts, groups of GPAI Experts, etc.). A disclaimer will be 
+included in all GPAI publications, reports, or other outputs stating clearly that GPAI is a 
+separate entity from the OECD and that, accordingly, the opinions expressed and arguments 
+employed therein do not reflect the views of the OECD or its Members. 
+
+II. MEMBERSHIP AND PARTICIPATION 
+
+1. Membership 
+
+9. 
+
+Membership of GPAI is open to countries and the European Union. 
+
+10.  Membership Application Process: 
+
+•  Those interested in membership should contact the GPAI Secretariat and provide 
+an  application  that  includes  a  letter  of  intent  that  sets  out  reasons  for  seeking 
+membership, as well as confirmation that the applicant endorses the shared values 
+reflected  in  the  OECD  Recommendation  on  AI  by  adherence  thereto  or,  for 
+
+ 
+applicants  which  are  not  adherents  to  the  OECD  Recommendation  on  AI,  the 
+principles set out in Annex A. 
+
+•  Upon receipt of an application, the Executive Council will assess: 
+
+o  The applicant’s commitment to responsible AI and the shared values reflected 
+in the OECD Recommendation on AI or the principles set out in Annex A; 
+
+o  The  degree  to  which  the  applicant  takes  a  proactive  role  in  advancing 
+responsible AI, grounded in human rights, both on domestic and international 
+levels, as well as with organisations and initiatives; and 
+
+o  The level of expertise of AI experts working in the region, across a variety of 
+sectors and disciplines, taking into account the differences that exist between 
+regions  and  the  need  to  integrate  experts  from  a  range  of  regions  that  is  as 
+diverse and representative as possible. 
+
+•  The  Steering  Committee  will  be  invited  to  discuss  and  transmit  any  views  on 
+applicants to the Executive Council to be taken into account in the assessment of 
+applicants. 
+
+•  Once  the  Executive  Council’s  assessment  is  complete,  it  will  transmit  its 
+
+recommendation to the Ministerial Council for decision. 
+
+•  Unsuccessful applicants may apply to become GPAI Members again in the future. 
+
+•  The Executive Council may develop further procedures for assessing membership 
+
+applications. 
+
+•  The  Executive  Council  will  take  steps  to  foster  engagement  with  prospective 
+
+Members from under-represented regions on an ongoing basis.  
+
+2. GPAI Experts, Observers, external experts 
+
+GPAI Experts: 
+
+11. 
+GPAI will include opportunities for participation by a broad range of international 
+experts from a variety of stakeholder groups, disciplines, and sectors, including science, 
+industry, labour/trade union, civil society, international organisations, and the public sector. 
+Experts  appointed  to  participate  formally  in  the  Multistakeholder  Expert  Group  and 
+assigned thereafter to any Expert Working Groups or Projects will be referred to as “GPAI 
+Experts”.  
+
+12. 
+GPAI  Experts  are  selected  and  participate  in  GPAI  as  individuals,  and  do  not 
+represent  any  organisation  or  country.  GPAI  Experts  need  not  be  nationals  of  GPAI 
+Members.  GPAI  Experts  are  appointed  by  the  Executive  Council  for  three-year  terms. 
+GPAI Experts may be re-appointed to successive terms. Where a GPAI Expert is assigned 
+to  a  Project  that  is  ongoing  at  the  time  of  the  expiry  of  their  term  and  they  are  not  re-
+appointed, the Steering Committee may decide to extend their appointment until the end of 
+the Project. The maximum number of GPAI Experts serving at one time may not exceed 
+six times the number of GPAI Members. 
+
+13. 
+
+GPAI Expert Application Process: 
+
+•  GPAI Experts may be nominated by Members or self-nominated. 
+
+•  Each GPAI Member may nominate up to three GPAI Experts.  
+
+ 
+• 
+
+Individuals with expertise relevant to AI that wish to be appointed as GPAI Experts 
+may self-nominate by submitting a curriculum vitae and a statement of interest to 
+the  GPAI  Secretariat  comprising  a  letter  setting  out  their  reasons  for  seeking  to 
+participate  in  GPAI  as  well  as  confirmation  that  they  support  the  shared  values 
+reflected in the OECD Recommendation on AI and set out in Annex A. Applicants 
+may be asked to provide further information relevant to their applications. 
+
+•  The Executive Council appoints GPAI Experts on the basis of a recommendation 
+by the Steering Committee. The Executive Council and Steering Committee will 
+work  to  ensure  balance  between  different  stakeholder  groups  (science,  industry, 
+labour/trade union, civil society, and international organisations), balance between 
+member-nominated  and  self-nominated  GPAI  Experts,  as  well  as  diversity, 
+including across nationalities and gender. 
+
+Observers:  
+
+14. 
+International organisations focused on AI may be invited to send a representative 
+to  Ministerial  Council,  Executive  Council,  Multistakeholder  Expert  Group,  or  Expert 
+Working Group meetings as Observers, either for a period of one year, or on an ad hoc 
+basis for individual meetings or parts of meetings.  
+
+Individuals  or  representatives  of  other  relevant  organisations  may  be  invited  to 
+the  Executive  Council,  Steering  Committee,  or 
+
+15. 
+observe  Ministerial  Council, 
+Multistakeholder Expert Group meetings, or parts thereof, on an ad hoc basis.  
+
+16. 
+The Executive Council will decide on inviting such Observers to Ministerial and 
+Executive Council meetings, together with any conditions on their invitation. The Steering 
+Committee will decide on inviting such Observers to the Multistakeholder Expert Group, 
+together with any conditions on their invitation. The Expert Working Groups will decide 
+on  inviting  Observers  to  their  own  meetings,  together  with  any  conditions  on  their 
+invitation. Observers will attend relevant meetings or parts thereof and may be invited by 
+the  Chair  to  speak,  but  will  not  take  part  in  decision-making.  Observership  may  be 
+terminated by the Executive Council or the body that granted it at any time by two-thirds 
+majority vote.   
+
+OECD  Members  may  collectively  observe  meetings  of  the  Steering  Committee 
+
+17. 
+through one “rapporteur”.  
+
+18. 
+In its status as permanent observer, the OECD Secretariat may attend all meetings 
+of  the  GPAI  Council,  Steering  Committee,  and  other  GPAI  bodies  and  may  contribute 
+substantively to agenda items.  
+
+External experts: 
+
+19. 
+Other individuals may be invited to attend Expert Working Group meetings or parts 
+of Expert Working Group meetings as external experts on an ad hoc basis in their individual 
+capacity pursuant to the same decision-making rules as Observers  with a view to filling 
+specific gaps in expertise or otherwise supporting the work of the Expert Working Groups. 
+
+3. Expectations of Members, GPAI Experts, Observers, and external experts 
+
+20. 
+All GPAI Members, GPAI Experts, Observers, and external experts must commit 
+to  the  advancement  of  responsible  AI  and  the  shared  values  reflected  in  the  OECD 
+Recommendation on AI or the Principles set out in Annex A. 
+
+ 
+21. 
+Any Member or GPAI Expert may withdraw from GPAI at any time by submitting 
+a letter to the GPAI Secretariat indicating their withdrawal. The GPAI Secretariat will then 
+inform the GPAI Expert Support Centres, the Steering Committee, and GPAI Executive 
+Council.   
+
+22.  Members: The Steering Committee or Executive Council may launch a review of 
+whether  a  Member  is  acting  consistently  with  the  shared  values  reflected  in  the  OECD 
+Recommendation on AI or the Principles set out in Annex A by simple majority vote. The 
+Member under review will be informed in writing when the review process is initiated, and 
+it will be invited to submit information in response for inclusion in a written report. If, upon 
+consideration of this report, as well as any information submitted by the Member under 
+review, the Ministerial Council agrees by a two-thirds majority vote that the Member has 
+not met its commitments as a GPAI Member, its membership will be terminated. GPAI 
+Members whose membership has been terminated may re-apply for membership. The new 
+application should include information on any steps taken to address concerns outlined in 
+the report supporting its termination, or any other concerns communicated by the GPAI 
+Council.  
+
+23. 
+GPAI Members are expected to contribute to funding the GPAI Secretariat budget 
+in equal shares, committing their annual share before the end of the preceding year, unless 
+given an exception by Council. 
+
+24. 
+GPAI  Experts,  Observers,  and  external  experts  are  required,  in  the  context  of 
+agreeing to engage with GPAI, to declare the absence of any conflict of interest and commit 
+to avoid any actual, apparent or potential conflicts of interest, commit to the shared values 
+reflected in the OECD Recommendation on AI or the Principles set out in Annex A, as well 
+as to any other conditions of their engagement. Should the Executive Council decide that a 
+GPAI Expert, Observer, or external expert has acted in a manner contrary to the shared 
+values reflected in the OECD Recommendation on AI or the Principles set out in Annex A, 
+or has a conflict of interest, they will no longer be invited to participate in GPAI. 
+
+III. STRUCTURE 
+
+1. GPAI Council 
+
+Purpose: Provides strategic direction to GPAI and holds ultimate decision-making 
+
+25. 
+authority. 
+
+26. 
+
+Formats and composition: The GPAI Council meets in two formats: 
+
+•  Once per year at Ministerial level (Ministerial Council) or as otherwise decided by 
+the GPAI Members, with high-level representatives (Minister or Deputy-Minister 
+equivalent) from all GPAI Members. Meetings may be held in person or virtually 
+at the discretion of the Lead Chair. 
+
+•  Three  times  per  year  at  working  level  (Executive  Council),  with  representatives 
+from  all  GPAI  Members.  The  Lead  Chair  may  call  further  Executive  Council 
+meetings  either  on their  own  initiative or following a  request  from  one  or more 
+GPAI Members. Meetings may be held in person or virtually. 
+
+The  Ministerial  and  Executive  Councils may invite  ad  hoc  Observers,  including 
+
+27. 
+GPAI Experts, to attend their meetings or parts thereof. 
+
+ 
+28. 
+Chairing arrangements: The GPAI Council is led by three GPAI Members serving 
+in  staggered  one-year  terms  –  a  current  year  Lead  Chair  supported  by  Outgoing  and 
+Incoming Support Chairs. The GPAI Council elects a new Incoming Chair annually by a 
+simple majority vote. 
+
+29. 
+
+The Lead Chair, with the support of the Support Chairs: 
+
+•  Chairs meetings of the GPAI Council; 
+
+•  Unless otherwise agreed, hosts and organises the annual Ministerial Council and 
+
+GPAI Summit; 
+
+•  Plays  a  leading  role  in  communicating  externally  on  behalf  of  GPAI  Members, 
+
+under the guidance of the Executive Council. 
+
+30. 
+The  Incoming  Support  Chair  proposes  themes  to  be  addressed  by  the 
+Multistakeholder Expert Group and Expert Working Groups in the following year. These 
+proposed  themes  should  be  developed  in  consultation  with  the  Lead  Chair,  Outgoing 
+Support Chair, and on the basis of the themes proposed by the Multistakeholder Expert 
+Group  and  broader  GPAI  work  and  outputs.  The  Executive  Council  will  discuss  the 
+Incoming Support Chair’s proposal and submit a final proposal to the Ministerial Council 
+for approval. 
+
+31. 
+
+Decision-making: 
+
+•  Decisions are made by two-thirds majority votes unless provided otherwise in these 
+Terms  of  Reference.  Votes  will  be  conducted  only  in  cases  where  one  or  more 
+Members object to a proposed decision. 
+
+•  Decisions may be taken through written procedure. Unless the Lead Chair, having 
+consulted with the Support Chairs, considers it justified to shorten such period in a 
+specific case, GPAI Members will be given two weeks within which to raise any 
+objection. 
+
+32. 
+
+Responsibilities of the Ministerial Council: 
+
+•  Approves the admission of new GPAI Members; 
+
+•  Approves the themes to be addressed by the Multistakeholder Expert Group and 
+Expert  Working  Groups,  including  both  the  approval  of  new  themes  or  the 
+maintenance and continuation of existing themes;  
+
+•  Welcomes and  discusses the  Multistakeholder  Expert  Group  Annual  Report and 
+
+Expert Working Group outputs; 
+
+•  Approves the establishment of Expert Support Centres; 
+
+•  When appropriate, issues public statements or recommendations based on the work 
+
+of the Multistakeholder Expert Group and Expert Working Groups;  
+
+33. 
+
+Responsibilities of the Executive Council: 
+
+•  Makes recommendations to the Ministerial Council on membership; 
+
+•  Approves exceptions to the principle that Members fund GPAI in equal shares;  
+
+•  Appoints the three additional government representatives (beyond the Chairs of the 
+
+GPAI Council) to the Steering Committee;  
+
+ 
+•  Appoints GPAI Experts, on the recommendation of the Steering Committee; 
+
+•  Approves the proposal of themes to be addressed by the Multistakeholder Expert 
+Group and Expert Working Groups in the following year to the Ministerial Council, 
+on  the  basis of the  draft proposed themes  put  forward  by  the  Incoming  Support 
+Chair and taking into account the Multistakeholder Expert Group proposed themes 
+and broader GPAI work and outputs; 
+
+•  Establishes, maintains, and discontinues Expert Working Groups on the proposal 
+
+of the Steering Committee; 
+
+•  Approves Expert Working Group Projects through the approval of annual Work 
+
+Plans; 
+
+•  Assigns Expert Working Groups to Expert Support Centres; 
+
+•  Approves the assignment of specific Projects to National AI Institutes or groups of 
+
+National AI Institutes; 
+
+•  Makes recommendations to the Ministerial Council on the establishment of Expert 
+
+Support Centres; 
+
+•  Develops  a  branding  and  communications  policy  in  order  to  ensure  appropriate 
+branding, visibility, and accountability for all outputs related to GPAI taking into 
+account reputational risk;  
+
+•  Develops complementary governance procedures to support the implementation of 
+
+these Terms of Reference where necessary; 
+
+•  Provides substantive guidance and direction to the GPAI Secretariat and the Expert 
+
+Support Centres; 
+
+•  Approves the GPAI budget, including both the three-year GPAI Secretariat Budget, 
+together  with  –  subject  to  the  development  of  governance  procedures  by  the 
+Executive Council – the rolling three-year budget (reviewed annually) for pooled 
+seed funding for Expert Working Group Projects; 
+
+•  As appropriate, engages the OECD Council to discuss areas of mutual interest.  
+
+2. Steering Committee 
+
+34. 
+Purpose: Provides a forum for co-ordination and exchange between Members and 
+GPAI Experts, ensuring that the broader views of GPAI Experts are fed into and taken into 
+account in the preparation of GPAI Council decisions and that GPAI Members’ views are 
+taken into  account  in  such  decisions relating  to the  functioning  of  the  Multistakeholder 
+Expert Group and Expert Working Groups. 
+
+35. 
+
+Composition: 
+
+Government participants (6 total): 
+
+‒ 
+
+‒ 
+
+3 government representatives, 1 from each chair of the GPAI Council. 
+
+2 government representatives appointed by the Executive Council.  
+
+1 government representative from an emerging or developing country 
+
+‒ 
+appointed by the Executive Council. 
+
+ 
+GPAI Expert participants (6 total): 
+
+‒ 
+
+1 Chair of the Multistakeholder Expert Group; 
+
+1  science  representative,  1  industry  representative,  1  civil  society 
+international 
+
+labour/trade  union  representative;  and  1 
+
+‒ 
+representative;  1 
+organisation representative.  
+
+36.  Where there are fewer nominations than participant seats, such seats will remain 
+vacant.  Where  a  seat  becomes  vacant  during  the  year,  a  call  for  nominations  may  be 
+launched  to  fill the  seat  pursuant to  the  normal  Steering  Committee  participant election 
+process. 
+
+37. 
+Government  participants  on  the  Steering  Committee  will  gather  and  seek  to 
+represent the views of all GPAI Members in Steering Committee meetings and decision-
+making.  
+
+GPAI Expert participants will gather and seek to represent the views of all GPAI 
+
+38. 
+Experts in Steering Committee meetings and decision-making. 
+
+39. 
+The Steering Committee may meet in an extended format in which representatives 
+of all GPAI Members and all Expert Working Group Co-chairs may attend and be invited 
+to comment in discussions as observers. The Steering Committee will not take decisions in 
+extended format. 
+
+40. 
+Chairing  arrangements:  The  Chair  of  the  GPAI  Council  and  the  Chair  of  the 
+Multistakeholder Expert Group will co-chair the Steering Committee. Where the Chair of 
+the Multistakeholder Expert Group cannot attend a meeting, they may designate another 
+GPAI Expert participant on the Steering Committee to chair in their place. 
+
+41.  Meetings: Twice per year or as determined by the Steering Committee. Meetings 
+may be held in person or virtually.  
+
+42. 
+
+Decision-making: 
+
+•  Decisions are made by two-thirds majority vote. Votes will be conducted only in 
+cases  where  one  or  more Steering  Committee participants  objects to  a proposed 
+decision. 
+
+•  Decisions may be taken through written procedure. Unless the Co-Chairs consider 
+it justified to shorten such period in a specific case, Steering Committee participants 
+will be given two weeks within which to make any objection. 
+
+43. 
+
+Responsibilities: 
+
+•  Develops guidance, in consultation with the Executive Council, to support Expert 
+
+Working Groups in developing Project proposals; 
+
+•  Develops the Work Plan based on the Projects proposed by the Expert Working 
+Groups and, after consulting the proposing Expert Working Group on any changes, 
+transmits the Work Plan to the Executive Council for approval;  
+
+•  Assigns  GPAI  Experts  to  Expert  Working  Groups,  taking  into  account  GPAI 
+Experts’ expressed interests and the importance of fostering diversity and inclusion 
+across the Expert Working Groups; 
+
+•  Makes proposals on the establishment, maintenance, and discontinuation of Expert 
+
+Working Groups to the Executive Council; 
+
+ 
+•  Resolves  or  refers  to  the  Executive  Council  issues  in  the  internal  processes  and 
+
+functioning of Expert Working Groups, where necessary; 
+
+•  Makes proposals to the Executive Council and Multistakeholder Expert Group to 
+foster closer collaboration between Members and Experts and ensures collaboration 
+across and between Expert Working Groups. 
+
+3. Multistakeholder Expert Group  
+
+44. 
+Purpose: Brings together GPAI Experts to collaborate, including by sharing best 
+practices and analyses, and to develop Annual Reports based on the outputs developed by 
+the Expert Working Groups. The Multistakeholder Expert Group also proposes themes to 
+be  addressed  by  the  Multistakeholder  Expert  Group  and  Expert  Working  Groups  the 
+following year.  
+
+45. 
+
+Composition: All GPAI Experts participate in the Multistakeholder Expert Group. 
+
+46. 
+Chairing arrangements: The Chair of the Multistakeholder Expert Group is elected 
+annually  from  among  GPAI  Experts  from  science,  industry,  civil  society,  labour/trade 
+unions, and international organisations by a majority vote of GPAI Experts. Chairs may be 
+re-elected twice. 
+
+47.  Meetings: At least once per year in person during the GPAI Summit. Meetings may 
+be  held  in  person  or  virtually.  GPAI  Members  may  participate  as  observers  in  the 
+Multistakeholder Experts Group meeting during the GPAI Summit.  
+
+48. 
+
+Responsibilities: 
+
+•  Provides a forum and mechanisms for GPAI Experts to exchange and collaborate, 
+
+including by sharing best practices and analysis; 
+
+•  Proposes  themes  for  the  Multistakeholder  Expert  Group  and  Expert  Working 
+
+Groups for the following year (these may be new or ongoing); 
+
+•  Develops an Annual Report synthesising the work of the Expert Working Groups 
+and setting out an overview of AI developments. An editorial committee comprised 
+of GPAI Experts and including the MEG Chair, the GPAI Expert participants on 
+the Steering Committee, and the Expert Working Group Co-Chairs will lead the 
+development of the Annual Report, supported by the Expert Support Centres; 
+
+•  Reviews  Expert  Working  Group  outputs  prior  to  their  submission  to  the  GPAI 
+
+Council. 
+
+4. Expert Working Groups 
+
+Purpose:  Expert  Working  Groups  propose  and  carry  out  approved  Projects  and 
+
+49. 
+develop reports and other outputs. 
+
+50. 
+
+Composition: Appointed GPAI Experts assigned by the Steering Committee. 
+
+•  GPAI Experts interested in participating in an Expert Working Group must submit 
+
+their expression of interest to the Steering Committee.  
+
+51. 
+
+Chairing arrangements: 
+
+ 
+•  Expert Working Groups select their own Co-Chairs. Any GPAI Experts assigned 
+to  a  Working  Group  may  self-nominate  to  become  Expert  Working  Group  Co-
+chairs by simple majority vote. 
+
+•  Expert  Working  Group  Co-Chairs  serve  one-year  terms  and  may  be  re-elected 
+twice. Further re-elections may occur where no other GPAI Experts assigned to a 
+Working Group are willing or able to co-chair. 
+
+52. 
+
+Decision-making: Decisions are made by two-thirds majority votes.   
+
+53.  Meetings: Called by each Expert Working Group Chair(s). Meetings may be held 
+in  person  or  virtually.  Expert  Working  Groups  may  decide  to  open  their  meetings  to 
+interested GPAI Member observers. 
+
+54. 
+
+Responsibilities and functioning: 
+
+•  Propose  Projects  annually  to  the  Steering  Committee  for  transmission  to  the 
+
+Executive Council for approval, in the form of a Work Plan; 
+
+•  Carry out the approved GPAI Projects assigned to them. Expert Working Groups 
+will select three or more GPAI Experts as Project Leads for each Project. Where all 
+Project  Leads  agree,  Expert  Working  Groups  may  work  with  individuals  or 
+organisations,  other  than  GPAI  Experts  assigned  to  the  Working  Group.  GPAI 
+Expert Working Group outputs must be approved by all Project Leads and be the 
+sole responsibility of Expert Working Group GPAI Experts. Expert Working Group 
+outputs must clearly indicate all GPAI Experts that have approved them, as well as 
+the  nature  and  extent  of  the  involvement  of  any  external  individuals  or 
+organisations in the Project and the development of the output; 
+
+•  Submit  working  draft  outputs  or  update  reports  to  the  Steering  Committee  and 
+
+Executive Council for consultation and comments; 
+
+•  Organise  workshops  to  discuss  their  ongoing  Projects  with  interested  Members, 
+
+with the support of the Expert Support Centres and the GPAI Secretariat; 
+
+•  The OECD will be invited to participate in each Expert Working Group to ensure 
+that the Expert Working Groups are apprised of the OECD’s work on AI and to 
+avoid duplication of the OECD’s Programme of Work.  
+
+5a. GPAI Secretariat 
+
+55. 
+
+Purpose: Supports the GPAI Council and Steering Committee.  
+
+Structure:  Through  an  agreement  between  the  OECD  and  GPAI  Members,  the 
+
+56. 
+GPAI Secretariat will be hosted by the OECD. 
+
+57. 
+
+Responsibilities (subject to the availability of funding): 
+
+•  Plans  and  supports  GPAI  Ministerial  and  Executive  Council  and  Steering 
+Committee  meetings,  including  preparing  relevant  documentation  and  proposals 
+for discussion and/or decision, and supporting the implementation of decisions; 
+
+•  Administers the election of the Incoming Chair of the GPAI Council and the three 
+government  participants  on  the  Steering  Committee  that  are  not  GPAI  Council 
+Chairs; 
+
+ 
+•  Regularly consults with the Lead Chair between meetings of the Ministerial and 
+
+Executive Council on ongoing GPAI activities; 
+
+•  Provides  regular  reports  and  updates  to  the  GPAI  Council  and  the  Steering 
+Committee on the policy analysis being done domestically and internationally in 
+the area of AI; 
+
+•  Supports  Council  decisions  on  prospective  Members  by  preparing  background 
+materials  and  information  to  support  Council  discussions  and  decisions,  in 
+consultation with the Expert Support Centres; 
+
+•  Organises  and prepares  documents,  reports, minutes, and  other  materials  for the 
+
+GPAI Council and Steering Committee as needed; 
+
+•  Provides information management for the GPAI Council and Steering Committee 
+and  maintains  all  official  correspondence  of  GPAI  Council  and  Steering 
+Committee; 
+
+•  Acts  as  the  principal  point  of  contact  for  GPAI  Members,  GPAI  Experts,  and 
+Observers, as well as the general public, on all matters relating to the GPAI Council 
+and Steering Committee;  
+
+•  Co-ordinates cross-GPAI administrative and procedural issues under the guidance 
+of the Executive Council, and not including any technical or substantive aspects of 
+the work of the Multistakeholder Expert Group or the Expert Working Groups; 
+
+•  Puts in place and manages a mechanism or platform through which Members can 
+communicate  with  GPAI  Experts,  and  GPAI  Experts  can  share  their  work  with 
+Members on an ongoing basis, with the support of the Expert Support Centres; 
+
+• 
+
+Implements the GPAI communications and branding policy under the guidance of 
+the Executive Council, in consultation with the Lead Chair, and noting the Lead 
+Chair’s role in communicating on behalf of GPAI Members; 
+
+•  Subject to the development of governance procedures by the Executive Council, 
+accepts and administers financial contributions for pooled seed funding to support 
+approved Expert Working Group Projects and contracting with service providers 
+or external experts, both in line with applicable OECD rules and policies; 
+
+•  Promotes and maintains GPAI’s cooperation with other multilateral initiatives and 
+
+organisations, among others; 
+
+•  Facilitates the exchange of information and synergies between GPAI and OECD 
+AI  initiatives  and  Programme  of  Work,  including  the  OECD  AI  Policy 
+Observatory,  and  provides,  in  consultation  with  the  Lead  Chair,  updates  to  the 
+OECD Committee on Digital Economy Policy and its Working Party on Artificial 
+Intelligence Governance on the scope and direction of GPAI Projects; and  
+
+•  Develops, tracks, and reports on the budget of the GPAI Secretariat and – subject 
+to  the  development  of  governance  procedures  by  the  Executive  Council  –  the 
+pooled seed funding for Expert Working Group Projects.  
+
+5b. GPAI Expert Support Centres  
+
+Purpose:  Provide  operational  and  administrative  assistance  to  Expert  Working 
+
+58. 
+Groups and to the Multistakeholder Expert Group.  
+
+ 
+59. 
+
+60. 
+
+Structure: GPAI Expert Support Centres are established by GPAI Members. 
+
+Responsibilities:  
+
+•  Plan and support meetings of the Expert Working Groups and the Multistakeholder 
+
+Expert Group;  
+
+•  Support Expert Working Groups in conducting their Projects; 
+
+•  Administer the election of the Chair of the Multistakeholder Expert Group and the 
+
+non-governmental participants in the Steering Committee; 
+
+•  Collectively support collaboration across and between Expert Working Groups; 
+
+•  Support Expert Working Groups in their collaboration with external individuals, 
+
+organisations, or other entities on their Projects; 
+
+•  Accept, administer, and engage financial contributions to support Expert Working 
+Group Projects, including contracting with service providers or external experts, 
+excluding  the  pooled  seed  funding  accepted  and  administered  by  the  GPAI 
+Secretariat – subject to the development of governance procedures by the Executive 
+Council – and in accordance with these Terms of Reference and any further relevant 
+transparency and approval procedures determined by GPAI Members:  
+
+•  Develop, track, and report on the budget funding the activities of the Expert Support 
+Centres and Expert Working Group Projects, beyond any pooled seed funding.  
+
+6. National AI Institutes 
+
+61.  Where  approved  by  the  Executive  Council,  GPAI  Members  may  provide 
+operational support and administrative support, in addition to expertise, to specific Expert 
+Working  Group  Projects  through  National  AI  institutes.  The  Executive  Council  will 
+develop  procedures  for  assigning  Projects  to  National  AI  institutes  and  ensuring  co-
+ordination with the Expert Support Centres.  
+
+62. 
+In  this  role,  National  AI  institutes  will  follow  all  procedures  and  requirements 
+relating to Projects set down in these Terms of Reference or as determined by the GPAI 
+Executive Council. 
+
+IV. OTHER CONSIDERATIONS 
+
+1. GPAI Summit 
+
+63. 
+A GPAI Summit will be held annually. The Summit will comprise the Ministerial 
+Council  meeting,  as  well  as  a  plenary  meeting  of  the  Multistakeholder  Expert  Group. 
+Unless otherwise agreed, the summit will be hosted and organised by the Lead Chair, with 
+the  support  of  the  GPAI  Secretariat  and,  in  relation  to  the  organisation  of  the 
+Multistakeholder Expert Group plenary meeting, with the support of the Expert Support 
+Centres and in consultation with the Steering Committee.  
+
+2. Working Methods 
+
+64. 
+Conflicts of interest: GPAI Experts, Observers, and external experts shall strive to 
+avoid any actual, apparent, or potential conflict of interest. They shall recuse themselves 
+from  participating  and/or  making  any  decisions  where  self-interest  is  involved.  The 
+Executive Council may establish a committee or other mechanism to address complaints 
+
+ 
+and concerns related to potential conflicts of interest. In situations necessitating immediate 
+action,  the  Executive  Council  and  Steering  Committee  can  review  the  complaint  or 
+concerns. The Executive Council may set out further guidance on this process.  
+
+65. 
+Confidentiality: The confidentiality of all meetings will be defined by the Chair(s) 
+of the relevant GPAI body (GPAI Council, GPAI Steering Committee, Multistakeholder 
+Expert Group, Expert Working Groups) according to the topics discussed. To safeguard the 
+transparency of GPAI, information on discussions of the Multistakeholder Expert Group, 
+Expert Working Groups, the Steering Committee, and the Council will be made public, for 
+example  through  summaries  of  discussions  without  attributing  remarks  to  participants 
+where appropriate, in line with further guidance to be elaborate by these bodies.  
+
+Compensation: GPAI Experts and Observers shall not receive any honorarium, fee 
+
+66. 
+or other remuneration from GPAI.  
+
+3. Funding and other contributions 
+
+67. 
+The GPAI Secretariat is funded in equal shares by GPAI Members provided in the 
+form of voluntary contributions. Funding for each year is expected to be committed before 
+the end of the preceding year. The Secretariat’s Programme of Work and Budget will be 
+agreed  by  the  Executive  Council  for  three  years  every  three  years.  Additional  in-kind 
+contributions  from  Members  or  other  entities  (e.g.  loaning  or  seconding  staff)  may  be 
+accepted by the OECD under its accepted rules, procedures, and policies.  
+
+68. 
+Expert Support Centres are not funded from the GPAI Secretariat’s budget or the 
+pooled seed funding for GPAI Projects to be administered by the GPAI Secretariat subject 
+to the development of governance procedures by the Executive Council. 
+
+69.  Members  fund  all  of  their  representatives’  travel  and  accommodation  costs  for 
+attending GPAI meetings and events such as the GPAI Council and Steering Committee 
+meetings. GPAI Members will take measures to facilitate and support the participation of 
+emerging or developing country GPAI Members where they are unable to mobilise such 
+funds. 
+
+The Executive Council will consider further means to foster and support broad and 
+
+70. 
+diverse participation in GPAI meetings on an ongoing basis. 
+
+71. 
+Expert Working Group Projects may be supported by financial or in-kind support. 
+GPAI Members may submit contributions to a common pool of seed funding administered 
+by  the  GPAI  Secretariat  subject  to  the  development  of  governance  procedures  by  the 
+Executive Council. In addition, or alternatively, further financial or in-kind contributions 
+may be made to approved Projects on a project-by-project basis by GPAI Members or other 
+contributors,  including  via  the  GPAI  Expert  Support  Centres,  which  will  accept  and 
+administer  such  contributions  in  line  with  relevant  procedures  as  determined  by  GPAI 
+Members. 
+
+72. 
+
+In this regard: 
+
+a  All engagement with service providers or external contributors to Expert Working 
+Group Projects must be in line with these Terms of Reference insofar as they apply 
+to such Projects or their outcomes, including the prerogatives and responsibilities 
+of the Expert Working Groups and other GPAI structures; 
+
+b 
+
+In  carrying  out  their  respective  roles,  the  GPAI  Secretariat  and  Expert  Support 
+Centres are responsible for ensuring that GPAI Experts, Observers, and external 
+
+ 
+experts  meet  the  expectations,  as  well  as  the  provisions  regarding  conflict  of 
+interest, set out in these Terms of Reference; 
+
+c  The GPAI Secretariat and Expert Support Centres are responsible for ensuring that 
+all engagement with service providers and external contributors on Expert Working 
+Group  Projects,  including  the  terms  of  any  relevant  agreements,  respect  these 
+requirements and that the Projects continue to reflect the proposals as approved in 
+GPAI; 
+
+d  To ensure accountability and oversight in relation to the provision of financial or 
+in-kind contributions on a project-by-project basis via the Expert Support Centres, 
+where a planned collaboration would involve the provision of funds, or other forms 
+of support and collaboration that are significant, the Expert Support Centres will 
+provide the Executive Council and Steering Committee with advance information 
+on the planned collaboration. Where a Member objects to a planned collaboration, 
+the  collaboration  will  not  proceed.  Further  procedures  in  this  regard  may  be 
+determined by the Executive Council. 
+
+4. Modifications to the Terms of Reference 
+
+73. 
+The  GPAI  Terms  of  Reference,  and  other  key  governing  documents,  are  to  be 
+reviewed  at  least  every  three  years  by  the  Executive  Council,  in  consultation  with  the 
+Steering Committee and supported by the GPAI Secretariat, and proposed changes are to 
+be submitted for approval at the GPAI Ministerial Council by a two-thirds majority vote. 
+The Executive Council may decide to review the GPAI Terms of Reference at any time. 
+
+ 
+ 
+ 
+ 
+Annex A. PRINCIPLES ON ARTIFICIAL INTELLIGENCE 
+
+74. 
+The  following  principles  are  drawn  verbatim  from  Section  1:  Principles  for 
+responsible  stewardship  of  trustworthy  AI  and  Section  2:  National  policies  and 
+international co-operation for trustworthy AI of the OECD Recommendation of the Council 
+on Artificial Intelligence: 
+
+Section 1: Principles for responsible stewardship of trustworthy AI 
+
+1.1. Inclusive growth, sustainable development and well-being 
+
+75. 
+Stakeholders should proactively engage in responsible stewardship of trustworthy 
+AI in pursuit of beneficial outcomes for people and the planet, such as augmenting human 
+capabilities and enhancing creativity, advancing inclusion of underrepresented populations, 
+reducing  economic,  social,  gender  and  other  inequalities,  and  protecting  natural 
+environments, thus invigorating inclusive growth, sustainable development and well-being. 
+
+1.2. Human-centred values and fairness 
+
+76. 
+AI  actors  should  respect  the  rule  of  law,  human  rights  and  democratic  values, 
+throughout the AI system lifecycle. These include freedom, dignity and autonomy, privacy 
+and data protection, non-discrimination and equality, diversity, fairness, social justice, and 
+internationally recognised labour rights. 
+
+77. 
+To  this  end,  AI  actors  should  implement  mechanisms  and  safeguards,  such  as 
+capacity for human determination, that are appropriate to the context and consistent with 
+the state of art. 
+
+1.3. Transparency and explainability 
+
+78. 
+AI Actors should commit to transparency and responsible disclosure regarding AI 
+systems.  To  this  end,  they  should  provide  meaningful  information,  appropriate  to  the 
+context, and consistent with the state of art:  
+
+1.  to foster a general understanding of AI systems, 
+
+2.  to make stakeholders aware of their interactions with AI systems, including in the 
+
+workplace, 
+
+3.  to enable those affected by an AI system to understand the outcome, and, 
+
+4.  to enable those adversely affected by an AI system to challenge its outcome based 
+on  plain  and  easy-to-understand  information  on  the  factors,  and  the  logic  that 
+served as the basis for the prediction, recommendation or decision. 
+
+1.4. Robustness, security and safety 
+
+79. 
+AI systems should be robust, secure and safe throughout their entire lifecycle so 
+that, in conditions of normal use, foreseeable use or misuse, or other adverse conditions, 
+they function appropriately and do not pose unreasonable safety risk. 
+
+ 
+ 
+80. 
+To this end, AI actors should ensure traceability, including in relation to datasets, 
+processes and decisions made during the AI system lifecycle, to enable analysis of the AI 
+system’s outcomes and responses to inquiry, appropriate to the context and consistent with 
+the state of art. 
+
+81. 
+AI actors should, based on their roles, the context, and their ability to act, apply a 
+systematic  risk  management  approach  to  each  phase  of  the  AI  system  lifecycle  on  a 
+continuous basis to address risks related to AI systems, including privacy, digital security, 
+safety and bias. 
+
+1.5. Accountability 
+
+82. 
+AI actors should be accountable for the proper functioning of AI systems and for 
+the respect of the above principles, based on their roles, the context, and consistent with 
+the state of art. 
+
+Section 2: National policies and international co-operation for trustworthy AI 
+
+2.1. Investing in AI research and development 
+
+83. 
+Governments should consider long-term public investment, and encourage private 
+investment,  in  research  and  development,  including  interdisciplinary  efforts,  to  spur 
+innovation in trustworthy AI that focus on challenging technical issues and on AI-related 
+social, legal and ethical implications and policy issues. 
+
+84. 
+Governments  should  also  consider  public  investment  and  encourage  private 
+investment in open datasets that are representative and respect privacy and data protection 
+to support an environment for AI research and development that is free of inappropriate 
+bias and to improve interoperability and use of standards. 
+
+2.2. Fostering a digital ecosystem for AI 
+
+85. 
+Governments should foster the development of, and access to, a digital ecosystem 
+for  trustworthy  AI.  Such  an  ecosystem  includes  in  particular  digital  technologies  and 
+infrastructure, and mechanisms for sharing AI knowledge, as appropriate. In this regard, 
+governments should consider promoting mechanisms, such as data trusts, to support the 
+safe, fair, legal and ethical sharing of data. 
+
+2.3. Shaping an enabling policy environment for AI 
+
+86. 
+Governments should promote a policy environment that supports an agile transition 
+from  the  research  and  development  stage  to  the  deployment  and  operation  stage  for 
+trustworthy  AI  systems.  To  this  effect,  they  should  consider  using  experimentation  to 
+provide  a  controlled  environment  in  which  AI  systems  can  be  tested,  and  scaled-up,  as 
+appropriate. 
+
+87. 
+Governments should review and adapt, as appropriate, their policy and regulatory 
+frameworks  and  assessment  mechanisms  as  they  apply  to  AI  systems  to  encourage 
+innovation and competition for trustworthy AI. 
+
+2.4. Building human capacity and preparing for labour market transformation 
+
+88. 
+Governments  should  work  closely  with  stakeholders  to  prepare  for  the 
+transformation  of  the  world  of  work  and  of  society.  They  should  empower  people  to 
+
+ 
+effectively use and interact with AI systems across the breadth of applications, including 
+by equipping them with the necessary skills. 
+
+89. 
+Governments should take steps, including through social dialogue, to ensure a fair 
+transition for workers as AI is deployed, such as through training programmes along the 
+working life, support for those affected by displacement, and access to new opportunities 
+in the labour market. 
+
+90. 
+Governments  should  also  work  closely  with  stakeholders  to  promote  the 
+responsible use of AI at work, to enhance the safety of workers and the quality of jobs, to 
+foster entrepreneurship and productivity, and aim to ensure that the benefits from AI are 
+broadly and fairly shared. 
+
+2.5. International co-operation for trustworthy AI 
+
+91. 
+Governments,  including  developing  countries  and  with  stakeholders,  should 
+actively co-operate to advance these principles and to progress on responsible stewardship 
+of trustworthy AI. 
+
+92. 
+Governments should work together in the OECD and other global and regional fora 
+to foster the sharing of AI knowledge, as appropriate. They should encourage international, 
+cross-sectoral and open multi-stakeholder initiatives to garner long-term expertise on AI. 
+
+Governments  should  promote  the  development  of  multi-stakeholder,  consensus-
+
+93. 
+driven global technical standards for interoperable and trustworthy AI.  
+
+94. 
+Governments  should  also  encourage  the  development,  and  their  own  use,  of 
+internationally comparable metrics to measure AI research, development and deployment, 
+and gather the evidence base to assess progress in the implementation of these principles. 
+
+ 
+ 
+ 
+

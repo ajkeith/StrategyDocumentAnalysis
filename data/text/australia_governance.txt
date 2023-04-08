@@ -1,0 +1,4058 @@
+ARTIFICIAL 
+INTELLIGENCE
+
+Solving problems, 
+growing the economy 
+and improving our 
+quality of life 
+
+CITATION
+Hajkowicz SA1+, Karimi S1, Wark T1, Chen C1, Evans M1,  
+Rens N3, Dawson D1, Charlton A2, Brennan T2, Moffatt C2, 
+Srikumar S2, Tong KJ2 (2019) Artificial intelligence: Solving 
+problems, growing the economy and improving our quality 
+of life. CSIRO Data61, Australia. 
+
+COPYRIGHT
+© Commonwealth Scientific and Industrial Research 
+Organisation 2019. To the extent permitted by law, all 
+rights are reserved and no part of this publication covered 
+by copyright may be reproduced or copied in any form or 
+by any means except with the written permission of CSIRO.
+
+IMPORTANT DISCLAIMER
+CSIRO advises that the information contained in this 
+publication comprises general statements based on 
+scientific research. The reader is advised and needs to be 
+aware that such information may be incomplete or unable 
+to be used in any specific situation. No reliance or actions 
+must therefore be made on that information without 
+seeking prior expert professional, scientific and technical 
+advice. To the extent permitted by law, CSIRO (including 
+its employees and consultants) excludes all liability to any 
+person for any consequences, including but not limited 
+to all losses, damages, costs, expenses and any other 
+compensation, arising directly or indirectly from using this 
+publication (in part or in whole) and any information or 
+material contained in it.
+
+ACKNOWLEDGEMENTS
+This study was funded by the Australian Government.  
+The authors would like to express gratitude to the experts 
+from industry, government and community organisations 
+who formed the steering committee that guided the 
+research. The authors would like to thank our peer 
+reviewers who provided detailed, thoughtful and helpful 
+input on early drafts including Dr Lauren Palmer (Australian 
+Council of Learned Academies), Professor Michael Milford 
+(Queensland University of Technology), Professor Peter 
+Corke (Queensland University of Technology), Professor 
+Toby Walsh (Data61 and University of New South Wales), 
+Dr Andrew Reeson (Data61), Dr Olivier Salvado (Data61), 
+Dr Elliot Duff (Data61) and Professor Sue Keay (Data61). 
+The authors are grateful to the many researchers from 
+CSIRO, Data61 and Australian Universities who shared their 
+expertise. The authors are grateful to the many Australian 
+Government staff who provided detailed comments 
+and guidance. The authors would also like to thank the 
+hundreds of individuals who attended the consultative 
+workshops in Sydney, Brisbane, Melbourne and Perth and 
+those people who attended the Data61+ LIVE Conference 
+in Brisbane and Sydney. By sharing your knowledge and 
+perspective on artificial intelligence you have helped make 
+this report possible. 
+
+ACCESSIBILITY
+CSIRO is committed to providing web accessible 
+content wherever possible. If you are having difficulties 
+with accessing this document please contact 
+csiroenquiries@csiro.au. 
+
+NOTES
+All monetary values are given in Australian dollars unless 
+otherwise specified.
+
+1  CSIRO Data61
+
+2  AlphaBeta Advisors—Strategy and Economics
+
+3  Queensland Government, Office of the Queensland  
+
+ Chief Entrepreneur
+
++  Corresponding author: Stefan Hajkowicz, Senior Principal  
+    Scientist Strategic Foresight, CSIRO Data61
+
+ 
+CONTENTS
+
+Foreword ............................................................................................................................ 1
+
+Executive Summary ...........................................................................................................2
+
+1 
+
+Introduction ..................................................................................................................7
+
+2  How might AI touch the lives of Australians?  ............................................................ 9
+
+3  What is AI? .................................................................................................................. 15
+
+4  The Economic Value of AI ........................................................................................... 19
+
+5  What’s the world doing? ............................................................................................23
+
+6  What’s Australia doing? ..............................................................................................24
+
+7  AI Development Strategies .........................................................................................27
+
+7.1 
+
+Technological Specialisation  ............................................................................................................................... 27
+
+7.2  Mission Directed Research  ..................................................................................................................................29
+
+7.3 
+
+7.4 
+
+Business and Knowledge Ecosystems  .................................................................................................................30
+
+A Story of Transition – From Selling Steel to Selling Steel Know-How ...............................................................31
+
+8  Possible AI Specialisations for Australia ....................................................................33
+
+8.1 
+
+AI for Better Health, Aged Care and Disability Services .....................................................................................34
+
+8.2  AI for Better Towns, Cities and Infrastructure .....................................................................................................36
+
+8.3  AI for Better Natural Resource Management ..................................................................................................... 40
+
+9  Foundations for the Future .........................................................................................47
+
+9.1 
+
+Developing an AI Specialist Workforce ............................................................................................................... 47
+
+9.2 
+
+Career Transitions and Skills Upgrades ...............................................................................................................48
+
+9.3  Data Governance and Access ................................................................................................................................49
+
+9.4 
+
+9.5 
+
+Building Trust in AI ................................................................................................................................................50
+
+Science, Research and Technology Development ...............................................................................................50
+
+9.6  Digital Infrastructure and Cybersecurity ..............................................................................................................51
+
+9.7 
+
+Standards, Interoperability and Ethics ..................................................................................................................51
+
+10  Conclusion ...................................................................................................................53
+
+11  References ...................................................................................................................54
+
+ARTIFICIAL 
+INTELLIGENCE 
+QUICK FACTS
+
+1
+
+3
+
+Digital technologies, including AI, are potentially worth 
+AU$315 billion to the Australian economy by 2028 [18] 
+and AI could be worth AU$22.17 trillion to the global 
+economy by 2030 [11]. 
+
+The Australian information, communications and 
+technology (ICT) sector employs 663,100 workers in 
+fields related to AI. This will grow to 758,700 workers 
+by 2023 at a rate of 20,000 additional workers per year 
+[3]. Today 66,000 ICT workers live in remote and 
+regional areas [38]. 
+
+2
+
+4
+
+Australian industry needs up to 161,000 new specialist 
+AI workers by 2030 in machine learning, computer 
+vision, natural language processing and other 
+AI technologies.
+
+An AI system for detecting skin cancer (which could 
+become a smartphone app) performed “on par” 
+with 21 certified dermatologists [17]. In Australia 
+13,280 new cases of melanoma were diagnosed in 
+2016 and 1,770 people died from the disease [16]. 
+Earlier diagnosis enabled by AI will save lives. 
+
+iv 
+
+Artificial Intelligence
+
+5
+
+8
+
+An on-farm agricultural robot Agbot II developed 
+by the Queensland University of Technology could 
+save Australia’s farm sector AU$1.3 billion per year by 
+automating weed removal and improving agricultural 
+productivity [14].
+
+In 2018 there were 1,465 start-ups in Australia, 21% 
+of which consider AI relevant to their products or 
+services [47]. This increased 6% from 2017 [48]. 
+Through this study we surveyed 72 AI start-up 
+companies of which 84% report to be adapting 
+or developing novel algorithms rather than simply 
+using AI toolboxes.
+
+6
+
+9
+
+AI could help reduce the 1,137 deaths/year [81] 
+and 57,000 injuries/year [82] on Australian roads. 
+Autonomous emergency braking combined with 
+forward warning collision systems decreased front-to-
+rear injury accidents on US highways by 56% [87].  
+When combined with lane departure correction  
+these semi-automated technologies could prevent or 
+reduce the severity of 1.3 million car crashes on US 
+roads each year [86].
+
+AI is being used to help maintain Sydney Harbour 
+Bridge. Data61 placed 2400 sensors on the bridge 
+which monitor 800 steel and concrete supports 
+under the roadway. Data generated by these sensors 
+is analysed using machine-learning and predictive 
+analytics to identify priority locations for proactive 
+maintenance. This keeps costs down and minimises 
+traffic disruptions.
+
+7
+
+10
+
+Mining operations in the Pilbara region of Western 
+Australia are amongst the world’s most automated. 
+Fortescue operates 112 driverless trucks with a 
+30% productivity gain. BHP has 50 autonomous 
+trucks at its Jimblebar site and 20 autonomous 
+drills state-wide [131]. Launched in 2008 Rio Tinto’s 
+mine-of-the-future [132] has 140 automated trucks, 
+over 11 automated drills, and 60% of train kilometres 
+are in autonomous mode.
+
+Drones are already being used to perform rescues and 
+spot sharks in the Australian surf. On 18 January 2018 
+two teenage boys in the surf 700m from land (in a 3m 
+swell) near Lennox Head, NSW were rescued by an 
+airborne drone which dropped an inflatable floatation 
+device to them. Rescue drones can be equipped with 
+AI systems which can automatically detect and help 
+people in need. Machine learning and computer vision 
+systems are being developed that will automatically 
+identify rip currents so beachgoers can be warned.
+
+v
+
+FOREWORD
+
+Artificial Intelligence (AI) is one of those technologies, like advances in 
+gene editing or quantum computing, which has the power to change 
+life itself. It has the potential to transform economies, unlock new 
+societal and environmental value and accelerate scientific discovery. 
+With AI estimated to generate $13 trillion in economic activity globally 
+by 2030, the global race to lead in AI is well and truly underway.
+
+In April 2019, Australia’s national science agency CSIRO and 
+the Department of Industry Innovation and Science (DIIS) 
+co-developed a discussion paper for an AI ethics framework to 
+respond to issues associated with AI, ensuring we use ethical 
+and inclusive values to manage the deep influence it will have 
+on the way we live, work and play.
+
+In conjunction with the discussion paper, we have worked with 
+DIIS to develop this report which lays the path for how AI can 
+boost the productivity of Australian industry, creating jobs and 
+economic growth and improving the quality of life for current 
+and future generations.
+
+This report leverages CSIRO’s expertise, working in deep 
+collaboration with our network of digital specialists, and 
+incorporating feedback gathered through national consultation 
+with government, academic and industry stakeholders.
+
+If Australia can focus its AI activities on areas of great need that 
+matter to all Australians, like drought and food production, 
+areas where we already have world-leading expertise, then we 
+can achieve the greatest impact. Through this roadmap, we 
+highlight opportunities for AI to solve big problems that build 
+off our strengths, with a view to exporting solutions to the 
+world in three areas: healthy ageing; cities and infrastructure; 
+and natural resources and environment.
+
+AI is already a well-established technology, with applications 
+across many industries starting to take shape. However, the 
+success of our industries of the future will be determined by 
+whether AI is simply used to cut costs, or whether we take 
+full advantage of this powerful technology to grow new 
+opportunities and create new value. We believe this value is 
+created when AI is partnered with humans who have deep 
+domain expertise in Australia’s key industries. This allows 
+us to channel the power of this technology to multiply our 
+human ability.
+
+We have already taken the first steps towards determining our 
+future with AI, but more people, more industries, and more 
+communities must join the conversation.
+
+This report, Artificial Intelligence: Solving problems, growing 
+the economy and improving our quality of life, provides the 
+guidance and possible pathways forward to ensure our nation 
+captures the full potential of AI in our uniquely Australian 
+context, to create a better future for all of us.
+
+Dr Larry Marshall
+
+Chief Executive Officer 
+Commonwealth Scientific and Industrial Research Organisation 
+(CSIRO)
+
+1
+
+EXECUTIVE 
+SUMMARY
+
+•  Artificial intelligence (AI) may be defined as a collection 
+of interrelated technologies used to solve problems 
+autonomously and perform tasks to achieve defined 
+objectives, in some cases without explicit guidance from 
+a human being. Subfields of AI include machine learning, 
+computer vision, human language technologies, robotics, 
+knowledge representation and other scientific fields.  
+The power of AI comes from a convergence of technologies.
+
+•  AI is a general purpose technology that can be used to 
+increase the efficiency, safety and quality of production 
+processes in almost every industry. AI is already being used 
+to solve challenging problems in health, welfare, safety, 
+environment, energy, infrastructure, transport, education 
+and other sectors. 
+
+•  Global investment into AI continues to grow. In the past few 
+years alone, 14 of the world’s most advanced economies 
+have announced over $86 billion in focused AI programs 
+and activities. This has mostly been in the form of public 
+sector investment but does include some private sector 
+funds. These investments are improving the capabilities 
+and competitiveness of governments, companies and 
+workers in the global community and world economy.
+
+•  Australia has established world-leading capabilities in 
+a number of core AI-related fields housed within our 
+universities, research organisations and companies. AI 
+is also already being widely applied and developed by 
+Australian governments, companies and start-ups. There are 
+untapped opportunities for Australia to develop, coordinate, 
+consolidate and concentrate our deep, but distributed, AI 
+capabilities on matters of national significance. We can also 
+create new job-generating AI industries.
+
+In the past few years alone, 14 of 
+the world’s most advanced economies 
+have announced over AU$86 billion 
+in focused AI programs and activities.
+
+•  To maximise the future benefits and build the right 
+
+foundations for adoption, adaptation and development 
+of AI technologies, government, industry and community 
+should consider taking action in the following areas:
+
+–  Develop an AI specialist technical workforce to meet the 
+operational needs of industry. We estimate that between 
+32,000 – 161,000 AI specialist workers will be needed  
+by 2030;
+
+–  Help workers whose jobs are likely to be positively or 
+
+negatively impacted by AI and related digital technologies 
+make early and strategic career transitions;
+
+2 
+
+Artificial Intelligence
+
+–  Ensure effective data governance and access as AI is 
+
+typically data hungry and machine learning algorithms 
+need “training data” to be developed and tested;
+
+–  Build trust in AI by ensuring high standards and 
+
+transparency for all applications developed and applied 
+in Australia because without trust people are unlikely to 
+adopt AI technologies;
+
+–  Increase the activity within the science, research and 
+
+technology development pipeline to ensure advanced AI 
+capabilities for government and industry in the future;
+
+–  Improve digital infrastructure (for data transmission, 
+
+storage, analysis and acquisition) and cybersecurity so 
+that AI can be safely and effectively used across Australian 
+cities and regions; and
+
+–  Develop appropriate systems and standards to ensure safe, 
+quality-assured, interoperable and ethical AI is developed 
+and applied within Australia. 
+
+•  Governments worldwide are taking strategic steps to 
+
+achieve improved AI capability for their nations. This report 
+identifies three high level strategies for achieving a desired 
+AI future for Australia:
+
+–  Technological specialisation: This involves choosing and 
+developing targeted areas of specialised AI capability to 
+gain comparative advantage in the global marketplace.
+
+–  Mission directed research: This involves identifying clear 
+goals and targets for research which are associated with 
+solutions to major problems of national significance. 
+
+–  Business and knowledge ecosystems: This approach 
+
+to organisational design aims to identify and leverage 
+networks of expertise and resources which lie across 
+jurisdictional boundaries. 
+
+AI development is already well underway 
+across Australian companies, governments 
+and community organisations. 
+
+•  We identified three high potential areas of AI specialisation  
+(Figure 1) for Australia based on (a) existing capabilities  
+and areas where we have comparative advantage;  
+(b) opportunities to solve big problems in Australia and;  
+(c) opportunities to export our solutions worldwide.  
+The proposed areas of specialisation include: 
+
+1.  Health, ageing and disability. This involves the use of 
+AI to improve human health (either via prevention or 
+treatment), achieve healthy ageing and support people 
+living with disability. Solutions relating to this proposed 
+AI specialisation are of high value considering rising or 
+
+Solving significant problems at home, exporting the solutions to the world and building-off our strengths.
+
+Artificial Intelligence Specialisations
+
+Natural Resources and Environment
+Develops AI for enhanced natural 
+resource management to reduce the 
+costs and improve the productivity of 
+agriculture, mining, fisheries, forestry  
+and environmental management.
+
+Health, Ageing and Disability
+Develops AI for health, ageing and 
+disability support to reduce costs, 
+improve wellbeing and make quality 
+care accessible for all Australians.
+
+Cities, Towns and Infrastructure
+Develops AI for better towns, cities 
+and infrastructure to improve the 
+safety, efficiency, cost-effectiveness and 
+quality of the built environment.
+
+Figure 1. High potential areas of artificial intelligence specialisation for Australia. 
+
+high rates of chronic illness, ageing populations and 
+unsustainable growth healthcare expenditure. Disability 
+support enabled by AI will benefit the 4.3 million 
+Australians who live with disability, as estimated by the 
+Australian Bureau Statistics. AI can be transformative for 
+disabled people by improving their life opportunities 
+and helping them get good jobs. Australia already has 
+world-leading capabilities in AI for health, ageing and 
+disability support. These issues are shared by countries 
+worldwide and we can export our solutions into the 
+global marketplace. 
+
+2.  Cities, towns and infrastructure. This involves the use 
+of AI to decrease the costs and improve effectiveness 
+of built infrastructure planning, design, construction, 
+operation and maintenance. There are significant 
+shortcomings in built infrastructure which is already 
+impacting the operation of our towns and cities. 
+Automation and sensory systems can improve our 
+infrastructure. We have world-leading capabilities within 
+this area and we can export the solutions to a rapidly 
+urbanising world. 
+
+3.  Natural resources and environment. Australia is already 
+a world leader in agricultural robotics and the use of 
+advanced data science and machine learning on farms. 
+We also lead the way in mine site automation and 
+environmental monitoring/management applications of 
+
+AI. We can develop these technologies into industries 
+which export to a world hungry for more food, fibre, 
+minerals and a cleaner environment. 
+
+•  Whilst specialisation is important, we note that many 
+of the beneficial outcomes Australia could achieve 
+through the development and adoption of AI will emerge 
+serendipitously. These areas of specialisation should not 
+limit, and where possible should support, the organic 
+development of core AI research and capability within 
+diverse segments of Australia’s innovation ecosystem. 
+
+•  AI development is already well underway across Australian 
+companies, governments and community organisations. 
+Many organisations and individuals are making their own 
+AI plans and strategies for the future. In this document 
+we have identified a high-level pathway for Australia’s 
+AI development starting with experimentation which 
+eventually leads to entirely new industries (Figure 2).
+
+•  This document is intended to help guide future investment 
+in AI and start a national dialogue on some of the ways 
+these technologies might drive new economic and societal 
+outcomes for Australia. It has been prepared by CSIRO’s 
+Data61 to inform the Australian Government’s consideration 
+of potential directions to support greater awareness, 
+exploration and uptake of AI across our industries 
+and communities.
+
+3
+
+Productivity and  
+quality-of-life gains
+
+Powerful AI capabilities are 
+unleashed into business 
+processes and government 
+services with major productivity 
+gains being realised which 
+boost productivity and improve 
+people’s quality of life. Rates of 
+economic growth and wealth 
+generation are boosted.
+
+New industries, new growth 
+and a new workforce
+
+Existing industries are 
+transformed with new ways 
+of doing business and new 
+products and service offerings. 
+Australia exports AI technology 
+to the world in areas of 
+specialised capability. Millions 
+of workers get new and better 
+jobs in the AI economy.
+
+Skills and  
+capability development
+
+An entirely new workforce with 
+skills in machine learning, data 
+science, robotics and computer 
+vision starts to emerge as people 
+upskill. Organisations acquire 
+the assets and capabilities they 
+need to operate in an AI future. 
+Advanced AI R&D builds a 
+pipeline of future opportunity.
+
+Experimentation and  
+strategy development
+
+Companies (large and small)  
+and governments (at all levels) 
+design and experiment with 
+prototype AI systems.  
+They learn what works and 
+develop strategies to build, adapt 
+or buy AI tools to achieve their 
+objectives. We work out our 
+niche in the global AI landscape.
+
+Figure 2. Australia’s Artificial Intelligence Journey –  
+Stages on the road to the 2030
+
+4 
+
+Artificial Intelligence
+
+5
+
+6 
+
+Artificial Intelligence
+
+1 
+
+INTRODUCTION
+
+Artificial intelligence (AI) is a general purpose technology 
+with the potential to be applied across almost every industry 
+within the Australian and global economy. 
+
+AI has parallels to the invention of electricity in the 19th 
+Century. As a general purpose technology, electricity 
+transformed Australia and the world economy during the latter 
+stages of the industrial revolution. It enabled and reshaped 
+every industry whilst building an entirely new industry itself. 
+Hundreds of thousands of Australians entered good jobs and 
+careers building our electricity network and servicing the 
+industries it created. 
+
+No one country will drive or decide how the forthcoming 
+AI transformation happens – it will be a global effort. 
+Technological innovation is set to continue at pace. The 
+question is how we can best position our nation to adapt and 
+capitalise on these changes for the benefit of all Australians. 
+Many countries have already proactively moved to embrace AI, 
+making sizeable commitments to investment in advancing their 
+nation’s technological capabilities and readiness to adopt these 
+technologies, for the future. Australia is charting its pathway. 
+
+It is already anticipated that AI may offer the key to helping us 
+solve some of humanity’s greatest challenges such as climate 
+change, antibiotic resistant bacteria, road accidents, cancer 
+and food, water and energy insecurity. We are already building 
+machines that can learn and can problem-solve without 
+explicit guidance from a human operator. This can take us 
+into new spaces. AI also represents a potential solution to the 
+productivity slump which is constraining economic growth and 
+wealth generation in advanced economies, including Australia. 
+
+The AI revolution won’t be identical, but will have parallels,  
+to previous industrial revolutions, such as the arrival of 
+electricity. AI will continue to collide with other technologies 
+and elevate our human knowledge and human capability to 
+new levels. This report seeks to explore just what AI might 
+mean in Australia’s future and how we can build on our  
+current research and industry foundations to best harness  
+the benefits of AI and deliver improved quality of life for 
+current and future Australians. 
+
+AI will continue to collide with other 
+technologies and elevate our human 
+knowledge and human capability 
+to new levels. 
+
+7
+
+8 
+
+Artificial Intelligence
+
+2  HOW MIGHT AI 
+TOUCH THE LIVES 
+OF AUSTRALIANS? 
+
+A new unfamiliar technology like AI can sound daunting 
+and distant to the needs of everyday Australians. But it’s 
+already being used to help us on a regular basis and these 
+uses will become more prominent and impactful over the 
+coming decade as the technology continues to evolve.  
+In this section we explore some of the very real ways 
+current AI technologies and those coming in the next 
+decade are expected to help Australians. 
+
+9
+
+Helping people living with a disability, 
+such as impaired vision
+
+Helping senior citizens live independently  
+at home longer
+
+Over 575,000 Australians are currently living with vision 
+impairment [12], including conditions such as retinitis 
+pigmentosa – a genetic disorder associated with gradual loss 
+of vision and, although uncommon, complete blindness. AI is 
+already driving advances in the diagnosis of such conditions 
+and also the development of new technologies to restore 
+or improve our sight. An example is the development of the 
+bionic eye – an Australian technology which can restore the 
+sense of vision to people with retinitis pigmentosa and other 
+sight related conditions. The bionic eye comprises a camera 
+(attached to glasses), a vision processing unit and an electrode 
+array surgically implanted behind the retina. The technology 
+converts visual images into electrical signals which lets  
+a person experience improved vision – and see things. 
+
+More than 3.8 million Australians are over the age of 80 years 
+[13] and many are having to consider the possibility of needing 
+to leave the family home and move into a care facility. AI is 
+already helping to support ageing Australians to stay in their 
+homes longer. Sensory systems using computer vision installed 
+in homes can monitor movement and behaviours to detect if 
+something is wrong (e.g. a fall or sustained lack of movement) 
+and automatically call for assistance. Robotic devices can 
+help lift and move heavy objects. Smart devices enabled with 
+human language technologies receive and deliver reminders 
+about important tasks and events. A medication dispensing 
+device can help ensure the right medications are taken,  
+at the right times and in the right dosages. Home health 
+monitoring equipment can save ageing Australians from 
+having to make trips to the doctor or hospital for check-ups. 
+And lastly, whilst it can’t ever replace a human, a companion 
+robot can provide comfort and company to loved ones with 
+conversational capability. 
+
+10 
+
+Artificial Intelligence
+
+Helping farmers keep their properties 
+weed free
+
+Weeds reduce crop, pasture and livestock productivity on 
+Australian farms. Over the years some weeds have become 
+resistant to herbicides and farmers must sometimes resort to 
+ripping them from the earth. AI can help. As an example, the 
+agricultural robot called Agbot II developed by the Queensland 
+University of Technology is about half the size of a tractor and 
+can drive across paddocks performing farming operations 
+autonomously. Agbot II can save Australia’s farm sector  
+$1.3 billion per year by automating weed removal and 
+improving agricultural productivity [14]. Technologies such 
+as AgBot II are using computer vision and machine learning 
+to identify and classify weeds and then determine the 
+optimum weed removal method. Robotics can then be used 
+to spray weeds (with the right type and amount of herbicide), 
+mechanically destroy weeds (rip them out of the ground) or 
+use micro-wave destruction methods. Weeds don’t stand a 
+chance. This will boost crop and pasture productivity, and 
+save farmers time and money. Farm robots can perform 
+a wide range of seeding, spraying, tillage, harvesting 
+and monitoring operations. 
+
+Helping small business owners trying to 
+juggle the day to day demands of running 
+their enterprise
+
+AI is already helping business owners better understand their 
+customers, supply chains and emerging opportunities for 
+growth. There are already numerous Australian companies 
+(large and small) using predictive analytics and machine 
+learning to analyse their sales data – potentially combined with 
+other data (e.g. census data) – to quickly inform how much 
+of what products to order and when (days, weeks, months) 
+based on seasonal demand. These tools can also help identify 
+in-demand products for customers or ways to monitor stock 
+inventories and production activity on the factory floor to 
+place automatic orders for new products or components when 
+they’re running short or demand is forecast to peak. This can 
+add up to major cost savings and new opportunities for our 
+businesses to compete and thrive. 
+
+11
+
+Helping firefighters fight bushfires
+
+Helping people to improve their mental health
+
+Putting out spot fires (small fires) before they become major 
+conflagrations is a mission-critical activity for fire fighting 
+teams. But where should firefighters concentrate effort and 
+target resources? AI can help. AI is already being used to 
+rapidly map forest fire fronts and simulate fire-spread based 
+on fuel loads, terrain and climate, to assist firefighters in 
+pinpointing their efforts, allowing them to save lives and 
+property. For example, the CSIRO Data61 “Spark” system uses 
+machine learning to map fire fronts and identify priorities. 
+These systems offer the potential to operate in real time, 
+providing fire fighters with regular updates and information 
+for tactical responses as the situation rapidly unfolds.
+
+According to Beyond Blue over one million Australians are 
+currently suffering from depression. Some of these people 
+won’t get help and there’s a risk of serious negative life 
+outcomes, which sometimes can include suicide risk. AI can 
+help. As an example, in October 2017 Lifeline launched the 
+#BeALifeline Twitter Direct Message (DM) Chatbot designed to 
+help people going through a tough time [15]. It can diagnose 
+people at risk and, where appropriate, start a conversation 
+to reduce the chances of negative outcomes or suicide. 
+Researchers at the University of Melbourne [15] have found that 
+young people suffering depression or tough life circumstances 
+want more AI enabled chatbots. The chatbot can help someone 
+start a tough conversation and then get human expert help. 
+As the AI and natural language processing behind the chatbot 
+improves it will be able to have much more realistic and helpful 
+conversations with people at risk. AI can also reach people in 
+remote and regional Australia at any time of day or night on a 
+wide range of devices. The chatbot is always there and always 
+ready to help. Chatbots can’t replace human counsellors, 
+however they can help and will play an increasingly  
+important role in reducing depression and suicide risk.  
+For many Australians these technologies might make it easier 
+to open up about problems and get professional help from  
+a human counsellor. 
+
+12 
+
+Artificial Intelligence
+
+Helping people with cancer
+
+Creating career opportunities
+
+In Australia 13,280 new cases of melanoma were diagnosed in 
+2016 and 1,770 people died from the disease [16]. If diagnosed 
+and treated early the prognosis for treatment of these types 
+of conditions is good. But if detected late, the chances of 
+survival are much less. AI can help. For example, a machine 
+learning technique using deep convolutional neural networks 
+was developed by Stanford University scientists to identify skin 
+cancers from images [17]. The researchers tested the AI against 
+21 certified dermatologists. They found the AI performed 
+“on par” with human dermatologists. The researchers indicated 
+that the technology could be incorporated in smartphone apps. 
+This will allow low-cost and earlier detection of skin cancer 
+which will improve survival rates for patients. Many Australians 
+who are doctor-shy may be willing to use a convenient 
+smartphone app which detects a skin cancer. They could then 
+visit a clinician for formal diagnosis and early treatment with 
+much better chance of survival. Many other types of cancer 
+can be diagnosed and treated early with AI leading to better 
+survival rates. 
+
+As AI reshapes the economy it will create new industries and 
+new jobs. A study by Data61 and consulting firm AlphaBeta 
+found that digital innovation could add an extra $315 billion 
+in gross economic value to Australia over the period 2020 – 
+2030 [18]. The new industries in areas such as robotics, vehicle 
+automation and cybersecurity will drive the demand for skilled 
+workers. It’s already happening. The Australian information, 
+communications and technology (ICT) sector workforce 
+contained around 663,100 workers in 2017 representing a 3.5% 
+increase from the previous year [3]. This is forecast to grow to 
+758,700 workers by the year 2023 which represents roughly 
+20,000 additional workers per year over the coming five year 
+period. One of the most rapid-growth professions includes 
+“software and applications programmers” which will see 
+around 80,000 new job opening in the next five years [3].  
+And the salaries are good. For example, the Australian 
+Government Job Outlook Website indicates that software and 
+applications programmers are likely to experience very strong 
+future growth and lower unemployment compared to the 
+overall labour market with an annual before-tax salary  
+of $104,156 compared to the average worker of $73,112.  
+These jobs will also be available to a greater number of 
+Australians, with many of these types of jobs moving from 
+being only present in Australia’s big cities to numerous 
+regional centres. With the right mix of technical and  
+human/business skills, Australians will be well placed for  
+a great career in a great location.
+
+13
+
+14 
+
+Artificial Intelligence
+
+3  WHAT IS AI?
+
+AI is a powerful, useful and transformative general purpose technology. 
+In recent times the discussion about AI has shifted gears – it’s less 
+about whether or not computers can think for themselves as explored 
+by pioneers such as the famous British Mathematician Alan Turing 
+in the 1950s. It’s more about the practical application of powerful 
+technologies to perform useful functions and the transformative 
+impacts this could have on entire economies and societies. 
+In this report we define AI as:
+
+A collection of interrelated technologies used to solve 
+problems autonomously and perform tasks to achieve 
+defined objectives without explicit guidance from 
+a human being.
+
+15
+
+•  Automated planning. Automated planning is a field of 
+AI investigating computational models and principles 
+to enable an artificial agent to act deliberately [24]. For 
+example, when a robot should decide how to perform  
+a specific task, such as moving an object, it should first plan 
+the required actions. A planner identifies an ordered set of 
+required actions to complete a task in a given environment. 
+Automated planning has been applied in planning space 
+missions by NASA, manufacturing (e.g. Amada Corporation), 
+dialogue systems, smart homes, electricity consumption 
+modelling, underwater vehicles and computer games [24-27]. 
+
+•  Expert systems. Expert systems were introduced in 1965 
+
+with the aim of approximating human expertise in decision 
+making, allowing automation of human knowledge [28]. 
+These systems often include two parts: (a) an inference 
+engine and; (b) a knowledge base which includes facts 
+and rules. Finance and healthcare are two of the main 
+applications of such systems, with expert systems for 
+disease diagnosis being developed since the 1970s.
+
+•  Knowledge representation. Underlying any intelligent 
+
+system is its source of knowledge. Such knowledge of the 
+world requires representation. Representation of domain 
+knowledge is challenging because knowledge in the form 
+of human expertise is large, dynamic and non-uniform. 
+Knowledge representation is currently an active area 
+of research within machine learning, natural language 
+processing and computer vision communities, especially  
+for deep neural networks [29]. 
+
+Researchers have been working in AI domains for decades, 
+so why is it gaining so much attention now? The answer 
+is partly due to the convergence of multiple technologies. 
+Technological innovation isn’t a straight line. It’s not like 
+a skyscraper with one floor of scientific achievement built 
+vertically on top of another. Innovation is better represented 
+as an inverted pyramid where one idea leads to several more 
+which support yet more ideas. In his recent book “How Google 
+Works”, Google Chairman Eric Schimdt argues humanity is 
+entering an era of “combinatorial innovation”, where the pace 
+of change is accelerating [30]. That’s why now is different. 
+Multiple technologies are converging to create a fundamentally 
+new capability that will open new doors.
+
+Machine learning lies at the core of AI and when combined 
+with other technologies—such as computer vision, natural 
+language processing and robotics—represents a potential step-
+change in what’s possible for humanity and our quality of life. 
+
+There are many fields of science and technology (Figure 3) 
+which are considered as core to AI such as:
+
+•  Machine learning. Machine learning is a field of study 
+
+that gives the computers the ability to learn without being 
+explicitly programmed. There are three main techniques for 
+machine learning: statistical machine learning aims to find 
+some type of predictive function from the training data; 
+reinforcement learning approaches provide AI algorithms 
+with “rewards” or “penalties” based on their problem 
+solving performance; and deep learning approaches make 
+use of artificial neural networks. 
+
+•  Human language technologies. A growing number of 
+AI applications depend on the ability of robotics and 
+computerised systems to record, interpret and use human 
+language. Human language is communicated either 
+verbally or via text (handwritten or typed). These two major 
+channels of communication are primarily studied by AI 
+researchers under the fields of natural language processing; 
+sometimes referred to as text analytics and voice and 
+speech recognition. The use of these technologies is likely 
+to grow considerably over the coming decade. For example, 
+It is estimated by 2020 half of all internet searches will be 
+conducted via voice [19, 20].
+
+•  Computer vision. This involves analysing digital images 
+
+using image processing algorithms [21]. These algorithms 
+often perform image retrieval, image recognition and 
+visualisation. Recently, deep learning has revolutionised 
+this area, improving the performance of some tasks to 
+the level of human vision. A 2014 breakthrough [22] in the 
+development of an unsupervised machine learning method, 
+called Generative Adversarial Nets (GANs) which involves the 
+generation of images that look authentic to humans, was a 
+major breakthrough for this line of research.
+
+•  Robotics. One of the most interdisciplinary areas of artificial 
+
+intelligence is robotics. It brings together engineering, 
+computer vision, machine learning, electronics and various 
+other disciplines to create robots which can interact with 
+their environment through channels such as sensors, 
+speech, vision or text, to complete tasks. This subfield of AI 
+is often intertwined with other AI subfields of automated 
+planning and plan recognition; as planning is often needed 
+by a robot to guide its movement and choices [23].
+
+16 
+
+Artificial Intelligence
+
+K
+
+N
+
+O
+
+W
+
+A
+
+RTIFICIAL INTELLIGEN
+LEDGE REPRESENTATIO
+
+N
+
+CE
+
+Voice and 
+speech 
+recognition
+
+H
+
+M
+
+U
+TEC
+
+A
+
+H
+
+N LA
+OLO
+
+N
+
+N
+
+GU
+GIES
+
+A
+GE 
+
+Natural 
+Language 
+Processing
+
+Search and 
+information 
+retrieval
+
+Expert 
+Systems
+
+M
+
+A
+
+C
+
+HINE LEA
+
+R
+
+NIN
+G
+
+Computer 
+Vision
+
+Reinforcement 
+learning
+
+Affective 
+Computing
+
+Statistical methods
+
+Deep learning
+
+Robotics
+
+Automated 
+planning 
+and plan 
+recognition
+
+Figure 3. Science domains of artificial intelligence.
+
+17
+
+18 
+
+Artificial Intelligence
+
+4  THE ECONOMIC 
+VALUE OF AI
+
+Productivity is the level of efficiency via which the economy converts 
+its inputs to outputs. Productivity improvements are vital for long term 
+economic growth and wealth generation. AI represents a significant new 
+opportunity to boost productivity and enhance our national economy. 
+This is because AI creates the potential for industry to make better 
+products, and deliver better services, faster, cheaper and safer. 
+
+19
+
+Like many of the world’s advanced economies Australia faces 
+medium-term growth challenges associated with population 
+ageing and low multi-factor productivity growth. The average 
+annual productivity growth rate in Australia over the last 
+10 years has been roughly half the long-term 30 year average. 
+According to economic studies by the Australian Government, 
+productivity growth must increase in order to maintain our 
+trajectory of continued improvements in living standards  
+[31, 32]. Furthermore, overall economic growth measured 
+via gross domestic product (GDP) is also below historic 
+performance (Figure 4). In the 1960s Australia’s average annual 
+GDP growth rate was 5.6%. In the 2010s it averaged 2.6% [33].  
+This phenomena, impacting all of the world’s advanced 
+economies, was referred to by José Ángel Gurría – the 
+Secretary General of the OECD – as the “low growth trap” [34]. 
+
+As a general purpose technology AI 
+could be the missing ingredient in the 
+productivity equation which turns things 
+around and returns the worlds advanced 
+economies to stronger growth. 
+
+As a general purpose technology AI could be the missing 
+ingredient in the productivity equation which turns things 
+around and returns the world’s advanced economies to 
+stronger growth. This is a perspective put forward in a recent 
+working paper by economists published by Stanford University 
+[35], and a separate report by economists at consulting firm 
+Accenture [36]. These researchers argue AI is adding something 
+new to an economy’s productivity engine and rewriting the 
+economic growth equation. 
+
+The potential of AI to improve productivity is supported by 
+several economic studies which estimate the productivity 
+gains associated with AI and digital technology application. 
+For example, consulting firm McKinsey [37] estimates digital 
+technologies could contribute $140 to $250 billion to 
+Australia’s GDP by 2025 and that automation technologies  
+(a subset of AI technology) would comprise $30 to $60 billion 
+for Australia over the same time period. Another recent study 
+by consulting firm AlphaBeta and CSIRO’s Data61 [18] estimates 
+that digital technologies, including AI, are potentially worth 
+$315 billion to the Australian economy by 2028. 
+
+The average annual productivity growth 
+rate in Australia over the last 10 years  
+has been roughly half the long-term  
+30 year average.
+
+)
+
+%
+
+(
+e
+t
+a
+R
+h
+t
+
+w
+o
+r
+G
+
+l
+a
+u
+n
+n
+A
+
+5.4 5.6
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+3.7
+
+3.4
+
+3.4
+
+2.9
+
+3.2
+
+2.6
+
+3.1
+
+1.8
+
+2.6
+
+2.1
+
+?
+
+?
+
+1960s
+
+1970s
+
+1980s
+
+1990s
+
+2000s
+
+2010s
+
+2020s  
+(AI Enabled)
+
+OECD
+
+Australia
+
+Figure 4. Average annual economic growth rates by decade. 
+
+Source: OECD Statistics [25] 
+
+20 
+
+Artificial Intelligence
+
+ 
+ 
+ 
+Another trend of relevance is the increasing importance 
+of the information technology sector to Australia’s economy 
+(Figure 5). This sector is both using and developing powerful 
+AI technology. In the past few years it has broken away from 
+the rest of the share market and is already boosting growth 
+in the Australian economy. Examples include companies 
+such as Technology One, WiseTech, REA Group (including 
+realestate.com), carsales.com, Afterpay, Xero, all of which 
+are investing heavily in advanced digital and AI capabilities. 
+According to the S&P ASX200 Information Technology 
+Index, over the entire month ending July 2019 the market 
+capitalisation of ASX200 technology sector companies 
+ranged from $1.2 billion to $10.2 billion with a mean value 
+of $4.9 billion which is indicative of price volatility within this 
+sector. The breakaway of the information technology sector 
+can be seen over a longer time period in the United States by 
+comparing the NASDAQ with the Dow Jones Industrial Average. 
+The NASDAQ has shown more rapid growth over the decades 
+compared to the Dow Jones. 
+
+A recent report by consulting firm AlphaBeta [38] argues 
+the information technology sector currently contributes 
+$122 billion to the Australian economy employing 
+580,000 workers. The report suggests that we can boost 
+Australia’s GDP by $207 billion/year if the Australian technology 
+sector grows on par with global leaders. The report also finds 
+that 66,000 workers in the information technology sector live 
+in remote and regional Australia and that 90% of information 
+technology sector businesses are small to medium enterprises.
+
+Digital technologies, including AI,  
+are potentially worth AU$315 billion  
+to the Australian economy by 2028.
+
+t
+a
+d
+e
+s
+a
+b
+(
+
+s
+e
+c
+i
+
+d
+n
+
+I
+
+P
+&
+S
+
+9
+0
+0
+2
+
+y
+l
+u
+J
+n
+
+ i
+
+0
+0
+1
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+9
+0
+0
+2
+
+l
+
+u
+J
+
+0
+1
+0
+2
+n
+a
+J
+
+0
+1
+0
+2
+
+l
+
+u
+J
+
+1
+1
+0
+2
+n
+a
+J
+
+1
+1
+0
+2
+
+l
+
+u
+J
+
+2
+1
+0
+2
+n
+a
+J
+
+2
+1
+0
+2
+
+l
+
+u
+J
+
+3
+1
+0
+2
+n
+a
+J
+
+3
+1
+0
+2
+
+l
+
+u
+J
+
+4
+1
+0
+2
+n
+a
+J
+
+4
+1
+0
+2
+
+l
+
+u
+J
+
+5
+1
+0
+2
+n
+a
+J
+
+5
+1
+0
+2
+
+l
+
+u
+J
+
+6
+1
+0
+2
+n
+a
+J
+
+6
+1
+0
+2
+
+l
+
+u
+J
+
+7
+1
+0
+2
+n
+a
+J
+
+7
+1
+0
+2
+
+l
+
+u
+J
+
+8
+1
+0
+2
+n
+a
+J
+
+8
+1
+0
+2
+
+l
+
+u
+J
+
+9
+1
+0
+2
+n
+a
+J
+
+9
+1
+0
+2
+
+l
+
+u
+J
+
+S&P/ASX 200 Information Technology Sector
+
+S&P/ASX 200
+
+Figure 5. The information technology sector compared to the broader market. 
+
+Data source: The Australian Stock Exchange and S&P Dow Jones Indices. 
+
+21
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+
+Artificial Intelligence
+
+5  WHAT’S THE  
+WORLD DOING?
+
+Recent times have seen an unprecedented level of global 
+activity and investment in AI. In the past few years, 14 of 
+the world’s advanced economies have announced a total of 
+$86 billion in AI programs and activity. This is mostly public 
+sector investment but does include some private sector funds. 
+Additional non-publicised investment is likely.
+
+There is a widespread view among these economies that 
+AI will boost industry and worker productivity and achieve 
+competitive advantage in global markets. The investments 
+are being used to fund AI research and development, boost 
+training and education, encourage industry adoption, seed 
+start-ups and promote ethical application. 
+
+There are opportunities for Australia to leverage offshore 
+investments in AI technologies. There are also opportunities for 
+Australia to fill niches in the global marketplace, creating new 
+opportunities for our own economy and developing AI exporting 
+industries which build-off our strengths in science and technology. 
+
+On 22 May 2019, all member countries of the Organisation 
+Economic Cooperation and Development (OECD) Council on 
+Artificial Intelligence (including Australia) approved a set of 
+recommendations on AI [39]. Although not legally binding these 
+recommendations are likely to be influential for AI at the global 
+scale. The recommendations contain principles for the beneficial, 
+safe and ethical application of AI. The recommendations 
+also suggest actions for governments seeking to develop AI 
+capability. These actions relate to research and development, 
+digital infrastructure, business ecosystems, policy designs, skills 
+development and cross-jurisdictional cooperation.
+
+In preparing this document we reviewed AI developments 
+worldwide over the past few years:
+
+•  The United States has deep, longstanding and world-leading 
+
+capability in many scientific fields of AI and many areas 
+of application. United States technology corporations 
+such as Alphabet (Google), Microsoft, Amazon, Apple and 
+other NASDAQ-listed companies are actively developing 
+powerful AI systems which are becoming industry-standard 
+across many sectors. These companies have large research 
+and development budgets. The US Government and 
+philanthropic-sector are investing heavily in applied and 
+pure-discovery aspects of AI research. Many of the most 
+influential scientific research papers on machine learning 
+have been published by researchers at United States 
+universities and technology companies. 
+
+•  In recent years China has come to the fore with rapid 
+
+development of advanced AI capability in diverse fields. Today 
+China has broad and deep AI capabilities with widespread 
+deployment of robotics and autonomous systems across all 
+industry sectors. There has been an explosion of academic 
+publishing in the field of AI from China’s university and research 
+sector. There is a mix of public and private sector AI activity 
+in China with vast investments in pure and applied research. 
+
+Companies such as Alibaba Baidu and Tencent are pouring 
+substantial resources in to specialist AI capability development.
+•  The European Commission has invested heavily in AI capability 
+
+rivalling the activity in China and the United States. The 
+“Artificial Intelligence for Europe” strategy involves investment 
+in AI research capabilities relating to robotics, quantum 
+computing and other fields. The strategy also supports 
+research centres across Europe with the aim of developing 
+numerous AI centres of excellence. The European AI strategy 
+pays considerable attention to ethics and data governance; 
+seeing ethical AI as a point of competitive differentiation. 
+•  The German AI Strategy was launched in December 2018 and 
+is primarily aimed at boosting the vast and well-established 
+German manufacturing sector. The German AI strategy 
+seeks to achieve high levels of quality-assurance so that 
+German-made AI is recognised by customers as high-quality; 
+as achieved by brands such as Miele and BMW. The German 
+Government is also sponsoring many university research 
+teams to conduct pure-discovery oriented AI research to 
+generate novel approaches for AI problem solving and next-
+generation technological capability. 
+
+•  Canada was the first country to launch an official AI Strategy 
+
+called the “Pan-Canadian Artificial Intelligence Strategy” in 2017. 
+This strategy grew the number of outstanding AI researchers and 
+skilled graduates across the nation, established interconnected 
+nodes of scientific excellence in Canada’s three major centres 
+for AI (Edmonton, Montreal and Toronto), supported a 
+national research community on AI and to developed global 
+thought leadership on the economic, ethical, policy and legal 
+implications of advances in AI. Since launching this strategy 
+Canada has continued to increase its AI activity and investment. 
+•  The United Kingdom AI strategy “AI in the UK: Ready, willing 
+
+and able?” was published in 2018 and aims to grow the 
+population of doctoral researchers and the overall skills 
+and capabilities of the UK workforce in all aspects of AI. 
+The strategy also has a strong focus on ethical AI as a key 
+differentiator in global markets. The area around Cambridge 
+has emerged as a mini Silicon Valley with an explosion of 
+high-tech digital firms. The UK is also home to the Google 
+company Deepmind which has headquarters in London. 
+Deepmind is credited with some of the most significant 
+breakthroughs in the field of Machine Learning. 
+
+•  The French AI Strategy was released in 2018 and is heavily 
+focused on the social, ethical and economic aspects of the 
+technology. The French strategy aims to upgrade the skills 
+of industry to build, adapt and apply AI within production 
+processes. It also aims to upskill an entirely new workforce of 
+AI workers and researchers. The French strategy also involves 
+reviewing and improving legislation, regulation and policies 
+to accommodate AI within all aspects of French society. 
+
+•  In addition to these countries Singapore, Taiwan, Japan, India, 
+United Arab Emirates, South Korea, Finland and New Zealand 
+have all announced significant AI activity.
+
+23
+
+6  WHAT’S AUSTRALIA  
+DOING?
+
+There’s a vast amount of AI activity 
+underway and Australia has world-leading 
+and longstanding capabilities in many 
+core AI research fields. 
+
+In the May 2018 Budget, the Australian Government announced 
+$29.9 million to advance AI and machine learning, along with 
+development of an AI Technology Roadmap (this document), 
+a standards framework and a national ethics framework [40]. 
+
+The funds support AI related Cooperative Research Centre 
+Projects (CRC-P), PhD scholarships and school related learning. 
+Australia’s national science agency, CSIRO, also announced 
+a $19 million initiative on AI and machine learning “to target 
+AI-driven solutions for areas including food security and 
+quality, health and wellbeing, sustainable energy and 
+resources, resilient and valuable environments, and Australian 
+and regional security” [41]. States and territories are also 
+investing, with prominent examples being South Australia 
+investing $7.1 million into an AI and Machine Learning 
+Institute at the University of Adelaide [42] and the Queensland 
+government’s $3 million investment in an AI Hub at its 
+innovation centre “The Precinct” in Brisbane. 
+
+Multiple Australian universities and research organisations 
+have longstanding (decadal) robotics and AI related research 
+and teaching units. Since 2010 the Australian Research 
+Council has awarded $243 million on pure research projects 
+classified as “AI and image processing” [43]. The Queensland 
+University of Technology is home to the Australian Centre 
+for Robotic Vision which works in partnership with CSIRO, 
+the Australian National University and Monash University. 
+The Australian Centre for Field Robotics at the University of 
+Sydney is one of the world’s largest robotics teams which 
+specialises in applications of robots in outdoor environments. 
+Australia’s mining companies, CSIRO and partner universities 
+also have long-established world leading expertise in mine 
+site automation. 
+
+Since 2010 the Australian Research 
+Council has awarded over AU$243 million 
+on pure research projects classified 
+as AI and image processing.
+
+$47
+
+$31
+
+$26
+
+$22
+
+$25
+
+$28
+
+$18
+
+$19
+
+$18
+
+$9
+
+s
+r
+a
+l
+l
+
+o
+D
+n
+a
+i
+l
+a
+r
+t
+s
+u
+A
+f
+o
+s
+n
+o
+
+i
+l
+l
+i
+
+M
+
+i
+
+)
+l
+a
+n
+m
+o
+N
+
+(
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+Figure 6. Australian Research Council pure research funding for artificial intelligence
+
+Data source: Australian Research Council Grants Database [43]. This represents the annual total of projects funded under the research field code 
+801 “Artificial Intelligence and Image Processing”. In 2014 a single large $19 million project was funded at the Queensland University related to 
+robotic vision [44]. 
+
+24 
+
+Artificial Intelligence
+
+ 
+ 
+ 
+ 
+ 
+There are several active and planned innovation precincts 
+in Australia with a specific focus on AI, which aim to foster 
+industry–research collaboration, commercialisation and 
+innovation. The Australian Government, working with state and 
+territory governments, universities and research organisations, 
+has endorsed a Statement of Principles for Australian 
+Innovation Precincts to provide best-practice advice to 
+encourage the right settings for precinct development [45, 46].
+
+Existing data on the Australian start-up scene indicates there 
+are 1,465 start-ups in total and that 21% of these consider AI 
+relevant to their products or services [47]. This has increased 
+from 6% in 2017 [48]. We surveyed 72 AI start-up companies 
+of which 84% report to be adapting or developing novel 
+
+algorithms rather than simply using AI toolboxes. Some of the 
+challenges reported by the AI start-ups included accessing skills 
+and talent; securing investment funds; industry risk aversion 
+and market access. As the AI sector develops in Australia,  
+the SME Export Hubs Initiative may provide support to enable 
+greater collaboration and realise AI export opportunities [49]. 
+
+Overall, there is evidence of widespread development and 
+application of AI technology in Australian organisations and 
+strong AI capability across the nation. Through this project 
+we identified 285 applications of AI technology across the 
+entire Australian economy by companies (152 applications), 
+governments (93 applications) and research organisations  
+(40 applications). 
+
+25
+
+26 
+
+Artificial Intelligence
+
+7  AI DEVELOPMENT 
+STRATEGIES
+
+Enabling the entire Australian economy with AI represents a complex 
+policy and strategy challenge. Here we identify three broad strategic 
+approaches for technology development which could be used to 
+realise AI objectives for Australia. 
+
+Technological Specialisation 
+7.1 
+The development of AI capability in Australia is likely to 
+benefit from a targeted approach which focuses on areas of 
+specialisation. This involves selecting a small number of high 
+potential areas of AI-related technological capability and 
+targeting resources to accelerate innovation, integration and 
+adoption in those chosen areas.
+
+There is much evidence that technological specialisation 
+boosts economic growth [50-54] especially in advanced 
+economies like Australia’s. For example, a comprehensive 
+economic study [51] of all countries comprising the European 
+Union over the years 1969 to 1998 by researchers from the 
+University of Wuppertal in Germany found that: “the level 
+of relative technological specialisation in the area of R&D-
+intensive industries and especially in the area of leading-edge 
+industries contributes significantly to economic growth” 
+(p271). An earlier study of technological specialisation [50] 
+amongst 20 OECD countries during 1975-1990 came to a similar 
+conclusion stating that “a general positive relationship is found 
+between the degree of specialisation in technology and higher 
+rates of growth” (p157). 
+
+These empirical studies support longstanding theories in 
+economics about economies-of-scale, comparative advantage 
+and trade. Specialisation allows a country to decrease the 
+costs of production and produce a higher quality product. 
+That makes it difficult for other countries to compete. 
+However, there are also some risks with specialisation. 
+The most significant risk is a failure to specialise in the 
+correct area of science and technology due to future changes 
+in consumer demand or the emergence of competition 
+from other industries worldwide. This can be managed via 
+a targeted, adaptive and balanced specialisation strategy 
+and the Australian Government could consider leading the 
+coordination of such a strategy with industry and researchers. 
+
+We note that whilst planned specialisation can be an  
+effective industry growth strategy, serendipity and organic 
+growth are also extremely effective development pathways. 
+Many science, research and technology breakthroughs which 
+have generated the largest social and economic benefit have 
+been serendipitous. 
+
+Identifying and developing targeted areas of AI specialisation 
+for Australia, along with other initiatives, could be an effective 
+approach for building capacity across the entire economy. 
+
+There is much evidence that  
+technological specialisation boosts 
+economic growth especially in advanced 
+economies like Australia’s.
+
+27
+
+CASE STUDY –  
+The Pittsburgh steel industry
+An example of effective technological specialisation is the United States 
+Pittsburgh steel industry. 
+
+At the height of the boom in the 1950s and 1960s, Pittsburgh was one of 
+the largest steel producing regions in the US, however a decline in steel 
+prices during 1970s and 1980s saw most steel mills in Pittsburgh closed. 
+
+In response, the US Government implemented a steel technology 
+specialisation strategy, to transition the economy towards new sources 
+of wealth and jobs. By 2010 there were two academic and eight corporate 
+steel research centres in Pittsburgh, providing specialised expertise in 
+metallurgical and materials science. 
+
+Specialisation in steel production, and then steel technology, allowed 
+Pittsburgh to achieve continued economic growth, low unemployment 
+and rising salaries. 
+
+CASE STUDY –  
+The ‘Cambridge Phenomena’
+An example of non-centralised and serendipitous emergence 
+of a technology industry is the UK’s “Cambridge Phenomena”. 
+
+Cambridge University is a research and teaching institution which 
+has long pursued excellence, but with negligible centralised control. 
+Academics and schools within the university are expected to meet 
+high standards of competency and achievement, but can largely 
+pursue their own directions. The results have been spectacular:
+
+•  Following explosive growth in the 1980s and 1990s, by 
+
+year 2000 there were over 1,200 high tech firms employing 
+36,000 people (or 10% of the entire Cambridgeshire workforce) [7].
+
+•  The ecosystem continued to grow over the global financial crisis 
+years of 2008-2009 and by the year 2013 had 1,500 firms, five of 
+which had valuations over US$1 billion [9]. 
+
+•  The success of the tech start-ups attracted larger companies 
+
+with larger investments. Microsoft, Google and Toshiba are a few 
+of the companies setting up major R&D labs in Cambridge [9].
+
+28 
+
+Artificial Intelligence
+
+7.2  Mission Directed Research 
+A mission-directed approach to technology development  
+aims to identify, and solve, national problems and challenges.  
+For example, Australia might want to set a bold target around 
+using AI to rapidly boost early diagnosis of cancer. This can have 
+the effect of consolidating national capability and generating 
+spin-off companies and industries. Concepts of mission-directed 
+research have been developed by the Australian Government 
+[55] and Mariana Mazzucato from the University of Sussex 
+and the University College London [56]. It is possible that 
+mission-directed research designs could be used to concentrate 
+AI capabilities whilst building industries which export the 
+solutions globally. Missions could complement  
+the specialisations. 
+
+An example of a mission directed AI program comes from the 
+United Kingdom. This year the UK Government Department 
+of Business, Energy and Industrial Strategy announced a 
+missions-based approach to build the nation’s future industries 
+[57]. As stated on the department’s website “each mission will 
+focus on a specific problem, bringing government, businesses 
+and organisations across the country together to make a real 
+difference to people’s lives” [57]. The first mission involves 
+the use of AI and innovation to improve the prevention, 
+diagnosis and treatment of chronic diseases by the year 2030. 
+This mission involves quantifiable outcomes. For example, the 
+UK government estimates that AI and other innovations could 
+result in 50,000 more people having their cancers diagnosed 
+early-stage (rather than late-stage) which would mean 
+20,000 fewer deaths (within 5 years of diagnosis) compared to 
+the situation today [57]. This is a mission to not only improve 
+people’s quality of life, but also to grow new industries and 
+new jobs. 
+
+A missions-based, or grand-challenges, approach could be an 
+effective way of developing Australia’s AI capability whilst also 
+solving problems of national significance. 
+
+29
+
+7.3  Business and 
+Knowledge Ecosystems 
+Ecosystem strategies aim to map and model the entire network 
+of institutions, resources and/or individuals relevant to 
+business objectives. They look beyond organisational and/or 
+jurisdictional boundaries to the flow of ideas and resources. 
+Ecosystem designs may be an effective approach for the AI 
+enablement of Australian industry given that our AI capability 
+is distributed across multiple public and private sector 
+institutions, research organisations and diverse geographic 
+locations. There is also considerable connectivity with overseas 
+research capability.
+
+Ecosystems avoid or reduce the need to create new centralised 
+institutes. An ecosystem approach is of growing popularity in 
+the fields of organisational design and management strategy 
+[58-60]. The concept of a “business ecosystem” was introduced 
+by James Moore in the 1993 May-June issue of the Harvard 
+Business Review [61]. It was based on a study of a company 
+called Apple Computers. Moore wrote that “Apple Computer 
+is the leader of an ecosystem that crosses at least four major 
+industries: personal computers, consumer electronics, 
+information, and communications. The Apple ecosystem 
+encompasses an extended web of suppliers that includes 
+Motorola and Sony and a large number of customers in various 
+market segments”. At the time Apple Computers wasn’t 
+worth much. However, by August 2018 Apple was the world’s 
+first company to reach market capitalisation of US$1 trillion. 
+It was accompanied by unprecedented growth in the 
+information technology sector with companies such as Google 
+(Alphabet), Microsoft, Facebook, Amazon and others seeing 
+unprecedented rates of growth. All adopted similar ecosystem 
+models within their organisational structures and cultures. 
+
+Ecosystems of AI activity which span existing public and private 
+sector organisations could be an effective way of developing AI 
+capability rather than building entirely new institutions. 
+
+30 
+
+Artificial Intelligence
+
+CASE STUDY –  
+Commonwealth Bank of Australia
+Ecosystems are being increasingly used in organisational 
+design within Australian companies. On 28 May 2019 
+the Commonwealth Bank of Australia announced a new 
+business ecosystem structure for its Institutional Banking 
+and Markets function [1]. The new structure is based 
+on six ecosystems: connected services; efficient supply 
+chains; future cities; future resources; intelligent finance 
+and smart networks. 
+
+The bank has used an ecosystems approach because 
+it is the most effective way of supplying data-driven 
+insights to their customers in a digitally transformed 
+global economy. The Commonwealth Bank’s Group 
+Executive of Institutional Banking and Markets Andrew 
+Hinchliff is quoted in the Australian Financial Review 
+(28 May 2019) saying “These [ecosystems] are designed 
+to understand the interdependencies of a business 
+with the surrounding businesses and environment 
+around it” [1]. 
+
+The ecosystem may become a common approach 
+to organisational design considering digital 
+transformation and data-driven decision making.
+
+As the company adopted new technology, the business 
+doubled in size and for every new piece of automated 
+equipment installed another 10 people have been employed. 
+Des highlights the fact that no jobs were lost through the 
+technology transition and some boiler makers are now the 
+company’s technology experts.
+
+As 1,500 staff hours were removed from the factory floor 
+through the automated equipment, staff undertook 
+new roles using their expert knowledge of steel and the 
+fabrication process. Investment in staff retention and 
+professional development has allowed the company to 
+expand its capabilities, continue to learn and opened new 
+business opportunities.
+
+Watkins Steel has grown beyond humble South East 
+Queensland beginnings to enter global markets. The staff have 
+built global networks and participate in international networks 
+to tap into the latest developments.
+
+7.4  A Story of Transition – From 
+Selling Steel to Selling Steel Know-How
+It’s not just the technology giants such as Google and Microsoft 
+benefiting from AI enablement. It’s happening across the 
+spectrum. Successful technology transitions are underway in 
+small and large companies across Australia in very traditional 
+sectors. One of the most striking examples comes from 
+Brisbane based father-son company Watkins Steel. What’s 
+remarkable about this case study is that not a single employee 
+was lost in its process of transforming; rather the company 
+grew its workforce and created more jobs as it switched from 
+steel manufacturing to steel technology.
+
+Based in Brisbane, 50-year old company Watkins Steel 
+specialises in small to mid-size structural steel, metal work, 
+urban arts scapes, architectural structures and refurbishments. 
+Three years ago, recognizing the potential of digital 
+technologies, the company started its transformation from 
+traditional steel fabrication to technology services offering  
+3D laser scanning, design and data collection.
+
+Watkins Steel has developed a unique digital workflow 
+that links the entire fabrication and installation process 
+from start to finish, connecting digital equipment, software 
+and people, for improved steel detailing. The CEO Des 
+Watkins characterises the transition between old and new, 
+as going from the shop floor to the up-stairs office, where 
+traditional hard-hats are replaced with cutting-edge HoloLens 
+(augmented reality) technology.
+
+31
+
+32 
+
+Artificial Intelligence
+
+8  POSSIBLE AI 
+SPECIALISATIONS 
+FOR AUSTRALIA
+
+We have identified three domains of AI development and 
+application where Australia is well positioned to transform 
+existing industries and build new ones. These specialisations have 
+been selected based on (a) existing strengths and capabilities 
+where we have comparative advantage; (b) opportunities to solve 
+big problems for Australia and; (c) opportunities to export the 
+solutions worldwide to other problem holders. We stress that 
+this is an early and emerging analysis. We expect these areas 
+of specialisation will be refined as more information about the 
+breadth and depth of AI capability is identified.
+
+33
+
+8.1  AI for Better Health,  
+Aged Care and Disability Services
+AI is being widely applied and developed within the healthcare 
+sector in Australia and worldwide. In surgical applications 
+robotics are being used to improve the precision and efficacy 
+of operations. Machine learning, data science and predictive 
+analytics are being used to provide earlier and more accurate 
+diagnosis of cancer, infectious disease and other forms of 
+illness. Sensory systems combined with other technologies are 
+being used to monitor and assist older Australians creating 
+the possibility of living at home for longer before going into 
+a retirement home. There is much that AI systems can do to 
+improve our health and wellbeing.
+
+PROBLEMS TO SOLVE 
+
+8.1.1 
+Australia faces acute challenges in meeting the health and 
+aged care needs of the future. This includes both physical 
+and mental health. Total healthcare expenditure in Australia 
+reached $181 billion in financial year 2016/17 representing 
+more than $7,400 per person and 10% of overall economic 
+activity [62]. This is associated with 4.7% annual growth in real 
+expenditure [62] which is above the rate of real income growth 
+in the economy. A CSIRO report on the future of health states 
+ongoing cost pressures will continue and without intervention 
+Australian governments will need to double spending on 
+healthcare per capita by 2055 to finance current levels of 
+service [63].
+
+Already we can see patients and senior citizens struggling 
+to get the level of care they require. Median wait times for 
+elective surgery increased from 36 days in 2014 to 40 days 
+in 2018. The number of people who presented to emergency 
+departments and were “seen on time” decreased from 75% 
+in 2014 to 72% in 2018 [64]. The median wait time to enter 
+residential aged care facilities has increased to 121 days in 2018 
+up from 84 days in 2016 [65]. Approximately seven million 
+Australians, representing 29% of the population, live in  
+regional and remote areas which have unique healthcare 
+challenges [66]. Compared to major cities, remote areas have 
+5.4x the rate of deaths due to land transportation accidents 
+and 1.3x overall mortality rates [67]. 
+
+Australia’s ageing population and demographic pressures 
+are also high priority challenges. The number of Australians 
+aged 65 and over is predicted to increase from 3.8 million 
+to 5.2 million by 2027 [68]. This is associated with increasing 
+prevalence of certain types of disease. For example, without  
+a medical breakthrough, the number of people with dementia 
+is expected to increase to 536,164 by 2025 [68]. In the four year 
+period from 2012 to 2016 palliative care provided in hospitals 
+rose by 28%. The rate of subsidised palliative care-related 
+prescriptions rose at an average annual rate of 17% [69]. Our 
+ageing population could increase public health expenditure by 
+1-4% of GDP [70] placing further pressure on strained budgets.
+
+The same five health issues continue to cause most deaths of 
+Australians (male and female) and have remained relatively 
+stable over the preceding decade (2006-2016). Coronary heart 
+disease, dementia & Alzheimer’s disease, cerebrovascular 
+disease, lung cancer and chronic obstructive pulmonary 
+disease led to 58,276 of 158,500 deaths in 2016 [71]. Collectively, 
+chronic conditions account for 87% of deaths, 61% of total 
+disease burden and 37% of hospitalisations [69]. In 2018 an 
+estimated 138,300 Australians will be diagnosed with cancer 
+and 48,600 will die from cancer [69]. The Australian Institute 
+of Health and Wellbeing found that in 2016 there were over 
+26,600 potentially avoidable deaths [72]. 
+
+Already AI systems are matching, or even outperforming, 
+human experts in areas such as oncology, radiology and 
+retinal disease. For example, a machine learning technique 
+using deep convolutional neural networks was developed by 
+Stanford University scientists to identify skin cancers from 
+images [17]. The researchers tested the AI against 21 certified 
+dermatologists. They found the AI performed “on par” with 
+human dermatologists. The researchers indicated that the 
+technology could be incorporated in smartphone apps. 
+This will allow low-cost and earlier detection of skin cancer 
+which will improve survival rates for patients. Such technology 
+would be hugely beneficial in Australia which has amongst the 
+highest rates of skin cancer in the world.
+
+Overall the demand for health and aged care services in 
+Australia is set to escalate and expenditure will continue to 
+rise. Innovation is essential to ensure improved, or even, 
+maintained quality of services. AI will be an important 
+technology which allows us to deliver better healthcare  
+in a cost efficient manner. 
+
+Already AI systems are matching,  
+or even outperforming, human experts 
+in areas such as oncology, radiology and 
+retinal disease.
+
+34 
+
+Artificial Intelligence
+
+CASE STUDY –  
+AI for Disability Support Services
+According to data from the Australian Bureau of Statistics  
+4.3 million Australians live with some type of disability.  
+There is considerable scope for AI to help these people live 
+better lives as documented in a recent publication in the 
+Disability Support Guide [2]. For example, the new Soundscape 
+app by Vision Australia and Microsoft allows people who are 
+blind (or vision impaired) to receive audio prompts about objects 
+in their immediate surroundings. Soundscape uses computer 
+vision and headphones to tell the person whether they’re 
+looking at a road, café, railway station, bike track or other 
+object. This is part of Microsoft’s $25 million 5-year program 
+called AI for Accessibility. In another case the Endeavour 
+Foundation has launched 15 training programs which use virtual 
+reality (VR) to help people with intellectual disabilities learn 
+a wide range of skills including road safety, how to use an 
+automatic teller machine and how to be a barista. 
+
+CASE STUDY –  
+AI for Mental Health
+Mental health can also be improved by AI. For example, an 
+Australian CSIRO Data61 technology uses AI techniques and simple 
+computer games to diagnose mental disorders. The computer 
+game presents patients with choices and tracks their behaviour. 
+Based on how they respond the AI system can diagnose 
+whether they are likely to have a mental disorder and what type. 
+The AI system uses a machine learning technique called artificial 
+neural networks to record and analyse a vast range of subtle 
+behavioural responses in the patient. By analysing this data, the AI 
+system can make a reliable diagnosis. It has already been applied to 
+accurately diagnose patients with depression and bipolar disorder. 
+This represents an improvement on standard questionnaires used 
+by clinicians in the Diagnostic and Statistical Manual (DSM) and the 
+International Classification of Diseases (ICD).
+
+35
+
+The global digital healthcare 
+market is expected to exceed 
+AU$521.22 billion by 2024.
+
+8.1.3  OPPORTUNITIES TO EXPORT
+A recent report by the World Health Organisation [78] reveals 
+the size and growth of global health expenditure. In 2015 the 
+world spent $10.6 trillion on healthcare representing 10% of 
+global GDP with an annual growth rate of 4% compared to 
+the overall economic growth rate of 2.8%. Continued growth 
+in expenditure can be expected as the world’s economy and 
+human population grows. There are significant technology 
+markets within the global healthcare sector. Recent analysis by 
+AlphaBeta has identified safe and secure precision healthcare 
+as a $140 billion to $190 billion global market by 2028 with 
+$30 billion to $50 billion of revenue generated in Asia-Pacific 
+alone [70]. The global digital healthcare market is expected to 
+exceed $521.22 billion by 2024 [79]. Furthermore, the world will 
+experience population ageing. The global share of over-60s is 
+expected to increase to 21% by 2050 up from 13% in 2017 [70, 
+80]. In summary there is strong evidence for massive growth 
+in demand for healthcare and aged care solutions at the global 
+scale. Australia is well positioned to develop and supply AI 
+products into the global market. 
+
+8.2  AI for Better Towns, 
+Cities and Infrastructure
+This specialisation captures all the ways that AI can be used 
+to improve our built environment capturing social, economic 
+and environmental benefits. This includes improved design, 
+planning, construction, operation and maintenance of 
+infrastructure and buildings. It also includes all the ways 
+that AI can be used to improve the efficiency and safety 
+of transportation, electricity and water services. 
+
+8.1.2  AUSTRALIAN CAPABILITY 
+Australia already has strong capability relating to the 
+application of AI and related digital technologies for healthcare 
+and aged care. In this section we provide a few examples of 
+research teams and companies doing exemplary work. But 
+we note a much larger number of research organisations, 
+companies and governments applying AI to improve the 
+efficiency and effectiveness of health and aged care services.
+
+An outstanding Australian invention is the bionic eye [73].  
+This is a retinal implant placed at the back of the eye. Sensors 
+built into glasses capture visual input and feed it into the 
+optic nerve and onto the brain. This can restore some level 
+of sight to a visually impaired person. The bionic eye has 
+been developed by the National Vision Research Institute 
+in partnership with the University of Melbourne, Monash 
+University and Lions International. The bionic eye represents 
+advanced application of computer vision which is a field of AI 
+research. There is huge potential to develop, apply and export 
+this technology. 
+
+The University of Melbourne will become home to the 
+Australian Research Council (ARC) Training Centre in 
+Cognitive Computing for Medical Technologies, receiving 
+$4.1 million in government funding. The centre aims to breed 
+commercially savvy AI researchers with deep expertise in 
+medical technologies [74]. At Deakin University the Applied 
+Artificial Intelligence Institute (A2I2) in partnership with the 
+Alfred Hospital has developed an AI decision support system 
+to assist doctors and nurses within the hospital’s trauma 
+bay to make better decisions when stabilising a patient [75]. 
+At Monash University the Information Technology department 
+has a project focusing on “Multi Modal Medical AI” which 
+centred on how computer-based decision procedures under 
+AI can assist in improving health and wellbeing [76]. 
+
+Australian company Saluda Medical is pioneering technology 
+using novel AI and electroceutical technology to record and 
+measure the body’s response to electrical nerve stimulation 
+travelling up and down the spine in real time, to enable better 
+targeting and management of chronic pain. Australian start-up 
+Maxwell Plus is working with CSIRO, radiology specialist 
+I-MED and Austin Health to develop and commercialise 
+technology for identifying early-stage Alzheimer’s disease 
+[77], using Maxwell’s AI platform to automatically form a 
+view of a patient’s overall health and combine this with 
+brain imaging tools. 
+
+36 
+
+Artificial Intelligence
+
+8.2.1  PROBLEMS TO SOLVE
+In 2018 there were 1,137 road deaths in Australia [81]. Many of 
+these deaths resulted from human error including speeding 
+and drunk driving. In 2014-15 nearly 57,000 Australians 
+were hospitalised as the result of injuries sustained in car/
+vehicle crashes [82]. The estimated annual economic cost 
+of road crashes in Australia is $27 billion with significant 
+and devastating social impacts [83]. Furthermore, traffic 
+congestion in the year 2015 cost the Australian economy an 
+estimated $16.5 billion [84]. Without major policy changes or 
+advancements, congestion costs are predicted to be between 
+$27.7 billion and $37.3 billion per annum by 2030 [85]. 
+
+The application of AI and related technologies could be 
+transformative for safety. A study drawing upon United States 
+Federal Government road safety datasets found that collision 
+avoidance technologies such as autonomous emergency 
+braking, forward collision warning and lane departure 
+correction could prevent or reduce the severity of 1.3 million 
+crashes per year [86]. Another study of US highways found 
+autonomous emergency braking combined with forward 
+warning collision systems decreased front-to-rear injury 
+accidents on United States highways by 56% [87]. There are 
+also significant improvements to travel speed and convenience. 
+Traffic light optimisation systems can reduce travel time by 
+25%, braking by 30% and idling by 40% [88]. 
+
+Autonomous emergency braking combined 
+with forward warning collision systems 
+decreased front-to-rear injury accidents  
+on United States highways by 56%.
+
+Energy security concerns and power outages continue to 
+impact Australian towns and cities. Australian electricity 
+consumers pay retail prices that are 44% higher than a decade 
+ago with network costs (poles and wires) contributing 40% 
+of the price increase [89]. Further price rises are likely. In 2016 
+electricity generation accounted for 35% of Australia’s national 
+greenhouse gas emissions [90]. AI could help us use electricity 
+more efficiently with economic and environmental benefits. 
+
+Cybersecurity will be critical to the future of Australian cities. 
+From the risk of compromised motor vehicles [91] to protection 
+of the energy grid and healthcare systems, Australia will 
+need to address a growing and complex arena of threats and 
+challenges in the digital age. According to the Australian 
+Cybersecurity Centre’s 2017 Threat Report, losses of over 
+$20 million were incurred by Australian organisations due to 
+business email compromise (up from $8.6 million in 2015/16) 
+and government agencies responded to 734 individual cyber 
+incidents affecting private sector systems of national interest 
+and critical infrastructure [92]. Despite Australian investment in 
+security infrastructure increasing by 8% in 2017 (now totalling 
+$89.1 billion) the number of targeted attacks doubled from the 
+preceding year [93]. Approximately five million Australians are 
+victims of cybercrime each year [94]. The potential for AI to 
+help accelerate Australia’s fight against cybercrime is high. 
+
+High construction costs and unplanned cost overruns are 
+limiting our ability to improve our cities and infrastructure. 
+A recent study by the Grattan Institute [95] found that 
+Australian Government expenditure on transport infrastructure 
+over the last decade has been “unprecedented” exceeding 
+1% of GDP each year since 2009. The Grattan Institute study 
+also found that 65% of major road infrastructure projects 
+had cost overruns representing billions of dollars. A recent 
+Productivity Commission report [96] into public infrastructure 
+in Australia found that “there are numerous examples of poor 
+value for money arising from inadequate project selection, 
+potentially costing Australia billions of dollars” and that 
+“there is an urgent need to comprehensively overhaul 
+processes for assessing and developing public infrastructure 
+projects”. A study by the University of Sydney reports that 
+$63 billion of road infrastructure projects in Australia delivered 
+no identifiable improvement on economic output [97] and 
+were of questionable economic value. 
+
+AI can be used to help us plan, build and operate our 
+infrastructure more efficiently. AI can allow us to sweat existing 
+infrastructure assets harder and ensure we prioritise new 
+infrastructure projects of maximum benefit to the nation. 
+
+37
+
+8.2.2  AUSTRALIAN CAPABILITIES
+The shift toward smart cities and infrastructure is a global 
+phenomenon with many actors developing and implementing 
+solutions. Our analysis has identified Australian organisations 
+and teams who are world leaders in developing, advancing 
+and deploying AI solutions which improve cities and 
+infrastructure. While not wholly exhaustive, the following 
+examples and applications illustrate the foundational basis 
+from which Australia can amplify its capability and establish 
+comparative advantages.
+
+There is an opportunity in Australia to develop connected and 
+automated vehicle (CAV) technology using both cellular V2X 
+and dedicated short range communications (DSRC) [98]. V2X is 
+a technology which allows vehicles to communicate with traffic 
+infrastructure and other vehicles. The connectivity component 
+of automated vehicle design is where Australia could 
+potentially play a role in the global marketplace. This is an 
+area in which Australia is developing world-leading capability. 
+For example, the Queensland Department of Transport and 
+Main Roads is trialling Cooperative Intelligent Transport 
+Systems (C-ITS) in the City of Ipswich. This will see 500 vehicles 
+retrofitted with C-ITS devices to improve their safety and the 
+efficiency of the road-network [99]. In another example the 
+Adelaide based company Cohda Wireless supply hardware and 
+software used in over 60% of V2X trials globally [100, 101]. 
+
+A related longstanding Australian innovation is the Sydney 
+Coordinated Adaptive Traffic System (SCATS). This can be used 
+to coordinate road signals and optimise vehicle flow across 
+an entire town, city or region. This Australian developed 
+technology has been in use for 40 years in 27 countries 
+worldwide [102].
+
+In another area of AI application, a University of Newcastle 
+team is researching crowd movements, specifically pedestrian 
+flows, and is including insights into a statistical model which 
+can simulate the movements of crowds [103]. These insights 
+and models could be used to improve public safety as well as 
+building use via improved design of urban and architectural 
+space. PSMA Australia is leveraging satellite imagery, big 
+data and artificial intelligence technologies to create a digital 
+representation of Australia’s built environment (mapping 
+buildings, solar panels, swimming pools, tree heights and 
+other features) [104]. 
+
+Perth is currently undergoing a trial of on-demand  
+automated cars, with the Western Australia government 
+partnering with the Royal Automotive Club and French 
+company NAVYA [105]. Rio Tinto is also leading the way in 
+developing an automated train consisting of three locomotives 
+capable of carrying approximately 28,000 tonnes of iron ore 
+over 280 kilometres [106]. 
+
+Emesent, a spin out from CSIRO’s Data61, has developed 
+an AI-driven LIDAR system, which is mounted to a drone to 
+quickly produce 3D maps of assets, offering better and faster 
+3D modelling for construction, maintenance and mining 
+applications. The system is capable of navigating complex  
+GPS-denied underground mines and tunnels while creating 
+three dimensional maps, or can be sent to map physical assets 
+such as towers, limiting the need for humans to perform these 
+tasks, which are often risky or time consuming [107]. 
+
+38 
+
+Artificial Intelligence
+
+8.2.3  OPPORTUNITIES TO EXPORT
+Analysis by AlphaBeta advisors indicates data-driven urban 
+management will become a $20 billion to $30 billion global 
+market by 2028 (with $5 billion to $10 billion in Asia-Pacific), 
+while the market for cyber-physical security is likely to generate 
+global revenue of $30 billion to $40 billion and Asia-Pacific 
+market revenue of $10 billion to $15 billion [70]. 
+
+Increasing rates of urbanisation, growing populations, 
+limited resources and digital connectedness of critical 
+infrastructure systems is a global phenomenon. By 2050 the 
+global population will reach 9.8 billion with two-thirds living 
+in cities [108] and almost 52% of the world’s people will live in 
+water-stressed areas [109]. By 2040 energy consumption will 
+increase by almost 50% [110]. 
+
+By 2030 it is expected the world will have 43 megacities with 
+more than 10 million inhabitants [111]. In Asia alone, more than 
+600 million additional people are expected to move to cities 
+by 2030 [112]. By 2020 it is estimated 20 to 30 billion objects 
+will be connected to the internet-of-things requiring enhanced 
+cyber-physical security solutions. According to the World Bank, 
+global infrastructure spending needs to reach US$97 trillion 
+by 2040 and current predictions identify a shortfall of 
+US$19 trillion [113]. 
+
+Worldwide the automated vehicle market  
+is expected to be worth US$173.15 billion  
+by the year 2030.
+
+Worldwide the automated vehicle market is expected 
+to be worth US$173.15 billion by the year 2030 [98, 114]. 
+Whilst counties such as South Korea, Germany and the United 
+States are taking the lead in the design and manufacturing 
+of automated cars there is much opportunity for Australia. 
+This is a huge and diverse marketplace with countless 
+niches and satellite industries which go beyond just making 
+automated cars. For example, vehicle-to-vehicle and 
+vehicle-to-infrastructure communication is an important niche 
+within the automated car sector which Australia could fill. 
+
+The rapid rate of urbanisation across the globe combined with 
+the increased human mobility and the digital connectivity of 
+city infrastructure will be associated with strong demand for 
+AI solutions.
+
+39
+
+8.3  AI for Better Natural 
+Resource Management
+This specialisation involves the use of AI technologies to 
+improve the economic efficiency and decrease the ecological 
+footprint of agriculture, mining and environmental 
+management. For agriculture this could involve on-farm 
+robotics for harvesting, seeding, soil tillage, crop monitoring, 
+weed removal, pest removal and chemical treatment 
+(fertilisers, herbicides and pesticides). 
+
+AI enabled information tools and robotics could be used 
+for more precise agricultural operations to enhance the 
+productivity, resilience and environmental performance of 
+farms. Automated mine site operations including haulage, 
+extraction, processing, digging and drilling may use robotics 
+and a range of related AI technologies. Computer vision 
+and automated systems could be used for monitoring and 
+improving the safety of minesite operations. Enhanced 
+mineral discovery will be possible using machine learning and 
+computer vision techniques to process remote sensing imagery 
+and geological data. Within the environmental management 
+sphere, improved weather and climate forecasting systems 
+which use machine learning and data science approaches 
+could more accurately predict temporal and spatial weather 
+patterns. AI will also allow enhanced systems for monitoring 
+the condition of biodiversity and ecological assets and 
+robotic systems for predicting, detecting and physically 
+managing threats. 
+
+40 
+
+Artificial Intelligence
+
+Many species of pest animal and weed have become partially 
+or fully resistant to pesticides and herbicides. This means 
+spraying is ineffective. For example, the Grains Research and 
+Development Corporation recently found “Australia has the 
+second highest number of herbicide-resistant weeds in the 
+world—sitting only just behind the United States [and that] 
+twenty-five weed species have been confirmed resistant to one 
+or more herbicides across Australia’s cropping regions” [119]. 
+This is a significant problem for farmers who have previously 
+relied on chemical treatment.
+
+In mining there’s an opportunity to reduce production costs via 
+automation and AI technologies. The Australian Government 
+Resources 2030 Taskforce report [120] outlines how multiple 
+technologies (including automation) can be used to improve 
+productivity and safety, while maintaining environmental and 
+labour practices. The taskforce report notes that data science 
+and predictive technologies will play an increasingly important 
+role in Australian mining. AI technologies could also assist 
+mine restoration activities once mining operations cease.
+
+Another challenge is the discovery of new mineral resources. 
+Australian mineral ore grades are in gradual and permanent 
+decline [121]. For example, the gold ore grade in Australia 
+has fallen from around 30 grams per tonne in the late 
+1800s, to around 3 grams per tonne today [121]. Discovery of 
+economically viable new mineral deposits is becoming more 
+difficult. Data from MinEX [122] consulting show that discovery 
+costs for major metals such as gold, nickel, zinc, lead and 
+copper have all been increasing over the past 20 years and 
+are forecast to continue rising. Finding ways to explore and 
+discover minerals at lower costs is an important priority for 
+the mining sector. Machine learning techniques will play 
+an increasingly important role in discovering harder-to-find 
+mineral deposits [123]. 
+
+8.3.1  PROBLEMS TO SOLVE
+One of the challenges (and opportunities) already facing 
+Australian agriculture is its shrinking and ageing workforce. 
+The median age of the Australian farmer is 56 years, which is 
+up from 54 years a decade ago, and 17 years above the average 
+worker age of 39 years [115]. The agricultural workforce has 
+shrunk by 23,000 workers in the last decade from 356,000 
+persons in 2008 to 333,000 persons in 2018 [116]. Over the 
+longer term it shows a declining trend. A smaller workforce 
+requires increased productivity per worker. AI enablement 
+can help. For example, robotic harvesting, seeding and weed 
+removal devices can reduce the workload for human farmers. 
+Robotics can remove many of the hard manual on-farm tasks. 
+This can allow continued growth in agricultural production 
+despite a declining and ageing workforce. 
+
+In addition to a shrinking workforce, rural industries are 
+confronted with a cost price-squeeze. Also known as the 
+declining terms of trade, this is a well-known challenge 
+for Australian farmers. It relates to the prices of inputs 
+(such as fuel, machinery, fertiliser) growing faster than the 
+prices received for outputs (the food and fibre they sell). 
+The Australian Bureau of Agricultural and Resource Economics 
+and Sciences notes over the past 40 years farmers have faced 
+a general decline in their terms of trade [117], which is likely to 
+continue. To stay profitable, farmers need to boost productivity 
+and/or reduce costs. AI enablement via information tools, 
+precision agriculture, robotics and other technologies allows 
+for more efficient and less labour intensive farming models. 
+It can help Australian farmers beat the cost-price squeeze. 
+Australian agriculture will also benefit from AI enabled 
+logistical efficiency. Many agricultural supply chains are 
+relatively inefficient due to relatively low volumes and high 
+transport distances.
+
+Drought will be a challenge for future farmers. 
+According to the Bureau of Meteorology, 2018 was the third 
+hottest year on record, and rainfall was approximately 11% 
+below average with significant agricultural areas experiencing 
+severe drought conditions [118]. Long range climate forecasts 
+suggest Australia will become hotter and drier with more 
+extremes. AI technologies will improve weather forecasts and 
+climate adaptation via more controlled and precise farming 
+systems. Advanced irrigation systems can improve the timing 
+and location of crop and pasture watering. AI may also help 
+crop geneticists identify strains of wheat and other species that 
+are drought resistant. 
+
+41
+
+Within all primary industries there is an imperative to improve 
+worker safety. According to Safe Work Australia [124] the 
+accident fatality rate for workers in agriculture, forestry and 
+fishing industries in Australia is the highest of all our  
+19 industries at 16.9 fatalities per 100,000 workers  
+(averaged over the ten year period leading up to 2016).  
+The mining industry has the third highest fatality rate  
+(after transport, postal and warehousing) of four fatalities 
+per 100,000 workers. The national average across all 
+industries is 2.1 fatalities per 100,000 workers. Our primary 
+industries have much higher fatality rates. There is an urgent 
+need to reduce these fatality rates. AI has an important 
+role to play. It can upgrade onsite safety via automated risk 
+detection and management. AI can also remove people from 
+hazardous environments. 
+
+In terms of our biodiversity and ecosystem assets we face  
+some intense pressures to protect and conserve. Australia has 
+
+426 animal species and 1,339 plants currently threatened under 
+the Environment Protection and Biodiversity Conservation 
+Act 1999 [125]. Deforestation across Australia is a major 
+contributor to biodiversity declines. In 2015/16 Australia was 
+one of the world’s top 10 countries in terms of deforestation 
+– and almost 50% of Australian forests and woodlands have 
+been cleared since European settlement [126]. The Great 
+Barrier Reef is a national icon under threat. According to the 
+Australian Institute of Marine Science (AIMS) coral cover on 
+the central GBR declined from 22% in 2016 to 14% in 2018 with 
+coral bleaching and crown of thorns starfish being the culprits 
+[127]. The Queensland University of Technology’s COTSbot is 
+an example of an AI technology already being used to protect 
+the reef. This mobile aquatic device uses computer vision, 
+machine learning and advanced robotics to autonomously 
+detect and remove the crown-of-thorns starfish. Other such 
+AI technologies are likely to be developed and applied to 
+protect the reef. 
+
+42 
+
+Artificial Intelligence
+
+8.3.2  AUSTRALIAN CAPABILITIES 
+We found considerable expertise, arguably at the forefront 
+of the world, within Australia relating to agriculture, mining 
+and environmental management AI technologies. One of 
+the world’s leading agricultural robots is AgBot II developed 
+by the Queensland University of Technology. Fully designed 
+and developed by Australian researchers, AgBot II is a solar 
+powered robotic device which can (a) detect and mechanically 
+remove weeds; (b) apply fertilisers and chemical treatments; 
+and (c) gather detailed information about growing conditions 
+and crop vitality. There is a comprehensive body of AI research 
+behind AgBot II which has been published in international 
+research journals [128, 129]. The QUT Robotics and Autonomous 
+Systems Group is a large team of researchers, academics and 
+students located in Brisbane. 
+
+The Australian Centre for Field Robotics 
+(ACFR) at the University of Sydney is one 
+of the largest robotics centres in the world.
+
+The Australian Centre for Field Robotics (ACFR) at the 
+University of Sydney is one of the largest robotics centres in the 
+world. The ACFR “focuses on the research, development and 
+application of autonomous and intelligent robots, and systems 
+for use in outdoor environments” [130]. The technologies 
+developed by ACFR are in four core areas (1) sensors, fusion and 
+perception (2) movement, control and decisions (3) modelling, 
+learning and adapting and (4) architectures, systems and 
+cooperation of robotics and intelligent systems [130]. The ACFR 
+is housed within the Faculty of Engineering and Information 
+Technologies at the University of Sydney. 
+
+CSIRO, Australia’s national science agency, has a long history 
+of developing autonomous systems to improve the safety and 
+efficiency of all aspects of mining and minerals discovery. 
+For example, the majority of new underground coal mines in 
+Australia use the longwall automation technology developed 
+by CSIRO’s Data61 which improves safety and productivity. 
+This world leading technology has been licenced by five global 
+mining companies. Other AI related mining technologies 
+developed by CSIRO include tracking systems for underground 
+mines, wearable technology to give remote mineworkers 
+expert/visual guidance on complex tasks and continuous miner 
+navigation systems. 
+
+Large Australian based mining companies such as Rio 
+Tinto, BHP, Fortescue Metals and others are already at the 
+forefront globally in developing and applying automated 
+minesite technology.
+
+Mining operations in the Pilbara region of Western Australia 
+are amongst the world’s most automated. Within this region 
+Fortescue operates 112 driverless trucks with a reported 
+30% productivity gain [131]. Australian mining company 
+BHP has 50 autonomous trucks at its Jimblebar site and 
+20 autonomous drills in Western Australia [131]. Launched in 
+2008 Rio Tinto’s mine-of-the-future has 140 automated trucks, 
+over 11 automated drills and 60% of train kilometres are in 
+autonomous mode [132].
+
+CASE STUDY –  
+Orefox
+Emerging companies in Australia are at the forefront of global efforts 
+to use machine learning and related AI technologies to bring down the 
+costs of minerals exploration. Orefox is a Brisbane-based technology 
+company using machine learning and artificial intelligence to analyse 
+large amounts of geophysical data and discover mineral deposits [4]. 
+
+Orefox have gone to market with their proprietary AI-enabled mineral 
+exploration system that has been trained on economic gold deposits. 
+The Queensland University of Technology, ESRI and Unearthed are 
+shareholders, sponsors and supporters of Orefox.
+
+43
+
+8.3.3  OPPORTUNITIES TO EXPORT
+Across the world and especially within the Asia-Pacific 
+region agricultural production is expanding to meet 
+demand. The global food system will be expected to increase 
+production by as much as 35% by 2030 from a 2015 baseline 
+[133]. Furthermore, the global food production system is 
+challenged with climate variability, water availability, land 
+availability, crop disease, livestock disease and herbicide/
+pesticide resistance. AI-enabled systems will play a critical role 
+in allowing the world to produce more food and fibre within 
+tighter environmental constraints. This means a growth in 
+demand for agricultural robotics, precision agriculture systems, 
+data driven farming methods and a wide range of AI-enabled 
+agricultural technologies. Australian companies developing 
+these technologies are likely to find large marketplaces. 
+
+The global food system will be expected 
+to increase production by as much as 
+35% by 2030 from a 2015 baseline.
+
+Australia’s mining engineering technology and services 
+(METS) sector has already grown substantially. This sector is 
+increasingly developing AI-related mining industry products. 
+According to industry body Austmine, the Australian METS 
+sector generates $90 billion in revenue, employs 400,000 
+people, and exports to more than 200 countries [134].  
+The coming decade is likely to see the continued development 
+of high quality mineral ore deposits in Africa, Asia and South 
+America. The new mining operations are likely to use AI in 
+mineral exploration and operational phases of development. 
+There will be vast opportunities to grow exports of Australian 
+mining AI to the world. 
+
+Biodiversity loss, climate change and other environmental 
+problems are escalating across the globe. As the newly 
+industrialised countries (particularly in Asia), become 
+wealthy they are actively looking for ways to manage the 
+environmental impacts of rapid industrialisation. China, for 
+example, has a commitment to improving air quality in cities 
+and regions. China’s air pollution action plan is targeting 
+a 33% improvement in air quality in Beijing by 2020 [135]. 
+Right across the Asia-Pacific we are seeing a rapid and sizeable 
+introduction of biodiversity and environmental conservation 
+programs. The implementation of these programs will be aided 
+by AI technology. Australia is well placed to develop these AI 
+technologies and sell the solutions into global markets. 
+
+44 
+
+Artificial Intelligence
+
+45
+
+46 
+
+Artificial Intelligence
+
+9  FOUNDATIONS 
+FOR THE FUTURE
+
+For Australia to take full advantage of the potential benefits of 
+AI technologies it will be critical to build the right environment 
+for effective adoption, adaptation and development. Actions 
+are required to remove barriers and capture opportunities for 
+growth. These actions are relevant for government, industry 
+and community organisations. 
+
+9.1  Developing an AI 
+Specialist Workforce
+In preparing this report, we analysed over 4 million Australian 
+job advertisements since 2014 of which 5,200 were classified 
+as being closely related to AI. We crossed referenced this data 
+with other datasets to forecast trends in Australia’s emerging 
+AI workforce. We found that Australia currently has 6,600 AI 
+specialist workers. This is up from 650 AI workers in 2014 and 
+future growth is expected. We estimate that by 2030 Australian 
+industry will require a workforce of between 32,000 to 161,000 
+employees in computer vision, robotics, human language 
+technologies, data science and other areas of AI expertise. 
+There is a wide range of future possibilities due to uncertainty 
+about the extent of scientific advances and the extent of 
+technology adoption by industry. 
+
+In addition to overall growth Australia’s AI workforce is likely 
+to become more geographically dispersed. In 2015 we estimate 
+that 89% of AI jobs were in Sydney and Melbourne. However, 
+by 2018 the share of Sydney and Melbourne AI jobs had fallen 
+to 75% of the total as Brisbane, Canberra, Adelaide and Perth 
+grew their relative shares. Some regional areas such as Ballarat, 
+outback South Australia and the NSW Central Coast also saw 
+strong growth in AI Workers. This is likely to continue. There 
+will be substantial job opportunities for Australian AI workers 
+in both capital cities and regional areas by the year 2030. 
+
+The new AI workforce is needed to meet the operational 
+requirements of industry. Already supply is failing to meet 
+demand. For example, Australia had an estimated 301,000 
+data scientists in 2017 and that figure is expected to grow by 
+2.4% each year until 2022. This contrasts with average annual 
+job growth for the entire labour force of 1.5%. Data science 
+workers with postgraduate IT qualifications are expected to 
+see average annual salaries rise from approximately $111,634 to 
+$130,176 in this period [136].
+
+Australia had an estimated 
+301,000 data scientists in 2017 
+and that figure is expected to 
+grow by 2.4% each year until 2022.
+
+Advanced mathematics and computational logic are core skills 
+required within AI. The evidence from education research 
+suggests we need to build these skills early. For example, a 
+longitudinal study [137] of 1,364 children in the United States 
+by Researchers at the University of California–Irvine found 
+that mathematical skills at age 4.5 years accurately predicts 
+mathematics achievement at age 15 years. The study also found 
+improvement in mathematical skills from kindergarten to first-
+year was an even better predictor of adolescent mathematics 
+capability. This and other similar studies [138] provide strong 
+evidence for improving the quality of mathematics knowledge 
+and skills in kindergarten, prep and junior school in Australia. 
+
+Of importance are skills in advanced mathematics which are 
+needed for AI development and application. However, data 
+from the Programme for International Student Assessment 
+(PISA) published by the Australian Council for Educational 
+Research (ACER) shows that Australia’s relative ranking in 
+mathematics skills, compared to other countries, has been 
+declining since the year 2003. According to ACER the PISA 
+survey is an assessment of the ability of 15 year-olds to  
+use mathematics skills to meet real life challenges [139].  
+Given that mathematics is a foundational skill for AI, this trend 
+is of concern. 
+
+Overall, Australia needs to train and educate an entire new AI 
+specialist workforce to meet the current and future operational 
+needs of industry. Schools, universities, technical colleges and 
+private training providers will all play a role in developing 
+these skills. The training imperative relates to young and old 
+workers at all stages of learning. This will require a mix of 
+strategies catering to the unique needs of individuals. 
+
+47
+
+Australia’s ICT Workforce 
+According to a recent study by Deloitte Access Economics and the Australian Computer Society [3] the entire information, 
+communications and technology (ICT) sector workforce – which is closely aligned to the AI workforce – contained 
+663,100 workers in year 2018. This is up 3.5% or an additional 22,300 workers from the previous year. 
+
+Demand for ICT workers is forecast to grow to a total of 758,700 workers by 2023 at a rate of 20,000 additional workers 
+per year. This represents a challenge for Australia. 
+
+Australia produces only 5,000 domestic ICT university graduates per year. Whilst not the full supply of ICT skilled workers 
+this falls well short of industry demand.
+
+However, the prospects for developing AI specialist skills are good. Our analysis found that within Australia’s ICT workforce 
+there are approximately 500,000 workers who have the right foundational skills and aptitudes to specialise in AI.  
+This includes around 470,000 people already working in the top ten AI-relevant occupations such as software 
+programming, computer networking, web development and ICT management [10], prime candidates for upskilling in AI.
+
+9.2  Career Transitions 
+and Skills Upgrades
+Most Australian workers won’t need to develop AI specialist 
+skills; however, their jobs are likely to be impacted in some  
+way by AI and related digital technologies. According to a 
+recent report from the World Economic Forum [140] AI will 
+displace 75 million jobs and create 133 million new jobs leading 
+to a net increase of 58 million new jobs by the year 2022 in the 
+world economy. 
+
+This is creating a career retraining and transition imperative. 
+A recent study by Google and consulting firm AlphaBeta [141] 
+found Australian workers will, on average, need to increase 
+time spent learning new skills by 33% over their lifetime and 
+that job tasks will change 18% per decade. The need to upskill 
+is primarily because digital technology (including AI) will shift 
+the workforce skills demand profile. Some of the new skills 
+needed will be of a technical nature. However, as AI uptake 
+increases there will be considerable emphasis on human skills 
+such as creativity, judgement, reasoning, communication and 
+emotional intelligence. 
+
+Australian workers will, on average, need 
+to increase time spent learning new skills 
+by 33% over their lifetime and that job 
+tasks will change 18% per decade.
+
+Whilst previous generations needed literacy and numeracy 
+to get practically any type of job, future workers will also 
+need digital literacy. Digital literacy implies an ability to 
+interact with, and effectively use, advanced information and 
+communication technologies. However, these three capabilities 
+of literacy, numeracy and digital literacy won’t be enough for 
+most workers. To get the right job in the right place with the 
+right salary and good career prospects people will need  
+well-rounded skills and well-rounded knowledge. 
+
+For example, a study by researchers at Harvard University [142] 
+found that between 1980 to 2012 jobs involving high levels of 
+social interaction increased by 12%. In contrast they found that 
+math-intensive but less social jobs shrank by 3.3%. Although 
+relating to a dataset over seven years old this study does show 
+the importance of softer skills alongside pure mathematics 
+and/or technical skills. Another study by researchers at Indiana 
+University in the United States found that “in an increasingly 
+data-driven economy, the demand for soft social skills, like 
+teamwork and communication, increase with greater demand 
+for hard technical skills and tools” [143].
+
+Overall digitisation and automation of tasks will require 
+workers to transition their careers from lower-demand areas 
+to higher-demand areas. Individual workers, governments and 
+companies can take actions – such as retraining, upskilling 
+and reskilling – to make earlier (and better) career transitions. 
+There will be a mix of technical and human/social skills and 
+knowledge needed by employers. Technical skills on their own 
+may not be enough to get a desired job. 
+
+48 
+
+Artificial Intelligence
+
+Workforce upskilling – 
+Micro-credentialing
+One of the strategies helping existing workers acquire 
+critical skills for the future is micro-credentialing. 
+A growing number of Australian universities are offering 
+micro-credentials to provide workers with digital skills 
+via short, sharp and highly targeted training programs. 
+
+For example, with campuses in Sydney, Brisbane, 
+Melbourne, the Blue Mountains, Adelaide and 
+Auckland, Torrens University is partnering with IBM to 
+deliver both degree programs and micro-credentials 
+in cloud computing, big data and AI [5]. 
+
+In another example the University of New England 
+in Armidale is offering bespoke courses which allow 
+students to choose specific subjects they need to 
+acquire specific skills and knowledge relevant to their 
+career trajectories. Many of the bespoke courses are 
+in areas relevant to data science and AI [8]. 
+
+9.3  Data Governance and Access
+In most applications, AI depends on large, detailed and diverse 
+datasets. Machine learning applications often need a “training 
+dataset” which allows the algorithm to be designed, tested 
+and improved before being applied in the real world. Access 
+to training datasets has become one of the most critical and 
+complex stages of AI development. 
+
+For example, Google company DeepMind started working 
+with the United Kingdom Royal Free Hospital in 2016 
+to detect and diagnose acute kidney injuries (AKI) with 
+machine learning techniques [144]. The main challenge for 
+this life-saving technology was not designing the machine 
+learning algorithms; the main challenge was handling 1.6 
+million detailed patient medical records with sufficient levels 
+of privacy protection. The United Kingdom Information 
+Commission (ICO) identified some concerns relating to patient 
+awareness and consent about how their private data was being 
+used [145]. Development of these technologies will depend on 
+all parties involved resolving the legal, ethical and practical 
+challenges of data access. A large number of highly beneficial, 
+and life-saving, AI applications in health, transport, law 
+enforcement and other sectors hinge upon data governance. 
+
+Better access to high quality, labelled datasets will improve the 
+training ground for AI systems. There are already substantial 
+open data and related initiatives happening in Australia, 
+examples include data.gov.au and the Australian National 
+Data Service, but more can be done. AI developers also need 
+certainty and guidance around what represents ethical and 
+acceptable use of private data. This requires attention to 
+“data creep”; the gradual increase in the comprehensiveness 
+and granularity of data held by organisations about people 
+which, when cross-referenced to other data, provides 
+even more detailed personal insights. Organisations will 
+increasingly be challenged with achieving data integrity 
+whereby people’s private and confidential information is 
+properly protected and managed. Issues related to the ethical 
+handling of data within the context of AI are covered in more 
+detail in the AI ethics framework [146].
+
+49
+
+9.4  Building Trust in AI
+Trust will be essential to achieve widespread adoption of AI and 
+this has been the focus of the Australian Government’s AI Ethics 
+Framework released in 2019 for public consultation. 
+
+Three main issues have been identified which make trust 
+important for AI adoption. Firstly, an AI system typically involves 
+the surrender of some level of human control to a machine. 
+The user needs to trust that the AI will do the task at least as 
+well as, if not better than, a human in terms of safety, efficiency 
+and overall quality. Secondly, many AI systems acquire, analyse, 
+transmit and store private and confidential data. The user needs 
+to trust the AI system won’t inappropriately divulge or delete 
+personal information. Thirdly, due to the complexity of its 
+internal workings AI is often a black-box to users; people can’t 
+easily know how advanced AI is working. The user will need 
+to trust that the AI product is doing what it is supposed to do; 
+they won’t be able to see or verify its operations. These three 
+factors mean that AI developers have a significant trust hurdle 
+to clear, including perceived risk, before consumers use (and 
+buy) their products. 
+
+For example, the driver of an automated vehicle needs 
+considerable trust before surrendering control to the machine. 
+So too do the traffic authorities. People are likely to insist 
+upon higher standards of comfort and safety performance 
+for automated cars compared to human driven cars. A survey 
+conducted by the American Automobile Association [147] shortly 
+after the fatal Uber automated car incident in March 2018 found 
+that trust in automated cars is declining (not increasing).  
+The survey found that 64 percent of millennials would not 
+ride in a self-driving car; up from 49 percent previously. Older 
+generations are even more distrustful with 71 percent of baby-
+boomers and 68 percent of generation-x indicating they did 
+not feel safe in an automated car. Widespread adoption of 
+automated vehicles won’t happen until people trust the products. 
+
+Researchers from Zeppelin University in Germany studied how 
+people develop trust in AI within transport and healthcare 
+settings [148]. They used a case study approach which examined 
+the Daimler Future Trucks 2025 project, BMW automated cars, 
+the use of IBM’s Watson in healthcare settings, the Care-O-bot 
+robotic device developed by the Fraunhoffer Institute to care 
+for the elderly in their homes and several other AI products. 
+The researchers find that trust needs to be achieved by the AI 
+developer in two ways: (a) trust in the technology and (b) trust 
+in the company. Trust in the technology comes from building 
+effective user interfaces, product manuals, scientific data, 
+technical explanations, scientific reviews and visible trials. 
+Trust in the company comes from the company’s track record 
+of prior success and failure with AI products which builds a 
+reputation over time. Trust in the company also comes from 
+their overall level of transparency. 
+
+50 
+
+Artificial Intelligence
+
+9.5  Science, Research and 
+Technology Development
+As a new and emerging field of science and technology 
+both pure and applied R&D is needed to unlock the benefits 
+of AI for Australia. Many proposed AI systems represent 
+early stage ideas or theories about what may be possible. 
+However, they cannot be safely or effectively applied in the 
+real world because we lack sufficient knowledge to make 
+them work properly. For example, if we are to achieve level 
+five automated cars (i.e. fully automated in all conditions) we 
+need scientific breakthroughs in computer vision and machine 
+learning which have not yet happened. Such breakthroughs 
+depend on pure theoretical research in mathematics, physics 
+and other scientific fields. 
+
+We will also need applied R&D to identify how to implement 
+many off-the-shelf AI products within the context of existing 
+supply chains or business processes. That’s because a novel 
+AI system may involve a very different way of doing business. 
+For many companies AI is an unknown quantity offering 
+substantial opportunity but also risk. Implementation of AI 
+systems typically requires an intensive process of trial and 
+error involving applied R&D to determine what works and 
+what does not work. In all areas of application R&D will allow 
+us to conceive, design, build and test experimental AI systems 
+in novel contexts. 
+
+R&D can be viewed as a pipeline of future 
+opportunity for the Australian economy. 
+
+The most recent OECD data shows Australia spent 1.9% of GDP 
+on all types of R&D compared to the OECD average at 2.4% 
+and China at 2.1% [149]. In the fiscal year ending June 2016 
+all of Australia’s businesses combined spent $16.7 billion on 
+all types of R&D [150]. However, companies such as Amazon 
+($31 billion/yr), Alphabet (Google) ($22 billion/yr), Intel 
+($17 billion/yr) and Microsoft ($17 billion/yr) [151] are spending 
+heavily on R&D; much of which is AI related. Alibaba, 
+Tencent and Baidu from China are also making large AI R&D 
+investments as are many companies worldwide. 
+
+The investments being made by these companies fund deep, 
+blue-sky and discovery science in addition to applied research. 
+These, and other such, companies will use their advanced AI 
+technologies to compete with Australian companies at home 
+and abroad. Many sectors of the Australian economy will 
+need to put more into the research and development pipeline 
+today to stay competitive by the year 2030. We’ll need R&D to 
+unlock the value of this highly complex, novel and uncertain 
+technological capability. 
+
+Standards, Interoperability  
+
+9.7 
+and Ethics
+The rise of AI will require new standards relating to AI system 
+performance, safety, levels of transparency and explainability, 
+autonomy, privacy, interoperability, data security, data 
+acquisition, data ownership, data quality, data formats and 
+data storage. The International Standards Organisation 
+(ISO), the American National Standards Institute (ANSI) and 
+Standards Australia (SA) are actively working in this area. 
+Standards and system validation will be important ways for 
+developing improved trust which will be vital for achieving 
+widespread adoption of AI. In addition to standards is the 
+issue of ethical application. AI represents an opportunity for 
+improved fairness, transparency, equality of opportunity and 
+overall ethical outcomes. However, it is a powerful technology 
+and comes with risks for negative outcomes. An AI Ethics 
+discussion paper [146] accompanies this document. It provides 
+a set of principles and tools for ethical AI supported by 
+numerous case studies. 
+
+9.6  Digital Infrastructure 
+and Cybersecurity
+Digital infrastructure is needed for the acquisition, 
+transmission, storage and analysis of data. AI won’t work, 
+and can’t be developed, where there’s insufficient digital 
+infrastructure. This includes a requirement for access to secure 
+high performance computing and the development of sensory 
+systems in addition to fast internet connectivity. For example, 
+the development and application of agricultural robotics will 
+be limited in rural areas without sufficient connectivity. Due 
+to the vast areas of remote land with low population density 
+Australia is challenged with ensuring cost effective high speed 
+internet across the entire continent. As part of AI enablement, 
+we will need to target digital infrastructure upgrades to 
+geographic regions and industry sectors where needed. 
+
+The Australian Government Department of Communication 
+and the Arts administers the Mobile Black Spot Program and 
+the Regional Connectivity Program which provide funding 
+to improve telecommunications across Australia. The Mobile 
+Black Spot Program is investing in mobile telecommunications 
+infrastructure to improve mobile coverage; especially along 
+major regional transport routes and in small communities. The 
+Regional Connectivity Program is being developed to target 
+investment in a range of technologies to maximise economic 
+opportunities and region-wide benefits for regional, rural and 
+remote Australians. These and other such programs will help 
+develop digital infrastructure vital for the AI enablement of the 
+Australian economy. 
+
+Another critical requirement for AI enablement relates to 
+cybersecurity. The shift from human controlled to AI systems 
+is associated with an increased cybersecurity hazard. AI will 
+also be used by cybercriminals to create new forms of risk and 
+vulnerability. Achieving higher levels of cybersecurity, and 
+developing entirely new systems of cybersecurity, will be vital 
+for achieving AI enablement of the Australian economy.
+
+51
+
+52 
+
+Artificial Intelligence
+
+10  CONCLUSION
+
+Humanity is in the process of building machines which have the 
+ability to learn themselves without explicit human guidance.  
+AI is already coding its own AI. We are witnessing the 
+convergence of powerful technologies with unknown future 
+possibilities. That’s why the world is waking up to AI and that’s 
+why this document has been written. The ability of the machine 
+to learn represents a new way to solve our most challenging 
+problems. This can boost the productivity of Australian industry 
+and improve the quality of life enjoyed by current and future 
+generations of Australians. 
+
+53
+
+54 
+
+Artificial Intelligence
+
+11  REFERENCES
+
+Eggleton, M. 2019. The megatrends shaping our future (28 
+May). The Australian Financial Review. Sydney.
+
+16.  AIHW. 2016. Skin Cancer in Australia. Australian Institute 
+
+of Health and Welfare. Canberra.
+
+1. 
+
+2. 
+
+Pope, N. 2018. Technology improves independence for 
+people with disability. Disability Support Guide. Adelaide.
+
+3.  Deloitte Access Economics. 2018. Australia’s digital pulse: 
+Driving Australia’s international ICT competitiveness and 
+digital growth. Australian Computer Society. Sydney, 
+Australia.
+
+4.  OreFox. OreFox Company Website accessed on 1 Feb 2019. 
+
+Orefox Pty Ltd. Brisbane, Australia.
+
+5. 
+
+6. 
+
+7. 
+
+Torrens University. 2019. Partnership with IBM. Torrens 
+University Australia (Website https://www.torrens.edu.au/
+about/partnerships/ibm). Sydney.
+
+RMIT. 2018. Computers use social media data to predict 
+crime. RMIT University. Melbourne.
+
+Garnsey, E. and P. Heffernan. 2005. High-technology 
+clustering through spin-out and attraction: The 
+Cambridge case. Regional Studies 39(8):1127-1144.
+
+8.  UNE. 2019. Study just the parts of a degree you need - 
+UNE New Bespoke Courses. University of New England 
+(Website: www.une.edu.au/bespokecourses). Armidale, 
+New South Wales.
+
+9.  Naughton, J. 2013. They call it Silicon Fen. So what is the 
+special draw of Cambridge? (1 December). The Gaurdian 
+Newspaper. Sydney.
+
+10.  ABS. 2018. Labour force, Australia (Catalogue Number 
+6202.0). Australian Bureau of Statistics. Canberra.
+
+11.  PwC. 2019. Sizing the prize: PwC’s Global Artificial 
+
+Intelligence Study: Exploiting the AI Revolution. Price 
+Waterhouse Coopers. London.
+
+12.  Vision2020. 2019. A snapshot of blindness and low vision 
+services in Australia. Vision 2020 - The Right to Sight 
+Australia. Melbourne.
+
+13.  AIHW. 2018. Older Australia at a glance. Australian 
+
+Institute of Health and Welfare. Canberra.
+
+14.  QUT. 2019. AgBot II Robotic Site-specific Crop and Weed 
+Management Tool. Queensland University of Technology 
+(Website accessed 10 Sept 2019). Brisbane.
+
+15.  Robinson, J. and P. Thorn. 2018. Do chatbots have a role to 
+play in suicide prevention? The Conversation (24 October). 
+Australia.
+
+17.  Esteva, A., B. Kuprel, R.A. Novoa, J. Ko, S.M. Swetter, H.M. 
+Blau, and S. Thrun. 2017. Dermatologist-level classification 
+of skin cancer with deep neural networks. Nature 542:115.
+
+18.  AlphaBeta. 2018. Digital innovation: Australia’s $315B 
+
+opportunity. AlphaBeta. Sydney.
+
+19.  Sentance, R. 2018. The future of voice search: 2020 and 
+beyond. Econsultancy. London, United Kingdom.
+
+20.  Olson, C. 2016. Just say it: The future of search is voice 
+
+and personal digital assistants. Campaign. London, United 
+Kingdom.
+
+21.  Ballard, D. and C. Brown. 1982. Computer Vision. Prentice-
+
+Hall. Edgewood Cliffs, New Jersey.
+
+22.  Goodfellow, I.J., J. Pouget-Abadie, M. Mirza, B. Xu, D. 
+Warde-Farley, S. Ozair, A.C. Courville, and Y. Bengio. 
+2014. Generative adversarial nets. Advances in Neural 
+Information Processing Systems:2672-2680.
+
+23.  Kubota, T. 2017. Stanford algorithm can diagnose 
+
+pneumonia better than radiologists. Stanford News. 
+United States.
+
+24.  Nau, D., M. Ghallab, and P. Traverso. 2004. Automated 
+
+planning: Theory and practice. Cambridge University 
+Press. United Kingdom.
+
+25. 
+
+Jiménez, S., T.D.L. Rosa, S. Fernández, F. Fernández, and 
+D. Borrajo. 2012. Review: A review of machine learning for 
+automated planning. The Knowledge Engineering Review 
+27(4):433-467.
+
+26.  Walker, M.A., D.J. Litman, C.A. Kamm, and A. Abella. 
+
+1997. Evaluating interactive dialogue systems: Extending 
+component evaluation to integrated system evaluation. 
+Interactive Spoken Dialog Systems on Bringing Speech 
+and NLP Together in Real Applications:1-8.
+
+27.  Martins, R. and F. Meneguzzi. 2014. A smart home 
+
+model using JaCaMo framework. 12th IEEE International 
+Conference on Industrial Informatics:94-99.
+
+28.  Tyran, C.K. and J.F. George. 1993. The implementation of 
+expert systems: a survey of successful implementations. 
+ACM SIGMIS Database: The DATABASE for Advances in 
+Information Systems 24(1):5-15.
+
+29.  Neelakantan, A. 2017. Knowledge representation 
+
+and reasoning with deep neural networks. Doctoral 
+Dissertation. University of Massachusetts Amherst.
+
+55
+
+30.  Schmidt, E. and J. Rosenberg. 2014. How Google Works. 
+
+Grand Central Publishing. New York City.
+
+31.  Treasury. 2015. Intergenerational Report: Australia 2055. 
+
+44.  QUT. 2014. New centre will give robots the gift of sight 
+(Media Release 18 March). Queensland University of 
+Technology. Brisbane.
+
+Commonwealth of Australia. Canberra.
+
+45.  DIIS. 2019. Stocktake of Australian Innovation Precincts – 
+
+32.  DIIS. 2018. Industry insights: Future productivity. Office of 
+the Chief Economist, Department of Industry, Innovation 
+and Science, Australian Government. Canberra.
+
+33.  Organisation for Economic Co-operation and 
+
+Development. 2018. Main science and technology 
+indicators, Volume 2018 Issue 1. Paris.
+
+34.  Gurría, A. 2016. Launch of the OECD economic outlook, 
+June 2016. Organisation for Economic Cooperation and 
+Development. Paris.
+
+35. 
+
+Jones, C.I., P. Aghion, and B.F. Jones. 2017. Artificial 
+intelligence and economic growth. Stanford Insititute for 
+Economic Policy Research. U.S.A.
+
+36.  Purdy, M. and P. Daugherty. 2016. Country spotlights: Why 
+
+artificial intelligence is the future of growth. Accenture. 
+Dublin, Ireland.
+
+37.  McKinsey. 2017. Digital Australia: Seizing the opportunity 
+from the Fourth Industrial Revolution. McKinsey and 
+Company. Sydney.
+
+38.  AlphaBeta. 2019. Australia’s digital opportunity - Growing 
+a $122 billion a year tech industry. Consulting report 
+prepared for DIGI (www.digi.org.au) by AlphaBeta. Sydney.
+
+39.  OECD. 2019. Recommendation of the Council on 
+
+Artificial Intelligence (5 May). Organisation for Economic 
+Cooperation and Development Legal Instruments. Paris.
+
+40.  Treasury. 2018. Budget Strategy and Outlook 2018/19. 
+Budget Paper Number #1. Australian Government. 
+Canberra.
+
+41.  CSIRO. 2018. CSIRO invests $35M in future of space and 
+
+AI for Australia. Media Release 19 November. CSIRO. 
+Canberra.
+
+42.  UoA. 2017. New research institute for machine learning 
+(9 December, Media Release on Website). University of 
+Adelaide. Australia.
+
+43.  ARC. 2019. Grant Outcomes dataset. Australian Research 
+
+Council (Website). Canberra.
+
+Including collaboration networks, university precincts and 
+industry clusters. Australian Government Department of 
+Innovation Industry and Science. Canberra.
+
+46.  DIIS. 2018. Statement of Principles for Australian 
+
+Innovation Precincts: Place-Based Partnerships Building 
+on Competitive Strengths. Australian Government 
+Department of Industry Innovation and Science. Canberra.
+
+47.  Startup Muster. 2018. Startup Muster 2018 annual report. 
+
+Sydney.
+
+48.  Startup Muster. 2017. Startup Muster 2017 annual report. 
+
+Sydney.
+
+49.  Business. 2019. Grants, assistance & other support - Small 
+
+and Medium Enterprises (SME) Export Hubs. Australian 
+Government (business.gov.au). Canberra.
+
+50.  Pianta, M. and V. Meliciani. 1996. Technological 
+
+specialization and economic performance in oecd 
+countries. Technology Analysis & Strategic Management 
+8(2):157-174.
+
+51. 
+
+Jungmittag, A. 2004. Innovations, technological 
+specialisation and economic growth in the EU. 
+International Economics and Economic Policy 1(2):247-273.
+
+52.  Archibugi, D. and M. Pianta. 1992. The technological 
+specialisation of advanced countries: A Report to the 
+EEC on international science and technology activities. 
+Springer Science and Business Media. London.
+
+53.  Evangelista, R., V. Meliciani, and A. Vezzani. 2018. 
+
+Specialisation in key enabling technologies and regional 
+growth in Europe. Economics of Innovation and New 
+Technology 27(3):273-289.
+
+54.  OECD. 2013. Innovation-driven growth in regions: The role 
+
+of smart specialisation. 
+
+55. 
+
+ISA. 2017. Australia 2030: Prosperity through Innovation. 
+Innovation and Science Australia (ISA), Australian 
+Government. Canberra, Australia.
+
+56.  Mazzucato, M. 2018. Mission-oriented innovation policies: 
+challenges and opportunities. Industrial and Corporate 
+Change 27(5):803-815.
+
+56 
+
+Artificial Intelligence
+
+57. 
+
+IIPP. 2019. A Mission-Oriented UK Industrial Strategy: 
+UCL Commission for Mission-Oriented Innovation and 
+Industrial Strategy. Institute for Innovation and Public 
+Purpose. London.
+
+58.  Paulus-Rohmer, D., H. Schatton, and T. Bauernhansl. 2016. 
+
+Ecosystems, Strategy and Business Models in the age of 
+Digitization - How the Manufacturing Industry is Going to 
+Change its Logic. Procedia CIRP 57:8-13.
+
+59.  Clarysse, B., M. Wright, J. Bruneel, and A. Mahajan. 
+
+2014. Creating value in ecosystems: Crossing the chasm 
+between knowledge and business ecosystems. Research 
+Policy 43(7):1164-1176.
+
+60.  Tsujimoto, M., Y. Kajikawa, J. Tomita, and Y. Matsumoto. 
+2018. A review of the ecosystem concept — Towards 
+coherent ecosystem design. Technological Forecasting 
+and Social Change 136:49-58.
+
+61.  Moore, J. 1993. Predators and Prey: A New Ecology of 
+
+Competition. Harvard Business Review (May-June Issue). 
+United States.
+
+62.  AIHW. 2017. Health expenditure australia. Australian 
+
+Government - Institute of Health and Welfare. Canberra, 
+Australia.
+
+63.  CSIRO. 2018. Future of Health: Shifting Australia’s 
+
+focus from illness treatment to health and wellbeing 
+management. CSIRO. Australia.
+
+64.  AIHW. 2018. Waiting times for emergency department 
+
+and elective surgery on the risse. Australian Government 
+Institute of Health and Welfare. Canberra.
+
+65.  Banger, M. 2019. Residential aged care wait time increases 
+
+(22 January). The Australian Newspaper. Sydney.
+
+66.  AIHW. 2018. Australia’s health 2018 - rural and remote 
+
+population. Australian Government - Institute of Health 
+and Welfare. 
+
+67.  AIHW. 2017. Rural and remote health. Australian 
+
+Government Institute of Health and Welfare. Canberra.
+
+68.  Department of Health. 218. Ageing and aged care. 
+Australian Government Department of Health. 
+
+69.  AIHW. 2018. Australia’s health 2018: in brief. Australian 
+
+Institute of Health and Welfare. 
+
+70.  Alpha Beta. 2018. Digital Innovation - Australia’s $315b 
+
+Opportunity. AlphaBeta. Sydney.
+
+71.  AIHW. 2018. Australia’s health 2018 in brief. Australian 
+
+Government - Australian Institute of Health and Welfare. 
+Canberra.
+
+72.  AIHW. 2018. Deaths in Australia. Australian Government - 
+
+Institute of Health and Welfare. 
+
+73.  Ong, J.M. and L. da Cruz. 2012. The bionic eye: a review. 
+Clinical & Experimental Ophthalmology 40(1):6-17.
+
+74. 
+
+Johnston, M. 2018. Melbourne uni to lead medical AI 
+research centre (10 October). IT News. Australia.
+
+75.  Deakin University. 2018. Applied Artificial Intelligence 
+
+Institute. Deakin University. 
+
+76.  Monash University. 2018. Multi Modal Medical AI. Monash 
+
+University. 
+
+77.  Palmer-Derrien, S. 2018. Medical AI startup secures 
+
+$1.1 million government grant, to develop Alzheimer’s 
+diagnosis tool with CSIRO. SmartCompany. Australia.
+
+78.  WHO. 2018. New Perspectives on Global Health Spending 
+for Universal Health Coverage: Global report. World 
+Health Organization. Geneva.
+
+79.  GMI. 2018. Digital health market size to exceed $379bn by 
+
+2024. Global Market Insights. 
+
+80.  UN. 2017. The global guardian of public health. United 
+
+Nations. New York.
+
+81.  BITRE. 2019. Road deaths Australia: December 2018. 
+
+Australian Government Bureau of Infrastructure Transport 
+and Regional Economies. Canberra.
+
+82.  AIHW. 2018. Injury – hospitalised injury due to land 
+
+transport crashes. Australian Government Institute of 
+Health and Welfare. Canberra.
+
+83.  DIRDC. 2018. Road Safety. Australian Government 
+
+Department of Infrastructure, Regional Development 
+and Cities. Canberra, Australia.
+
+84.  AAA. 2018. Road congestion in Australia. Australian 
+
+Automobile Association (AAA). Canberra.
+
+85.  BITRE. 2015. Traffic and congestion cost trends for 
+Australian capital cities. Bureau of Infrastructure, 
+Transport and Regional Economies, Australian 
+Government, Canberra. Australian Government – 
+Department of Infrastructure, Regional Development 
+and Cities.
+
+57
+
+86.  Hubele, N. and K. Kennedy. 2018. Forward collision 
+warning system impact. Traffic Injury Prevention:1-6.
+
+www.austrade.gov.au/future-transport/case-studies/
+cohda-wireless/). Canberra.
+
+87.  Cicchino, J.B. 2017. Effectiveness of forward collision 
+
+102.  SCATS. 2019. Why choose the Sydney Coordinated 
+
+warning and autonomous emergency braking systems 
+in reducing front-to-rear crash rates. Accident Analysis & 
+Prevention 99(1):142-152.
+
+88.  Patel, P. 2016. Pittsburgh’s AI traffic signals will make 
+
+driving less boring. IEEE Spectrum. 
+
+89.  Blowers, D. 2018. Energy policy failure behind 10 year 
+
+story of spiralling electricity bills. ABC 
+
+90.  Finkel, A. 2017. Independent review into the future 
+
+security of the National Electricity Market. Chief Scientist. 
+
+91.  Zia, T. 2017. Australia’s car industry needs cybersecurity 
+rules to deal with the hacking threat. The Conversation. 
+
+92.  Centre, A.C.S. 2017. 2017 threat report. Australian 
+
+Government - Australian Cyber Security Centre. 
+
+93.  Accenture Security. 2018. Gaining ground on the cyber 
+
+attacker: 2018 state of cyber resilience. 
+
+94.  ACIC. 2016. From state to federal to global crime issues. 
+
+Australian Criminal Intelligence Commission. 
+
+95.  Terrill, M. 2018. Cost overruns in transport infrastructure.
+
+96.  PC. 2014. Public Infrastructure Inquiry (Report Number 
+
+71) Volumes 1 and 2. Australian Government Productivity 
+Commission. Canberra.
+
+97.  Bowditch, G. 2017. Re-establishing Australia’s global 
+
+infrastructure leadership. University of Sydney. Sydney, 
+Australia.
+
+98.  ATIC. 2018. Connected and Automated Vehicles. 
+
+Australian Trade and Investment Commission, Australian 
+Government. Canberra.
+
+99.  Smith, J. 2018. Australia moves another step closer to 
+
+driverless vehicles. Telstra Exchange. Sydney.
+
+100.  Cohda. 2019. Cohda chosen for new US connected car 
+trial. Cohda Wireless Website (cohdawireless.com) 
+Accessed on 17 April 2019. Adelaide.
+
+101.  Austrade. 2019. Case Study - Cohda Wireless beats GPS 
+blackspots in New York City. Austrade Website (https://
+
+Adaptive Traffic System? Sydney Coordinated Adaptive 
+Traffic System Company Website and NSW Government 
+Department of Transport Roads and Maratime Services. 
+Sydney.
+
+103.  Arash Jalalian, S.C., Michael Ostwald. 2014. Simulating 
+pedestrian flow dynamics for evaluating the design of 
+urban and architectural space. University of Newcastle. 
+
+104.  PSMA. 2017. Annual Report. PSMA Australia. Canberra.
+
+105.  Carmody, J. 2017. Uber-style driverless cars set for Perth 
+as part of international trial (29 November). ABC News. 
+Sydney.
+
+106.  Rio Tinto. 2018. How did the world’s biggest robot end up 
+
+here? Rio Tinto Website. Sydney.
+
+107.  CSIRO. 2016. Hovermap. CSIRO Website. Canberra.
+
+108.  FAO. 2017. The future of food and agriculture - trends and 
+challenges. Food and Agriculture Organisation of the 
+United Nations. 
+
+109.  Roberts, A. 2014. Predicting the future of global water 
+stress. Massachusetts Institute of Technology. Boston.
+
+110.  EIA. 2016. EIA projects 48% increase in world energy 
+consumption by 2040. US Energy Information 
+Administration. 
+
+111.  UN. 2018. World Urbanisation Prospects. United Nations 
+
+Development Program. New York, United States.
+
+112.  DFAT. 2017. Foreign policy white paper. Australian 
+
+Government, Department of Foreign Affairs and Trade. 
+Canberra, Australia.
+
+113.  Heathcote, C. 2017. Forecasting infrastructure investment 
+needs for 50 countries, 7 sectors through 2040. The 
+World Bank. Washington DC.
+
+114.  FS. 2018. Global Autonomous Driving Market Outlook. 
+
+Frost and Sullivan. San Antonio, Texas, the United States.
+
+115.  Vidot, A. 2017. Farmers getting older as latest survey 
+
+reveals average age is 56 (7 July). ABC Rural News. Sydney.
+
+116.  ABS. 2017. Australian Industry Catalogue Number 8155.0. 
+
+Australian Bureau of Statistics. Canberra.
+
+58 
+
+Artificial Intelligence
+
+117.  ABARES. 2017. Productivity matters for farm profit 
+
+129.  Hall, D., F. Dayoub, T. Perez, and C. McCool. 2018. A rapidly 
+
+(ABARES website). Australian Government Department of 
+Agriculture and Water Resources. Canberra.
+
+118.  Doyle, K. 2019. BOM declares 2018 Australia’s third-hottest 
+
+year on record (10 Jan). ABC News. Sydney.
+
+119.  Owen, M., C. Preston, and S. Walker. 2013. Resistance 
+
+Rising Across Australia. GroundCover 104(1).
+
+120.  DIIS. 2018. Resources 2030 Taskforce Australian resources 
+- providing prosperity for future generations. Department 
+of Industry, Innovation and Science, Australian 
+Government. Canberra.
+
+121.  Prior, T., D. Giurco, G. Mudd, L. Mason, and J. Behrisch. 
+2012. Resource depletion, peak minerals and the 
+implications for sustainable resource management. Global 
+Environmental Change 22(3):577-587.
+
+122.  Schodde, R. 2017. Long term trends in global exploration 
+– are we finding enough metal? 11th Fennoscandian 
+Exploration and Mining Conference 31st October, Levi, 
+Finland. MinEx Consulting. Australia.
+
+deployable classification system using visual data for the 
+application of precision weed management. Computers 
+and Electronics in Agriculture 148:107-120.
+
+130.  ACFR. 2019. Australian Centre for Field Robotics (Website 
+Accessed 1 Feb 2019). University of Sydney. Sydney, 
+Australia.
+
+131.  Gray, D. 2019. No one behind the wheel: The new 
+
+workforce driving Australia’s mines. Sydney Morning 
+Herald (27 April). Sydney.
+
+132.  RioTinto. 2019. Mine of the future. Rio Tinto (Company 
+
+Website Accessed on 13 Sept 2019). Australia.
+
+133.  Kray, H. 2015. Farming for the future: The environmental 
+sustainabililty of agriculture in a changing world. World 
+Bank Group. Washington, United States.
+
+134.  Austmine. 2019. Austmine company website accessed 1 
+
+Feb 2019. Austmine. Woolloomooloo, New South Wales, 
+Australia.
+
+135.  Hao, F. 2018. China releases 2020 action plan for air 
+
+123.  Rodriguez-Galiano, V., M. Sanchez-Castillo, M. Chica-
+
+pollution (6 July). China Dialogue. China.
+
+Olmo, and M. Chica-Rivas. 2015. Machine learning 
+predictive models for mineral prospectivity: An evaluation 
+of neural networks, random forest, regression trees and 
+support vector machines. Ore Geology Reviews 71:804-
+818.
+
+124.  SWA. 2016. Fatality statistics by industry. Safe Work 
+
+Australia. Canberra.
+
+125.  Sydney Environmental Institute. 2018. Australia’s 
+
+biodiversity and climate change. University of Sydney. 
+Sydney, Australia.
+
+126.  State of the Environment. 2016. Regional and landscape-
+scale pressures: Land clearing. Commonwealth of 
+Australia. Canberra, Australia.
+
+127.  AIMS. 2018. Long-term Reef Monitoring Program - Annual 
+Summary Report on coral reef condition for 2017/18. 
+Australian Institute of Marine Science. Townsville.
+
+128.  Bogue, R. 2016. Robots poised to revolutionise agriculture. 
+Industrial Robot: the international journal of robotics 
+research and application 43(5):450-456.
+
+136.  Deloitte. 2018. The future of work: Occupational and 
+
+education trends in data science in Australia. Deloitte. 
+Sydney.
+
+137.  Watts, T.W., G.J. Duncan, R.S. Siegler, and P.E. Davis-Kean. 
+2014. What’s Past Is Prologue: Relations Between Early 
+Mathematics Knowledge and High School Achievement. 
+Educational Researcher 43(7):352-360.
+
+138.  Ritchie, S.J. and T.C. Bates. 2013. Enduring Links From 
+Childhood Mathematics and Reading Achievement to 
+Adult Socioeconomic Status. Psychological Science 
+24(7):1301-1308.
+
+139.  ACER. 2019. The Programme for International Student 
+
+Assessment (PISA): Australia versus the world. Australian 
+Council for Educational Research (Website Accessed 13 
+August 2019). Sydney.
+
+140.  WEF. 2018. The future of jobs report. World Economic 
+
+Forum. Geneva.
+
+59
+
+141.  AlphaBeta. 2019. Future Skills - To adapt to the future of 
+work, Australians will undertake a third more education 
+and training and change what, when and how we learn. 
+Prepared by AlphaBeta for Google Australia. Sydney.
+
+142.  Deming, D. 2017. The Growing Importance of Social Skills 
+in the Labor Market. Quarterly Journal of Economics 
+132(4):1593-1640.
+
+143.  Börner, K., O. Scrivner, M. Gallant, S. Ma, X. Liu, K. 
+
+Chewning, L. Wu, and J.A. Evans. 2018. Skill discrepancies 
+between research, education, and jobs reveal the 
+critical need to supply soft skills for the data economy. 
+Proceedings of the National Academy of Sciences of the 
+United States of America 115(50):12630-12637.
+
+144.  BBC. 2017. Google DeepMind NHS app test broke UK 
+
+privacy law (3 July). British Broadcasting Corporation. 
+United Kingdom.
+
+145.  ICO. 2017. Royal Free - Google DeepMind trial failed 
+to comply with data protection law. Information 
+Commissioner’s Office. London.
+
+146.  Dawson, D., E. Schleiger, J. Horton, J. McLaughlin, C. 
+
+Robinson, G. Quezada, J. Scowcroft, and S. Hajkowicz. 
+2019. Artificial Intelligence: Australia’s Ethics Framework. 
+Data61 CSIRO. Australia.
+
+147.  AAA. 2018. American Trust in Autonomous Vehicles Slips. 
+
+American Automobile Association. Orlando.
+
+148.  Hengstler, M., E. Enkel, and S. Duelli. 2016. Applied 
+
+artificial intelligence and trust—The case of autonomous 
+vehicles and medical assistance devices. Technological 
+Forecasting and Social Change 105:105-120.
+
+149.  OECD. 2018. OECD Statistics. Organisation for Economic 
+
+Development and Cooperation. Paris.
+
+150.  ABS. 2016. Research and Experimental Development, 
+
+Businesses, Australia, 2015-16. Catalogue Number 8104 
+Australian Bureau of Statistics. Canberra.
+
+151.  PWC. 2018. The 2018 Global Innovation 1000 study: 
+
+Investigating trends at the world’s 1000 largest corporate 
+R&D spenders. PWC Strategy&. London.
+
+60 
+
+Artificial Intelligence
+
+CSIRO Australia’s Innovation Catalyst
+
+As Australia’s national science agency and 
+innovation catalyst, CSIRO is solving the 
+greatest challenges through innovative 
+science and technology.
+
+Unlocking a better future for everyone.
+
+Contact us
+
+1300 363 400 
++61 3 9545 2176 
+csiroenquiries@csiro.au 
+data61.csiro.au
+
+For further information
+
+Stefan Hajkowicz 
+Senior Principal Scientist – Strategic Foresight 
+Director – Data61 Insights Team 
+stefan.hajkowicz@data61.csiro.au 
++61 7 3833 5540
+
+B&M | 19-00346
+
+
