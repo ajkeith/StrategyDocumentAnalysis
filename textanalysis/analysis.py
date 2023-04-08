@@ -27,6 +27,8 @@ def build_nlp_pipelines():
     # note: direclty downloading the same classifier weights is timing out for some reason
     print("building sentiment pipeline...\n")
     sclass = pipeline(task="sentiment-analysis")
+    print("building sentiment pipeline...\n")
+    tclass = pipeline(task="sentiment-analysis")
     # zero shot topic classification pipeline
     print("building zero shot topic classification pipeline...\n")
     zclass = pipeline(model="facebook/bart-large-mnli")
