@@ -25,7 +25,9 @@ The result of `analyze_corpus` is a dataframe of classified text (by topic and s
 
 ## Algorithm Details
 
-This code uses the `distilbert-base-uncased-finetuned-sst-2-english` model from [Hugging Face](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english). This is a fine-tuned model based on [DistilBERT](https://arxiv.org/abs/1910.01108) and used here for zero-shot text classification. 
+This code uses the `facebook/bart-large-mnli` large BART model from [Hugging Face](https://huggingface.co/facebook/bart-large-mnli). This is a [MutliNLI](https://huggingface.co/datasets/multi_nli)-tuned model based on [BART](https://arxiv.org/abs/1910.13461) and used here for zero-shot text classification. 
+
+This code also uses the `distilbert-base-uncased-finetuned-sst-2-english` model from [Hugging Face](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english). This is a fine-tuned model based on [DistilBERT](https://arxiv.org/abs/1910.01108) and used here for sentiment classification. 
 
 `distilbert-base-uncased-finetuned-sst-2-english` has [strong evaluation results](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english) in terms of accuracy and precision:
 
