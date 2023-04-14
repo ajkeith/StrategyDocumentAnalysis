@@ -16,7 +16,7 @@ def extract_pdfs(dir_path):
         if filename.endswith(".pdf"): 
             print("Converting " + filename + " ...")
             fileloc = os.path.join(os.getcwd(), 'data', 'policies', filename)
-            outname = os.path.join(os.getcwd(), 'data', 'text', filename.replace(".pdf",".txt"))
+            outname = os.path.join(os.getcwd(), 'data', 'texts', filename.replace(".pdf",".txt"))
             with open(outname, "w", encoding='utf-8') as text_file:
                 text = extract_text(fileloc)
                 text_file.write(text)
@@ -36,8 +36,6 @@ def build_nlp_pipelines():
     sclass = pipeline(task="sentiment-analysis")
     print("building lda pipeline...\n")
     # TODO: topic pipeline with lda
-    print("building topic pipeline...\n")
-    # TODO: topic pipeline with bertopic
     print("building zero shot topic classification pipeline...\n")
     zclass = pipeline(model="facebook/bart-large-mnli")
     print("pipelines complete\n")
