@@ -28,20 +28,18 @@ def extract_pdfs(dir_path):
 
 def build_nlp_pipelines():
     """
-    Build sentiment and zero shot topic classification pipelines
+    Build sentiment and zero shot topic classification pipelines.
     """
     # sentiment pipeline model="distilbert-base-uncased-finetuned-sst-2-english"
     # note: direclty downloading the same classifier weights is timing out for some reason
     print("building sentiment pipeline...\n")
     sclass = pipeline(task="sentiment-analysis")
-    print("building lda pipeline...\n")
-    # TODO: topic pipeline with lda
     print("building zero shot topic classification pipeline...\n")
     zclass = pipeline(model="facebook/bart-large-mnli")
     print("pipelines complete\n")
     return sclass, zclass
 
-def analyze_text(text, name, sclass, zclass, candidate_labels, step=500):
+def analyze_text(text, name, sclass, zclass, candidate_labels, step=500, multi_label=True):
     """
     Analyze text in chunks and return a dataframe with topic and sentiment
     """
@@ -54,7 +52,7 @@ def analyze_text(text, name, sclass, zclass, candidate_labels, step=500):
         sentiment = sclass(text[idx:(idx+step)])
         topic = zclass(text[idx:(idx+step)],
             candidate_labels,
-            multi_label=True)
+            multi_label=multi_label)
         idx += step
         srow = [(idx, 'sentiment', sentiment[0]['score'])]
         topics.extend(srow)
@@ -75,22 +73,18 @@ def plot_nlp(df):
     print("plotting results...\n")
     fig = px.scatter(df, x='Index', y='Score', color='Label', 
                     labels=dict(Index='Text Position Index', Label='Topic'),
-                    title='Natural Language Processing: Singapore Naitonal AI Strategy',
+                    title='Natural Language Processing: National AI Strategy',
                     trendline='lowess', trendline_options=dict(frac=0.2))
     fig.data = [t for t in fig.data if t.mode == 'lines']
     fig.update_traces(showlegend=True)
     return fig
 
-def analyze_corpus(text_data):
+def analyze_corpus(text_data, candidate_labels):
     """
     Analyze a corpus of pdfs and return a dataframe with topic and sentiment
     """
     # TODO: finish loop
     sclass, zclass = build_nlp_pipelines()
-    candidate_labels = ["artificial intelligence", 
-                        "governance", "ethics", 
-                        "defence", "security"]
-    # df = pd.read_pickle("text_data.pkl") # replace with actual pkl files
     df = analyze_text(text_data, 'text_data.pkl', sclass, zclass, candidate_labels)
     fig = plot_nlp(df)
     fig.show()

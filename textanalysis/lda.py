@@ -63,7 +63,7 @@ stop_words_custom = text.ENGLISH_STOP_WORDS.union(['australia',
 tf_vectorizer = text.CountVectorizer(max_df=0.95, min_df=2,
                                 max_features=n_features,
                                 stop_words=list(stop_words_custom))
-lda = LatentDirichletAllocation(n_components=n_components, max_iter=5,
+lda = LatentDirichletAllocation(n_components=n_components, max_iter=20,
                                 learning_method='online',
                                 learning_offset=50.,
                                 random_state=0)
