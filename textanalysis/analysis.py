@@ -4,6 +4,7 @@ import numpy as np # basic math
 import pandas as pd # dataframes
 import plotly.express as px # plotting
 from pdfminer.high_level import extract_text # pdf read
+from cleantext import clean # text cleaning
 
 def extract_pdfs(dir_path):
     """
@@ -25,6 +26,27 @@ def extract_pdfs(dir_path):
             continue
     print("text extract complete\n")
     return text
+
+def load_texts(dir_path, clean_flag=True):
+    texts = []
+    filenames = []
+    languages = []
+    for file in os.listdir(dir_path):
+        filename = os.fsdecode(file)
+        if filename.endswith("governance.txt"):
+            languages.append('id') if filename.startswith('indonesia') else languages.append('en')
+            with open(os.path.join(os.getcwd(), 'data', 'texts', filename), 'r', encoding='utf-8') as f:
+                raw_text = f.read().replace('\n', '')
+                clean_text = clean(raw_text,
+                                no_line_breaks=True,
+                                no_urls=True,
+                                no_digits=True,
+                                no_emails=True,
+                                no_phone_numbers=True,
+                                no_numbers=True)
+                texts.append(clean_text) if clean_flag else texts.append(raw_text)
+                filenames.append(filename)
+    return texts, filenames, languages
 
 def build_nlp_pipelines():
     """
@@ -66,14 +88,24 @@ def analyze_text(text, name, sclass, zclass, candidate_labels, step=500, multi_l
     print("\ntext analysis complete\n")
     return df
 
-def plot_nlp(df):
+def plot_nlp(df, country='', doctype='governance'):
     """
     Plot sentiment and topic classification
     """
     print("plotting results...\n")
+    title = 'Topic and Sentiment: ' + country.capitalize()
+    match doctype:
+        case 'governance':
+            title += ' AI Governance'
+        case 'strategy':
+            title += ' Defense Strategy'
+        case 'ethics':
+            title += ' AI Ethics'
+        case _:
+            title += ''
     fig = px.scatter(df, x='Index', y='Score', color='Label', 
                     labels=dict(Index='Text Position Index', Label='Topic'),
-                    title='Natural Language Processing: National AI Strategy',
+                    title=title,
                     trendline='lowess', trendline_options=dict(frac=0.2))
     fig.data = [t for t in fig.data if t.mode == 'lines']
     fig.update_traces(showlegend=True)
