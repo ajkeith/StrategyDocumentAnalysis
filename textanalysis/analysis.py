@@ -105,7 +105,7 @@ def plot_nlp(df, country='', doctype='governance'):
             title += ''
     fig = px.scatter(df, x='Index', y='Score', color='Label', 
                     labels=dict(Index='Text Position Index', Label='Topic'),
-                    title=title,
+                    title='Topic and Sentiment: National AI Strategy',
                     trendline='lowess', trendline_options=dict(frac=0.2))
     fig.data = [t for t in fig.data if t.mode == 'lines']
     fig.update_traces(showlegend=True)

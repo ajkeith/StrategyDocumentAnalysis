@@ -1,0 +1,2024 @@
+AUSTRALIA’S  
+AI ACTION PLAN
+
+JUNE 2021
+
+industry.gov.au/ai-action-plan
+
+© Commonwealth of Australia 2021
+
+Ownership of intellectual property rights
+
+Unless otherwise noted, copyright (and any other intellectual property rights, if any) in this publication 
+is owned by the Commonwealth of Australia.
+
+Creative Commons licence
+
+Attribution 
+
+CC BY
+
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International 
+Licence, save for content supplied by third parties, logos, any material protected by trademark or 
+otherwise noted in this publication, and the Commonwealth Coat of Arms.
+
+Creative Commons Attribution 4.0 International Licence is a standard form licence agreement that 
+allows you to copy, distribute, transmit and adapt this publication provided you attribute the work. A 
+summary of the licence terms is available from https://creativecommons.org/licenses/by/4.0/
+
+The full licence terms are available from https://creativecommons.org/licenses/by/4.0/legalcode
+
+Content contained herein should be attributed as Australia’s AI Action Plan, Australian Government 
+Department of Industry, Science, Energy and Resources.
+
+ISBN:  978-1-922125-87-3
+
+Disclaimer
+
+The Australian Government as represented by the Department of Industry, Science, Energy and 
+Resources has exercised due care and skill in the preparation and compilation of the information and 
+data in this publication. Notwithstanding, the Commonwealth of Australia, its officers, employees, or 
+agents disclaim any liability, including liability for negligence, loss howsoever caused, damage, injury, 
+expense or cost incurred by any person as a result of accessing, using or relying upon any of the 
+information or data in this publication to the maximum extent permitted by law. No representation 
+expressed or implied is made as to the currency, accuracy, reliability or completeness of the information 
+contained in this publication. The reader should rely on their own inquiries to independently confirm the 
+information and comment on which they intend to act. This publication does not indicate commitment 
+by the Australian Government to a particular course of action.
+
+iii
+
+Australia’s AI Action PlanMINISTER’S FOREWORD
+
+Artificial intelligence (AI) presents incredible opportunities to grow our economy, 
+create jobs, stimulate businesses, and by doing so, can also improve our day to day 
+lives. Australians are already using AI every day. We’re organising our daily schedules 
+using voice assistants and taking recommendations on the movies we should watch. 
+AI helps our manufacturers create new and better products. It helps predict and 
+prevent the spread of bushfires. It also helps speed up our ability to diagnose and 
+treat diseases such as COVID-19. 
+
+It has been estimated that AI could contribute more than $20 trillion dollars to the global economy 
+by 2030. To take advantage of the opportunities AI presents, it is vital that as a nation we harness 
+our collective capabilities, talent and resources to be both early adopters of AI, but also significant 
+contributors to the progress of this technology. 
+
+Australia’s AI Action Plan sets out the Australian Government’s path forward to ensure we responsibly 
+leverage AI to further strengthen our economy and lift the quality of life for all Australians. The new 
+actions in this plan build on the strong foundations the Australian Government has previously put in 
+place to grow our digital and broader economy. 
+
+This plan will ensure AI is used and developed to practically improve our lives, guided by appropriate 
+security and ethical considerations. We are committed to ensuring everyone has an opportunity to 
+benefit from these new technologies, and that their use and development reflects Australia’s diverse 
+community.
+
+As a key part of the Australian Government’s Digital Economy Strategy, the AI Action Plan will support 
+businesses to enter new markets, invest in their own digital transformation, and deliver globally 
+competitive products and services. 
+
+This will in turn uplift businesses across the economy, boosting their productivity and competitiveness, 
+helping them to increase revenue and employ more Australians. To ensure those benefits can be fully 
+realised, there is a need for collaboration between our researchers, academics and our industries. For 
+that reason, it is important that many of the initiatives being pursued have increasing commercialisation 
+as a central principle.
+
+Building our domestic capability in AI also ensures we are well prepared to counter national security 
+threats, while simultaneously supporting innovation and developing Australia’s AI expertise in areas of 
+competitive strength. For instance, it is clear that AI has great potential and an important part to play in 
+Australia’s manufacturing sector and especially for Australia’s 6 National Manufacturing Priorities under 
+our Modern Manufacturing Strategy. Whether it is in the areas of resources and critical minerals, medical 
+products, or the opportunities of space, we have already seen the enhancements to productivity and 
+enterprise that AI brings, and the government is intent on seeing that continue.
+
+The AI Action Plan brings the Australian Government’s direct investment in AI to almost half a billion 
+dollars since 2018. The government is committed to elevating Australia to a world leading digital 
+economy and a global leader in the development and adoption of AI. 
+
+The Hon Christian Porter MP
+
+Minister for Industry, Science and Technology
+
+1
+
+Australia’s AI Action PlanCONTENTS
+MINISTER’S FOREWORD  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1
+
+STRATEGIC VISION   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . 3
+
+AUSTRALIA’S AI ACTION PLAN  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . 5
+
+ACTION PLAN OVERVIEW  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . 6
+
+HOW AI IS TRANSFORMING AUSTRALIA   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . 7
+
+FOCUS ONE: DEVELOPING AND ADOPTING  
+AI TO TRANSFORM AUSTRALIAN BUSINESSES    .  .  .  .  .  .  .  .  .  .  .  .  .  . . 11
+
+FOCUS TWO: CREATING AN ENVIRONMENT TO  
+GROW AND ATTRACT THE WORLD’S BEST AI TALENT  .  .  .  .  .  .  . . 14
+
+FOCUS THREE: USING CUTTING EDGE AI TECHNOLOGIES  
+TO SOLVE AUSTRALIA’S NATIONAL CHALLENGES  .  .  .  .  .  .  .  .  .  .  .  . 17
+
+FOCUS FOUR: MAKING AUSTRALIA A GLOBAL LEADER IN 
+RESPONSIBLE AND INCLUSIVE AI   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 19
+
+DIRECT AI 2021–22 BUDGET MEASURES:  
+IMPLEMENTATION AND NEXT STEPS  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . 22
+
+REFERENCE LIST  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . 27
+
+2
+
+Australia’s AI Action PlanSTRATEGIC VISION
+
+Our vision is to establish Australia as a global leader in developing and adopting 
+trusted, secure and responsible AI. 
+
+Artificial intelligence is having an impact on how we work, live and play. AI technologies already 
+enable our phones and power our online searches. Farmers use AI solutions to inform how to tend to 
+their crops. Small businesses use AI to better understand their customers. Builders use it to monitor 
+compliance. AI helps us to screen for cancer, detect COVID19 and treat anxiety disorders. On a national 
+level, AI is keeping us safe and secure by helping counter national security threats. 
+
+This is just the beginning. We’re in the early stages of a major technological transformation. If Australia 
+captures the benefits of this transformation, the opportunities are immense. Innovations driven 
+by digital technologies, including AI, could add up to $315 billion to our economy by 2028 (Alpha 
+Beta 2018). AI will continue to bolster other digital technologies and elevate human knowledge and 
+capability to new levels. New jobs can flow from this growth, with estimates that by 2034, there could 
+be 1.2 million new technology jobs realised (Faethm 2020:11). 
+
+Australia is well placed to seize these opportunities and achieve our vision. Australia is already a leader 
+in strategic fields of AI like computer vision, deep learning, field robotics, neural networks and machine 
+learning. Globally, Australia is a leader in AI research with our academic publications having more 
+impact in terms of frequency of citation than research from many other countries (Zhang et al. 2021). 
+These strengths provide a solid foundation for an increasingly AI-enabled economy.
+
+Australia also has the right whole-of-economy settings in place. We have the right foundations for 
+growing our digital economy. Australia has a competitive, market driven economy with free and open 
+trade, strong digital infrastructure and a pipeline of skills that creates the right environment for firms to 
+adopt AI as more products come on to market. 
+
+This suite of policies provide support for business adoption of emerging technologies. These broader 
+policies, whether specific or more structural, are supporting adoption of emerging technology like AI 
+in Australia. 
+
+The new measures announced in the 2021–22 Budget and outlined in this Action Plan build on these 
+existing policies by providing targeted assistance to specifically support the adoption and development 
+of AI in Australia, to drive a range of desired outcomes.
+
+The time for further action is now. We are not alone in recognising the enormous economic, scientific, 
+social, and environmental benefits AI provides, with global investment in AI continuing to increase, and 
+the pace of AI product development accelerating. To capture these benefits, the AI Action Plan will 
+coordinate the efforts and focus of government, businesses, researchers and the community. 
+
+3
+
+Australia’s AI Action PlanWhat is artificial 
+intelligence (AI)? 
+
+AI is a collection of interrelated technologies 
+that can be used to solve problems 
+autonomously and perform tasks to achieve 
+defined objectives. In some cases, it can do 
+this without explicit guidance from a human 
+being (Hajkowicz et al. 2019:15). AI is more 
+than just the mathematical algorithms that 
+enable a computer to learn from text, images 
+or sounds. It is the ability for a computational 
+system to sense its environment, learn, predict 
+and take independent action to control virtual 
+or physical infrastructure.
+
+Farmers use AI solutions to 
+inform how to tend to their 
+crops. Image credit: Getty
+
+4
+
+Australia’s AI Action PlanAUSTRALIA’S AI ACTION PLAN
+
+The AI Action Plan is a key feature of the Australian Government’s Digital Economy Strategy. 
+
+The Digital Economy Strategy aims to deliver on the Australian Government’s ambition for Australia to 
+be a leading digital economy and society by 2030. Building capability in emerging technologies within 
+the digital economy, such as AI, will: 
+
+  drive productivity and prosperity
+
+  create jobs
+
+  enable us to solve the real-world problems of today
+
+  grow the businesses and sectors of tomorrow.
+
+The AI Action Plan contributes to this by setting out the Australian Government’s vision for Australia 
+to be a global leader in developing and adopting trusted, secure and responsible AI. It outlines the 
+actions the government is taking to realise this vision and ensure everyone will share the benefits of 
+an AI-enabled economy. Taking these steps will lift our competitive capabilities, enable industry-wide 
+transformation and secure Australia’s future prosperity by unlocking local jobs and economic growth.
+
+Australian Government support for AI adoption and development is not new. The AI Action Plan 
+represents a focusing of new and existing initiatives and policy settings, and draws together a range of 
+actions across government. This includes a combination of: 
+
+  AI direct measures, including those announced in the 2021–22 Budget 
+
+  Programs and incentives that drive the growth of technology and digital skills, where AI can be a 
+
+key or crucial component
+
+  Foundational policy settings that support business, innovation and the Australian economy, where 
+
+the benefit extends to driving the development of AI.
+
+The development of the AI Action Plan complements the work of state and territory governments and 
+has drawn on:
+
+  nearly 90 public submissions to the discussion paper
+
+  multiple stakeholder workshops and consultations
+
+  insights from the government’s 2019 national AI summit (Techtonic).
+
+It also aligns with other priority areas of government, including our Modern Manufacturing Strategy. This 
+strategy will see Australia be recognised as a high-quality and sustainable manufacturing nation, and 
+create jobs for now and future generations. It is also consistent with:
+
+  our commitment to creating a safer online world for Australians through our Cyber Security 
+
+Strategy 2020
+
+  our desire to create a high-skilled workforce for jobs of the future
+
+  the government’s commitment to provide the right incentives to businesses and innovators through 
+
+lower taxes.
+
+Realising the Australian Government’s vision for AI will require governments, businesses, researchers 
+and individuals to work together.
+
+Action plan focus areas
+The AI Action Plan will be implemented under 4 focus areas. 
+
+  Focus one: Developing and adopting AI to transform Australian businesses – support to help 
+
+businesses develop and adopt AI technologies to create jobs and increase their productivity 
+and competitiveness
+
+  Focus two: Creating an environment to grow and attract the world’s best AI talent – support to 
+
+ensure our businesses have access to world-class talent and expertise
+
+  Focus three: Using cutting edge AI technologies to solve Australia’s national challenges – support 
+to harness Australia’s world-leading AI research capabilities to solve national challenges, and 
+ensure all Australians have an opportunity to benefit from AI
+
+  Focus four: Making Australia a global leader in responsible and inclusive AI – support to ensure 
+
+AI is inclusive and technologies are built to reflect Australian values
+
+5
+
+Australia’s AI Action PlanACTION PLAN OVERVIEW
+
+Australia’s AI Action Plan aims to establish Australia as a global leader in developing and adopting trusted, 
+secure and responsible AI.
+
+FOCUS AREA
+
+DEVELOPING AND ADOPTING AI 
+TO TRANSFORM AUSTRALIAN 
+BUSINESSES
+
+CREATING AN ENVIRONMENT 
+TO GROW AND ATTRACT THE 
+WORLD’S BEST AI TALENT
+
+USING CUTTING EDGE AI 
+TECHNOLOGIES TO SOLVE 
+AUSTRALIA’S NATIONAL 
+CHALLENGES
+
+MAKING AUSTRALIA A GLOBAL 
+LEADER IN RESPONSIBLE AND 
+INCLUSIVE AI
+
+Establish the National AI Centre 
+and 4 AI and Digital Capability 
+Centres to drive a national 
+approach to AI and support 
+adoption
+
+Catalyse the AI opportunity 
+in our regions by funding AI 
+projects tailored for regional 
+areas of Australia
+
+Train the next generation of 
+industry ready AI Graduates
+
+Develop new AI solutions that 
+make Australia stronger
+
+Progress the implementation of 
+Australia’s AI Ethics Principles
+
+Australian Research Council 
+projects, linkages and 
+fellowships that involve AI 
+
+CSIRO’s Machine Learning and 
+AI Future Science Platform 
+to turn future challenges into 
+opportunities to invent a better 
+future through AI
+
+Support Australia’s AI values 
+internationally within international 
+forums
+
+Supporting industry-led AI 
+focused Cooperative Research 
+Centres Projects
+
+Establishing the Centre for 
+Augmented Reasoning at the 
+University of Adelaide
+
+Funding AI-focused projects 
+under the Medical Research 
+Future Fund
+
+Promote the benefits of AI through 
+engagement with business and the 
+Australian public
+
+S
+E
+R
+U
+S
+A
+E
+M
+T
+C
+E
+R
+D
+
+I
+
+I
+
+A
+
+Modern Manufacturing Strategy 
+to help Australian manufacturing 
+scale-up and become more 
+competitive and resilient
+
+Next Generation Emerging 
+Technology Graduates Program 
+to meet advanced technology 
+needs
+
+National Digital Health Strategy 
+with digital information as 
+the bedrock of high quality 
+healthcare
+
+Review of the Privacy Act to 
+ensure privacy settings empower 
+consumers, protect their data and 
+best serve the Australian economy
+
+Invest in Defence AI to develop 
+applications for intelligence 
+mission data, and virtual reality 
+and graphics applications. 
+
+Digital Skills Cadetship Trial to 
+support innovative approaches to 
+cadetships for digital career paths
+
+Business Research and 
+Innovation Initiative to address 
+challenges faced by government 
+in policy and service delivery 
+areas
+
+Setting standards for the safe and 
+transparent sharing of public 
+sector data
+
+S
+L
+L
+I
+K
+S
+L
+A
+T
+I
+G
+D
+
+I
+
+Provide advice to Australian small 
+businesses through the Digital 
+Solutions – Australian Small 
+Business Advisory Services 
+program
+
+Digital Business-to-Business 
+(B2B) Partnerships Initiative 
+to capitalise on the extensive 
+expertise, scale and service 
+offerings provided by large 
+corporates to drive the digital 
+transformation of Australia’s 
+SMEs.
+
+Establishment and expansion 
+of the Cyber Security Skills 
+Partnership Innovation Fund to 
+increase the quality and quantity 
+of cyber security professionals, 
+and our broader Cyber Security 
+Strategy 2020
+
+D
+N
+A
+Y
+G
+O
+L
+O
+N
+H
+C
+E
+T
+F
+O
+H
+T
+W
+O
+R
+G
+E
+H
+T
+G
+N
+V
+R
+D
+
+I
+
+I
+
+Digital Foundations for 
+Agriculture Strategy to address 
+the major barriers to uptake of 
+digital technologies
+
+The Foundation Skills for Your 
+Future Program – Digital Project 
+Rounds is prioritising projects 
+with a digital skills focus
+
+Entrepreneurs’ Programme helps 
+businesses innovate and grow
+
+Scoping a Research 
+Commercialisation Scheme 
+to better translate and 
+commercialise university research
+
+Digital Atlas of Australia will 
+allow us to draw unique insights 
+into the Australian economy
+
+Boosting Female Founders for 
+startup businesses to scale their 
+startups into domestic and global 
+markets
+
+Boosting the Next Generation 
+of Women in STEM program to 
+increase diversity and support the 
+next generation of women in STEM
+
+Australian Data Strategy to set out 
+how the Australian Government 
+will enhance the effective, safe and 
+secure use of data and provide 
+greater understanding of the 
+government’s policy settings
+
+The Consumer Data Right gives 
+consumers more choice and control 
+about how their data is used and 
+shared
+
+The Research and Development 
+(R&D) Tax Incentive encourages 
+companies to engage in R&D 
+benefiting Australia
+
+Actively targeting global talent 
+who can drive innovation through 
+the Global Business and Talent 
+Attraction Taskforce
+
+The Job-Ready Graduates 
+package to deliver job-ready 
+graduates in the disciplines 
+needed most, and the JobTrainer 
+Fund is providing additional 
+training places in areas of 
+identified skills need for job 
+seekers and young people
+
+The Boosting Apprenticeship 
+Commencements wage subsidy 
+to support businesses take on 
+apprentices 
+
+Tax Incentives for early 
+stage investors in early stage 
+innovation companies
+
+Early Stage Venture Capital 
+Limited Partnerships (ESVCLP) 
+and Venture Capital Limited 
+Partnerships (VCLP) to increase 
+venture capital investment in 
+Australia 
+
+Allowing self-assessment of 
+the effective life of certain 
+intangible assets to grow 
+investment in digital technologies
+
+S
+G
+N
+I
+T
+T
+E
+S
+Y
+C
+I
+L
+O
+P
+L
+A
+N
+O
+I
+T
+A
+D
+N
+U
+O
+F
+
+6
+
+Australia’s AI Action Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HOW AI IS TRANSFORMING 
+AUSTRALIA
+
+ Logistics
+
+Seeing Machines
+
+Truck drivers and logistic companies are safer on our roads thanks 
+to Canberra-based Seeing Machines. By using computer vision to 
+detect fatigue and provide alerts to reduce accidents, they have 
+kept drivers safe for over 6.5 billion kilometres and created over 
+100 direct jobs since 2015.
+
+👁🗨
+
+ IMPACT: 
+
+reduced fatigue events by more than 90%
+
+Driving monitoring system technology 
+developed in Australia. Image courtesy 
+of Seeing Machines.
+
+ Utilities 
+
+VAPAR
+
+Sydney-based VAPAR is revolutionising how water 
+and sewage pipes are maintained. Its technology 
+solution analyses video footage from pipe 
+inspections to detect cracks and blockages, 
+an error-prone task that takes hours when done 
+manually.
+
+👁🗨
+
+ IMPACT: 
+
+identified 15% more defects
+
+VAPAR’s AI models process pipe inspection video footage to detect 
+various issues in pipes. The issues found are then used to grade the pipe’s 
+health on a 1-5 scale. Image courtesy of VAPAR.
+
+ Construction 
+
+Voltin
+
+Brisbane-based Voltin is bringing a 21st century solution to building 
+façade inspections. Using machine learning and high-resolution cameras, 
+its solution is automating inspections whilst keeping workers safer, 
+reducing costs and speeding up accurate assessments.
+
+👁🗨
+
+ IMPACT: 
+
+reduced costs by 30%
+
+AI algorithm assigned defect 
+identification. Image courtesy of Voltin.
+
+7
+
+Australia’s AI Action Plan Food and beverage
+
+Green Atlas
+
+Green Atlas is dedicated to assisting tree-crop growers in 
+managing the life-cycle of each and every fruit on every tree 
+in their orchards. Its product, Cartographer, uses an innovative 
+combination of hardware and AI software that allows buds, 
+flowers, fruitlet and fruit counts to be quickly and accurately 
+mapped over entire orchards. Growers and agronomists can 
+access an unprecedented level of detail, unmatched by manual 
+methods, allowing crop management to be tailored to every tree.
+
+👁🗨
+
+ IMPACT: 
+
+6000x faster
+
+A team of 5 Cartographers map  
+15,000 hectares of almonds in 3 weeks.  
+Image courtesy of Green Atlas.
+
+ Emergency services
+
+Spark by CSIRO’s Data61
+
+Spark is a toolkit for the end-to-end processing, simulation and analysis of bushfires. The need for a 
+flexible and customisable bushfire prediction tool motivated its development. 
+
+Spark uses a hybrid modelling approach to predict how and where 
+bushfires might spread. AI plays a key role in this modelling process, 
+deriving fuel and vegetation information from remotely sensed data 
+sources. It then integrates this with weather data from the Bureau 
+of Metrology and physics-based modelling to develop a range of 
+simulations. 
+
+It was piloted in the 2019–20 bushfire season to help firefighters on 
+the ground, and is now being scaled for nation-wide use (Donnellan 
+2021). 
+
+👁🗨
+
+ IMPACT: 
+
+fighting bushfires 
+
+A simulated bushfire in Spark informing users of the spread of a fire if a  
+wind change was to occur and the growth and speed at which it would burn. 
+Image courtesy of the CSIRO’s Data 61.
+
+ Medical products
+
+Coviu PhysioROM
+
+Brisbane-based digital health business, Coviu, is currently in 
+clinical trials for an AI-powered tool that measures a patient’s 
+range of motion over video telehealth systems. The tool supports 
+physiotherapists to free up hospital beds.
+
+👁🗨
+
+ IMPACT: 
+
+freeing up hospital beds
+
+Recording of a patient for range-of-
+motion analysis using a Webcam and a 
+3D motion capture system to validate 
+algorithm accuracy. Image courtesy of 
+Coviu.
+
+8
+
+Australia’s AI Action Plan Human resources 
+
+SafetyCulture
+
+SafetyCulture is the operational heartbeat of working teams around 
+the world. Its mobile-first operations platform leverages the power 
+of human observation to identify issues and opportunities for 
+businesses to improve every day. More than 28,000 organisations 
+use its flagship products, iAuditor and EdApp, to perform checks, 
+train staff, report issues, automate tasks and communicate 
+fluidly. SafetyCulture powers over 600 million checks per year, 
+approximately 50,000 lessons per day and millions of corrective 
+actions. It gives leaders visibility and workers a voice in driving 
+safety, quality and efficiency improvements.
+
+👁🗨
+
+ IMPACT: 
+
+more than 600 checks per year
+
+SafetyCulture iAuditor product in use. 
+Image courtesy of SafetyCulture.
+
+ Clean energy 
+
+Synengco
+
+Brisbane-based engineering business, Synengco, built a ‘digital twin’ of an infrastructure, which serves 
+as a real-time digital counterpart of the physical infrastructure. This digital twin allows the business 
+to model and evaluate the impact of major business decisions. It has deployed this solution to one of 
+Australia’s largest power generator to reduce costs and extend asset life.
+
+👁🗨
+
+ IMPACT: 
+
+$8 million fuel savings per year
+
+A digital twin is an exact virtual 
+representation, or a virtual clone, of 
+a physical asset (such as a building 
+or power station). It is designed with 
+advanced modelling and analytics 
+capabilities, self-learning from the 
+actual operation. The digital twin 
+monitors the physical asset across its 
+lifecycle. It provides real-time data to 
+predict and prevent issues or costly 
+downtimes and help optimise the 
+lifespan of the asset. Image courtesy 
+of Synengco.
+
+ Recycling
+
+Advanced Circular Polymers
+
+Advanced Circular Polymers (ACP) runs Australia’s largest plastic 
+recycling facility with a massive capacity of 70,000 tonnes per 
+year. The recycling facility sorts the waste plastics using advanced 
+AI-enabled robots. ACP is also developing advanced AI-enabled 
+autonomous technologies needed for waste sorting, with financial 
+support from the Cooperative Research Centres Projects initiative, 
+ACP and the University of Melbourne.
+
+👁🗨
+
+ IMPACT: 
+
+AI-enabled autonomous sorting for plastic recycling
+
+9
+
+A robotic unit that helps identify 
+individual polymers and colour. Image 
+courtesy of ACP.
+
+Australia’s AI Action Plan Environment 
+
+Healthy Country AI Partnership
+
+The Healthy Country AI partnership in Kakadu National Park is a pioneering program that is mixing 
+responsible AI and science with Indigenous knowledge to solve complex environmental management 
+problems and care for animal species and habitats. The partnership is part of the Australian 
+Government’s National Environmental Science Program through its Northern Australia Environmental 
+Resources Hub. It brings together Indigenous Traditional Owners and rangers, CSIRO, Microsoft, Parks 
+Australia, the University of Western Australia and Charles Darwin University. 
+
+Under the direction of Indigenous Traditional Owners and rangers, drones capture video footage in 
+dual World Heritage-listed Kakadu National Park. The data is collected, labelled and interpreted using 
+a combination of Indigenous knowledge, Microsoft AI, 
+data visualisation and scientific research. The models 
+allow rangers to regularly survey large areas that are 
+difficult to access and removes the need for people to 
+review thousands of hours of video to count animals 
+and identify para grass in its different states (burnt, 
+wet, growing, dead). Rangers can now rapidly assess 
+the impact of reducing para grass weed spread on the 
+abundance of culturally-important magpie geese on 
+Kakadu’s Nardab floodplain. In 2018, only 50 magpie 
+geese were counted. Nine months later, more than 
+1,800 have returned to the wetlands. 
+
+The Healthy Country AI partnership represents an end-
+to-end solution to support adaptive co-management 
+to solve complex environmental problems, create jobs 
+and care for significant species and habitats.
+
+👁🗨
+
+ IMPACT: 
+
+using AI to monitor precious habitats
+
+Magpie geese are ‘specialised feeders’ – they eat wild rice, spike rush and two other aquatic plants. But when para grass 
+takes over a wetland, it out-competes these plants, leaving less food and less space for the male bird to build the nest. 
+Image credit Rita Willaert via Flickr. 
+
+ Healthcare 
+
+Project Sagasu
+
+Fujitsu Australia, GE Healthcare, Macquarie University and 
+Radian Network are collaborating to develop an AI solution to 
+detect and monitor brain aneurysms on scans faster and more 
+efficiently. The collaboration brings together their individual 
+strengths and expertise. The project is refining the technology 
+to create a fully commercialised solution. It aims to better equip 
+radiologists to make early, potentially life-saving diagnoses and 
+improve the quality of life for patients with aneurysms around 
+the world.
+
+👁🗨
+
+ IMPACT: 
+
+working to detect brain aneurysms with AI
+
+CT scan of the brain showing the circle 
+of Willis. Image courtesy of Fujistsu 
+Australia Limited.
+
+10
+
+Australia’s AI Action PlanFOCUS ONE: DEVELOPING AND 
+ADOPTING AI TO TRANSFORM 
+AUSTRALIAN BUSINESSES 
+
+Creating jobs and increasing the 
+productivity and competitiveness of 
+Australian businesses
+We use AI every day in products and services that help us manage businesses, make office work 
+productive and increase efficiencies on factory floors and farms. It enables us to introduce incremental 
+efficiencies into our routine tasks. But AI can do much more – AI can transform the way we do business 
+and lock in our future competitiveness. 
+
+AI technologies are facilitating data-driven business models (Seagate 2018) that enable businesses – 
+from local cafés to advanced manufacturers to:
+
+  provide customised products and services
+
+  expand into new industries and markets
+
+  enhance business efficiencies. 
+
+AI is presenting new opportunities for businesses to adopt and use AI technologies to increase their 
+productivity and competitiveness, and generate jobs. The Australian Computer Society (ACS) anticipate 
+that AI and digital innovation will create up to 1.2 million new ‘technology’ jobs across our economy by 
+2034 (Faethm 2020:11). Overall, ACS projects that 5.3 million new jobs may be created by 2034 in the 
+Australian economy due to technological advancements (Faethm 2020:10).
+
+While 80% of industry leaders believe that AI will have a transformative impact on their business, 63% 
+of businesses have difficulty knowing where to start when implementing AI technologies (Seagate 
+2018). The Australian Government is committed to ensuring that businesses have the knowledge, tools, 
+talent and support to capitalise on AI’s potential. It has included a series of new measures in this Action 
+Plan to support this. 
+
+Our Action Plan will support those businesses starting out in AI, and it will also support our advanced 
+manufacturing sectors. Enabling digital technologies, such as AI, will help our manufacturers to create 
+entirely new products, processes and business models. The use of AI is likely to have significant benefits 
+to each of our 6 National Manufacturing Priorities under our Modern Manufacturing Strategy. Evidence 
+of AI’s application is already seen among the industries included in the manufacturing priorities. 
+
+These measures build on a range of other measures already driving adoption of technology in Australia. 
+These other measures include those with a technology focus, as well as broader settings, including 
+getting our tax settings right.
+
+11
+
+Australia’s AI Action PlanActions
+
+ AI DIRECT MEASURES
+
+The Australian Government will provide $53.8 million to establish a National AI Centre within CSIRO’s 
+Data61, as well as 4 AI and Digital Capability Centres (Capability Centres). The National AI Centre will 
+coordinate Australia’s AI expertise and capabilities. It will also address barriers that small and medium 
+enterprises (SMEs) face in adopting and developing AI and emerging technologies. The Capability 
+Centres will help SMEs to adopt AI by providing access to cutting edge AI technology and experts. SMEs 
+will connect with AI practitioners, access AI tools and facilities, and benefit from services and training 
+to help them confidently adopt AI. This initiative will make it easier for these businesses to innovate 
+and remain competitive. It also complements the broad range of targeted, government-funded support 
+available to SMEs. 
+
+The Australian Government will provide $12 million to establish the Catalysing the AI Opportunity in 
+our Regions program. This program will co-fund competitive grants to deploy AI in regional areas and 
+support participation by diverse cohorts. These projects will help build awareness of AI applications 
+to regional challenges and ensure that the benefits are spread evenly around Australia. Crucially, this 
+program will build regional communities’ trust in AI technologies. It will ensure that the design and 
+implementation of responsible AI technologies reflects the values of both urban and rural Australia.
+
+The Cooperative Research Centres Projects (CRC-P) program provides funding for short-term research 
+collaborations to develop new products, services or technologies (including AI). The projects facilitate 
+industry-research collaboration that delivers real outcomes, benefits SMEs and provides education and 
+training activities. Since 2018, the CRC-P program has provided $43.7 million to support 21 industry-
+led AI-focussed projects. For example, the CRC-P program has helped Australian company, Seeing 
+Machines, in partnership with Monash University, Ron Finemore Transport and Volvo Australia to 
+develop computer vision technology. This technology helps prevent driver fatigue and helps monitor 
+drivers for the commercial transport sector.
+
+ DRIVING THE GROWTH OF TECHNOLOGY AND 
+
+DIGITAL SKILLS
+
+The Australian Government’s $1.5 billion Modern Manufacturing Strategy is funding projects that will 
+transform manufacturing businesses. This strategy will help businesses to scale up, translate ideas into 
+commercial successes, and integrate into local and international value chains.
+
+An expanded Digital Solutions – Australian Small Business Advisory Services will invest $12.7 million to 
+provide 17,000 small businesses access to high quality, low cost and independent advice to adopt digital 
+technologies. This measure also includes funds to conduct a pilot to provide services to select not-for-
+profit organisations. 
+
+The Digital Business-to-Business (B2B) Partnerships Initiative will leverage the trusted relationships 
+that Australia’s corporate sector has with SMEs to promote the adoption of and access to digital 
+products and services. This initiative was announced as part of the Digital Economy Strategy.
+
+The Digital Foundations for Agriculture Strategy, under the National Agricultural Innovation Agenda, 
+will help promote AI in Australia’s agriculture and Agtech industries. Together with the new priorities set 
+out in the National Agricultural Innovation Policy Statement, the strategy sets out a pathway for driving 
+development and widespread uptake of digital technologies including AI.
+
+12
+
+Australia’s AI Action Plan FOUNDATIONAL POLICY SETTINGS
+
+The Entrepreneurs’ Programme (EP) helps Australian businesses to grow, strengthen, innovate and 
+commercialise both nationally and globally. The program provides businesses with access to expert 
+advice and financial support that will take them to the next level, including assisting businesses to 
+digitise their operations. For example, FluroSat received an Accelerating Commercialisation Grant from 
+EP which helped it commercialise a platform. The platform combines machine learning, agricultural 
+modelling and remote sensing imagery (from drones, planes and satellites) to detect early signs of 
+plant stress. The platform is helping crop agronomists and farmers make better-informed decisions 
+and improve crop yields by 10–25%. 
+
+The Research and Development Tax Incentive (R&DTI) reduces R&D costs by offering generous tax 
+offsets for companies conducting eligible R&D activities. The program aims to encourage companies 
+to invest more in these activities to generate benefits for the broader Australian economy. The R&DTI 
+provides over $2.5 billion to over 11,000 businesses every year. The Information and Communication 
+Technology (ICT) field of research comprises around 40% of all R&DTI registrations across all sectors. 
+However, not all software development meets the requirements of the program. This has led technology 
+sector stakeholders to seek greater clarity around how the R&DTI applies to their activities. To address 
+these concerns, the Australian Government is working with technology sector representatives to 
+improve guidance, including through consultation on new software specific guidance material.
+
+The Tax incentives for early stage investors provide tax concessions to investors in qualifying Early 
+Stage Innovation Companies. These investors will often bring business experience to the business in 
+addition to capital. 
+
+The Early Stage Venture Capital Limited Partnerships (ESVCLP) and Venture Capital Limited 
+Partnerships (VCLP) programs are designed to increase venture capital investment in Australia.  
+The ESVCLP program aims to increase investment in startups through Australian early stage venture 
+capital funds by providing tax offsets and capital gains tax exemptions on eligible investments.  
+The VCLP program is also aimed at increasing investment through Australia’s venture capital sector  
+by providing tax concessions to eligible foreign investors.
+
+The Australian Government is also allowing taxpayers to self-assess the effective life of depreciating 
+intangible assets such as patents, registered designs, copyright and in-house software for tax purposes.  
+This change reduces the cost of investment for business and aligns the tax treatment of these intangible 
+assets with the treatment of tangible assets.
+
+13
+
+Australia’s AI Action PlanFOCUS TWO: CREATING AN 
+ENVIRONMENT TO GROW AND 
+ATTRACT THE WORLD’S BEST AI 
+TALENT
+
+Ensuring that Australian businesses have 
+access to world-class talent 
+Australia has produced some of the world’s finest AI minds and is an attractive destination for global AI 
+talent. To remain competitive and realise the benefits of an AI-economy, our workforce must constantly 
+retool and reskill (RMIT 2021).
+
+Technological change is creating new types of job opportunities. From 2014 to 2019, emerging 
+professions associated with data and AI grew faster than other types of professions in 20 major 
+economies, including Australia (Figure 1). Shortage of high-end AI talent is one of the most pressing 
+challenges for businesses looking to deploy AI technologies (Silverpond 2019). The CSIRO’s Data61 
+estimates that industry will need up to 161,000 additional AI specialist workers by 2030 (Hajkowicz et al. 
+2019:iv). 
+
+Preparing our existing workforce and society for an AI-enabled economy requires a system-wide 
+approach. This is why the Australian Government is taking meaningful steps to help ensure all 
+Australians have the skills to engage with the digital economy and are ready for the jobs of the future. 
+The Australian Government’s investment starts in schools and carries through to on-the-job training, 
+and is being advanced through a raft of different initiatives. It recognises both the hard and soft skills 
+necessary to participate in a digital economy and required in the development of AI. 
+
+Figure 1:    Annual growth and number of opportunities of selected professional clusters from 2014 to 
+
+2019 in 20 major economies
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+)
+%
+(
+h
+t
+w
+o
+r
+G
+
+l
+
+a
+u
+n
+n
+A
+
+Data and AI
+
+Engineering and Cloud Computing
+
+Sales, Marketing and Content
+
+Product Development
+
+People and Culture
+
+20
+
+40
+
+60
+
+80
+
+90
+
+100
+
+120
+
+140
+
+160
+
+180
+
+Number of opportunities (per 10,000 new opportunities)
+
+Data and AI
+
+Engineering and Cloud Computing
+
+Sales, Marketing and Content
+
+People and Culture
+
+Product Development
+
+Reference Points
+
+Source: World Economic Forum (2020:9), used with permission.
+
+14
+
+Australia’s AI Action Plan 
+ 
+Actions
+
+ AI DIRECT MEASURES
+
+The Next Generation AI Graduates program will provide $24.7 million to increase Australia’s specialist 
+AI talent through targeted scholarships. It will address industry skills shortages and train diverse cohorts 
+of AI students on industry projects desired and needed by industry.
+
+Since 2018, more than $200 million has been awarded by the Australian Research Council on projects, 
+linkages and fellowships that involve AI. In particular, the ARC Linkage Program promotes national 
+and international research partnerships between researchers and business, industry, community 
+organisations and other publicly funded research agencies. The research projects funded through this 
+program encourage the transfer of skills, knowledge and ideas as a basis for securing commercial and 
+other benefits of research. Grant opportunities are made available through a number of schemes under 
+the Linkage Program. Funding is awarded to support the highest quality applied research through 
+national competition across all disciplines. 
+
+In October 2020, the Australian Government committed $20 million to establish the Centre for 
+Augmented Reasoning at the University of Adelaide. The centre will support Advanced Reasoning 
+research through PhD scholarships and will increase AI literacy and engagement in Australia.
+
+ DRIVING THE GROWTH OF TECHNOLOGY AND 
+
+DIGITAL SKILLS
+
+The Next Generation Emerging Technology Graduates Program will provide $22.6 million to deliver more 
+than 200 competitive national scholarships in emerging technologies to meet our advanced technology 
+needs. This initiative will build on and complement the new Next Generation AI Graduates program.
+
+The Digital Skills Cadetship Trial is providing $10.7 million to support innovative trials of cadetships for 
+digital careers to increase the number of Australians with high-level digital skills. This aims to deliver 
+digital skills in a more flexible and timely way through a 4–6 month cadetship comprising formal 
+training with on-the-job learning.
+
+Additional funding of $43.8 million is being provided to expand the Cyber Security Skills Partnership 
+Innovation Fund. The fund is for industry and education providers to deliver more projects that meet 
+local requirements to quickly improve the quality and quantity of cyber security professionals in 
+Australia. The fund builds on the broader Cyber Security Strategy 2020. This strategy is creating a more 
+secure online world for Australians, our businesses and the essential services upon which we all depend. 
+It included an initial $26.5 million for the Cyber Security Skills Partnerships Innovation Fund. 
+
+The Foundation Skills for Your Future Program – Digital Project Rounds is providing $5 million to 
+prioritise projects with a digital skills focus to improve foundational skills for employed or recently 
+unemployed Australians. The program supports Australians who need flexible training in reading, 
+writing, maths, English language and digital skills.
+
+15
+
+Australia’s AI Action Plan FOUNDATIONAL POLICY SETTINGS
+
+The Australian Government is providing $5.8 million to scope a University Research Commercialisation 
+Scheme to better translate and commercialise university research outputs. The scoping study will develop 
+options for the establishment of the scheme, drawing on advice from universities, industry and other experts.
+
+The Global Business and Talent Attraction Taskforce is actively targeting exceptional global talent. 
+This includes academics, researchers and experts at the top of their field who can drive innovation in 
+future-focused industries to come to Australia and develop their ideas here. The initiative aims to fill 
+critical skills gaps and bring new technologies, cutting edge research and development, as well as IP 
+and capital to our shores.
+
+The government’s demand-driven skills system is supporting Australians to acquire the skills and 
+training they need to meet the needs of the modern Australian workplace. The Job Ready Graduates 
+package and JobTrainer Fund are ensuring Australians can skill up for their future. They are also 
+ensuring we build the right mix of skills needed to enable business to adopt and develop emerging 
+technologies. The Job-Ready Graduates package is delivering more job-ready graduates in the 
+disciplines and regions where they are needed most. The package is helping to drive the nation’s 
+economic recovery from the COVID-19 pandemic. The JobTrainer Fund is providing additional training 
+places in areas of identified skills need such as health, aged and disability care, IT and trades for job 
+seekers and young people, including school leavers.
+
+The Boosting Apprenticeship Commencements wage subsidy is supporting businesses and Group 
+Training Organisations to take on new apprentices and trainees to build a pipeline of skilled workers to 
+support sustained economic recovery. As part of this measure, the Australian Apprenticeship Support 
+Network will deliver additional Gateway Service places and enhanced In-Training Support for women 
+interested in, or starting, an apprenticeship in a non-traditional trade occupation.
+
+16
+
+Australia’s AI Action PlanFOCUS THREE: USING CUTTING 
+EDGE AI TECHNOLOGIES TO 
+SOLVE AUSTRALIA’S NATIONAL 
+CHALLENGES
+
+Delivering the benefits of AI to all 
+Australians
+AI-powered solutions can help overcome some of our nation’s greatest challenges. The CSIRO’s Data61 
+outlined how AI can help lower energy costs, improve health outcomes and protect our environment 
+(Hajkowicz et al. 2019). New measures in this action plan will help to unlock these opportunities.
+
+We have strong foundations to support our AI ambition. Australia possesses world-leading capabilities 
+in AI research. As shown on Figure 3, Australian AI publications are being cited more than the world 
+average. We can leverage our world-leading capabilities to build competitive advantage. The CSIRO’s 
+Data61 enables collaboration between a global network of partners in government, industry and 
+academia with an applied R&D focus in data science and engineering. 
+
+The Australian Government is committed to supporting a respected and coordinated AI ecosystem. 
+One that can translate Australia’s capabilities and strengths into real-world solutions and create new 
+opportunities for commercialisation and export (Industry Innovation and Science Australia 2021). 
+Australia is already a leader in AI research, placing third in the world (following Singapore and Hong 
+Kong, respectively) according to peer-reviewed AI publications, when citation impact is field-weighted 
+(Figure 3; Zhang et al. 2021:24). A coordinated AI system will help Australia realise this competitive 
+advantage, and turn that into commercial ideas, economic growth, jobs, and a better world. 
+
+Figure 2: Comparison of AI publications citations by country
+
+Peer-Reviewed AI Publications Field-Weighted Citation Impact and 
+Number of Academic-Corporate Peer-Reviewed AI Publications, 2019  
+
+3
+
+2
+
+1
+
+)
+I
+C
+W
+F
+(
+
+t
+c
+a
+p
+m
+
+i
+
+I
+n
+o
+i
+t
+a
+t
+i
+C
+d
+e
+t
+h
+g
+e
+W
+-
+d
+e
+F
+s
+n
+o
+i
+t
+a
+c
+i
+l
+
+i
+
+l
+
+b
+u
+P
+I
+
+Singapore
+
+Australia
+
+Netherlands
+
+Hong Kong
+
+Switzerland
+
+Iran
+
+Malaysia
+
+Canada
+
+Italy
+
+Germany
+
+South Korea
+
+United Kingdom
+
+United States
+
+Spain
+
+France
+
+European Union
+
+Turkey
+
+Taiwan
+
+Japan
+
+China
+
+Indonesia
+
+Russia
+
+Brazil
+
+India
+
+A
+d
+e
+w
+e
+i
+v
+e
+R
+-
+r
+e
+e
+P
+
+0
+
+5
+
+10
+
+20
+
+50
+
+100
+
+200
+
+500 1000 2000
+
+Number of Academic-Corporate Peer-Reviewed AI Publications (Log Scale)
+
+A Field-Weighted Citation Impact (FWCI) greater than one shows that publications have been cited more than the world 
+average for similar publications and provides a useful way to determine the prestige and quality of a researcher’s citation 
+performance.
+
+Source: Zhang et al. (2021:24), used with permission
+
+17
+
+Australia’s AI Action Plan 
+ 
+ 
+ 
+ 
+ 
+Actions
+
+ AI DIRECT MEASURES
+
+The Australian Government will provide $33.7 million to establish the AI Solutions to Build a Stronger 
+Australia program. This program will work in partnership with industry to leverage private expertise to 
+solve national challenges. We will jointly develop and deploy AI-enabled solutions to address economic, 
+health, social, infrastructure and environmental challenges of national scale.
+
+The CSIRO’s Machine Learning and AI Future Science Platform is exploring questions such as how 
+we can provide explainable AI for decision-making to protect the Great Barrier Reef. The Future 
+Science Platforms are an investment in frontier science that underpin innovation with the potential to 
+help reinvent and create new industries for Australia. These multidisciplinary investments are turning 
+challenges into opportunities where innovative science and technology is breaking through seemingly 
+impossible problems to improve Australia’s prosperity and sustainability. 
+
+The Medical Research Future Fund (MRFF) is a long-term investment supporting Australian health 
+and medical research. The MRFF aims to transform health and medical research and innovation to 
+improve lives, build the economy and contribute to health system sustainability. Through the MRFF, the 
+Australian Government awarded $19 million in transformative medical research projects using AI. This 
+included projects using AI to:
+
+  improve mental health treatments for Australians
+
+  understand and optimise treatments for stress, anxiety and depression
+
+  understand the vital interventions or components of therapies and why they are effective for some 
+
+patients and not others. 
+
+Invest in Defence AI – The Department of Defence is coordinating research and investment in AI 
+capabilities to strengthen capability across the information and cyber, maritime, air, space and land 
+domains. This includes a $10 million initiative to support Australian industry to develop AI applications 
+for intelligence mission data, and virtual reality and graphics applications.
+
+ DRIVING THE GROWTH OF TECHNOLOGY AND 
+
+DIGITAL SKILLS
+
+The National Digital Health Strategy sets the direction for the digital health system. It supports national 
+coordination, investment and collaboration in national health information and systems development. 
+The aim of the strategy is to achieve better health for all Australians. This will be enabled by seamless, 
+safe, secure digital health services and technologies that provide a range of innovative, easy to use tools 
+for both patients and providers.
+
+The Business Research and Innovation Initiative (BRII) aims to drive innovation that addresses 
+Australian Government policy and service delivery challenges, with the help of startups and SMEs. 
+The BRII challenges are set by different government agencies and have covered topics ranging across 
+biosecurity, child protection, water markets and policy design.
+
+ FOUNDATIONAL POLICY SETTINGS
+
+The Digital Atlas of Australia will bring together crucial datasets, allowing us to draw unique insights 
+into the Australian economy. By combining a range of sources including infrastructure, environment, 
+health and employment datasets, this national platform will facilitate new, detailed analyses of 
+Australia’s demographics.
+
+18
+
+Australia’s AI Action PlanFOCUS FOUR: MAKING 
+AUSTRALIA A GLOBAL 
+LEADER IN RESPONSIBLE AND 
+INCLUSIVE AI 
+
+AI needs to be built to reflect the values of 
+the Australian community
+The Australian Government recognises that to reap the benefits of AI it is vital that all Australians, from 
+businesses to consumers, have trust in the technology. Australians need to be able to trust that the 
+technology will be used responsibly and safely, and that AI promotes and improves inclusivity. As shown 
+in Figure 3, while public acceptance of AI is trending positively, there is still a significant proportion 
+of Australians who are hesitant about these new technologies (Lockey et al. 2020). Unless negative 
+outcomes are minimised, lack of trust in AI technology will continue to be a major barrier to adopting 
+and applying AI. 
+
+The Australian Government released the AI Ethics Framework in 2019 to guide businesses and governments 
+developing and implementing AI in Australia. The framework includes 8 AI ethics principles to:
+
+  help reduce the risk of negative impacts from AI
+
+  ensure the use of AI is supported by good governance standards.
+
+The AI Ethics Framework affirms our commitment to the OECD Principles on AI – to promote AI that 
+is innovative, trustworthy and that respects human rights and democratic values. The release of the AI 
+Ethics Framework also reflects our decision to become a founding member of the Global Partnership 
+on Artificial Intelligence (GPAI). Widespread adoption of the framework’s principles among business, 
+government and academia will build trust in AI systems. 
+
+Government can also support businesses, consumers and the broader public to have the confidence to 
+actively participate in the digital economy. It can do this by providing regulation that is clear, proportionate 
+and fit-for-purpose. The Australian Government is undertaking a range of initiatives that review existing 
+regulations and develop meaningful guidance on the sharing and use of data. These include: 
+
+  reviewing the Privacy Act 1988 to ensure that it is fit-for-purpose in the context of more personal 
+
+information about individuals being captured and processed
+
+  delivering the forthcoming Australian Data Strategy to set out the government’s objectives on 
+
+enabling safe and secure data use across the economy
+
+  setting standards for the safe and transparent sharing of public sector data, as authorised under 
+
+the Data Availability and Transparency Bill 2020. 
+
+The National Cabinet also agreed to develop an intergovernmental data-sharing agreement to ensure 
+jurisdictions can capitalise on the value of public data to achieve better outcomes for Australians. 
+
+The government will also consider the recently completed report of the Australian Human Rights 
+Commission into Human Rights and Technology, which considered the human rights implications of 
+new technology.
+
+To be a global leader in AI, it is also important that all Australians have the opportunity to be involved. 
+The Australian Government recognises the need for this effort to be inclusive. For example, women 
+made up just 19% of domestic ICT enrolments in 2019 (DESE 2020). A diverse and inclusive AI workforce 
+will mean that Australia is better able to benefit from varied approaches to problem solving (UNESCO 
+2020). It will promote Australia as a destination for responsible and ethical AI. As such, the government 
+continues to promote avenues to increase the diversity and representation in the AI workforce. The 
+government’s Next Generation Women in STEM measure will provide scholarships for women studying 
+STEM courses, including AI. This measure builds on other initiatives the government has undertaken to 
+increase the proportion of women in STEM professions and studies. 
+
+19
+
+Australia’s AI Action PlanAustralia’s trade links with neighbouring countries are a major factor in our economic success, and 
+there are rapidly increasing digital export opportunities in the region. International cooperation plays 
+an important role in shaping technology standards, norms and ethics in line with our values. Building on 
+partnerships and collaborations will help grow international trust in Australian AI products. These will 
+also ensure our interests are supported through our involvement in international standard setting. 
+
+This leadership will ensure that as we develop our AI capability, it will align with our values. It will also 
+ensure all Australians share the opportunities and benefits. 
+
+Figure 3: Trust in AI
+
+60
+
+50
+
+40
+
+%
+
+30
+
+20
+
+10
+
+0
+
+40
+
+30
+
+20
+
+10
+
+0
+
+%
+
+Reject
+
+Tolerate
+
+Accept
+
+Approve
+
+Embrace
+
+Acceptance of AI
+
+Risks are much 
+greater than the 
+beneﬁts
+
+Risks are slightly 
+greater than the 
+beneﬁts
+
+Beneﬁts and 
+risks are about 
+equal
+
+Beneﬁts are 
+slightly greater 
+than risks
+
+-
+
+Beneﬁts are 
+much greater 
+than risks
+
+Perceived balance of risks and beneﬁts of AI
+
+Source: Lockey et al. (2020), used with permission. 
+
+Actions
+
+ AI DIRECT MEASURES
+
+Progress the implementation of Australia’s AI Ethics Principles – Some Australian Public Service (APS) 
+agencies are already considering the AI ethics principles when applying AI. In addition, the Australian 
+Government will publish case studies from its pilot of the principles with industry. The case studies will 
+share lessons learnt to help other businesses to apply the principles and to inspire more businesses to 
+do this. The businesses that participated in the pilot were Commonwealth Bank of Australia, Flamingo 
+AI, Insurance Australia Group, Microsoft, the National Australia Bank and Telstra. 
+
+Continue to support Australia’s AI values internationally – The Australian Government will continue 
+to ensure that Australia is represented internationally in multilateral and multi-stakeholder forums and 
+processes. This includes:
+
+  our representation on the Global Partnership on AI (GPAI)
+
+  standards setting
+
+  through our wider implementation of the International Cyber and Critical Technology Engagement 
+
+Strategy. 
+
+These processes can shape global standards, including ethical principles and frameworks on AI in ways 
+that are consistent with Australian values.
+
+Promote the benefits of AI through engagement with business and the Australian public – 
+The Australian Government will continue to engage and have transparent and open conversations 
+around the use of AI. Forums, such as Techtonic, will provide mechanisms where the benefits and uses 
+of AI can be promoted and shared.
+
+20
+
+Australia’s AI Action Plan 
+ DRIVING THE GROWTH OF TECHNOLOGY AND 
+
+DIGITAL SKILLS
+
+The review of the Privacy Act 1988 will ensure that its privacy settings empower consumers to protect 
+their data and best serve the Australian economy. The review is part of the government’s response to 
+the Australian Competition and Consumer Commission’s Digital Platforms Inquiry. The review seeks to:
+
+  bring Australia’s privacy laws into the digital era
+
+  strengthen privacy protections for individuals
+
+  streamline compliance for businesses working across international borders. 
+
+The appropriate settings for the safe and transparent sharing of public sector data will be established 
+and authorised under the Data Availability and Transparency (DAT) Bill 2020. The DAT Bill will modernise 
+government data sharing and use. It will improve how the Australian Government shares and uses its 
+data to benefit Australians through more effective policies, programs, and improve service delivery and 
+research outcomes. The DAT Bill will also enable greater sharing of government data with researchers 
+and businesses for the purposes of improving policy, program and research and development outcomes. 
+
+The Boosting Female Founders Initiative supports startups founded by women to grow and scale into 
+domestic and global markets by providing access to early stage capital. The program also provides 
+expert mentoring and advice to applicants. This in turn boosts the economy by increasing the diversity 
+of startup founders.
+
+The Boosting the Next Generation of Women in STEM program is providing $42.4 million to support up 
+to 500 industry co-funded scholarships for women in science, technology, engineering and mathematics 
+(STEM) disciplines. Women are significantly underrepresented in STEM education. The scholarships will:
+
+  support women to build the cross-cutting and multi-disciplinary skillsets sought by industry
+
+  foster the next wave of mentors and role-models
+
+  support women to re-tool and re-enter the workforce.
+
+ FOUNDATIONAL POLICY SETTINGS
+
+The Australian Data Strategy will outline a clear vision for maximising data-driven innovation across 
+the economy by improving access to data, data sharing arrangements, data asset management and 
+strengthening collaboration on data. This will provide greater access to uniquely Australian datasets and 
+ensure that AI technologies are optimised for use in the Australian context.
+
+The Consumer Data Right gives consumers greater access to and control over their data. By improving 
+consumers’ ability to compare and switch between products and services, it encourages competition 
+between service providers and drives innovation. 
+
+21
+
+Australia’s AI Action PlanDIRECT AI 2021–22 BUDGET 
+MEASURES: IMPLEMENTATION 
+AND NEXT STEPS
+
+The AI Action Plan includes a targeted $124.1 million Australian Government investment to strengthen 
+Australian leadership in developing and adopting responsible AI. 
+
+It leverages our competitive strengths, drives technological transformation and economic growth while 
+ensuring all Australians have an opportunity to benefit from AI. This will increase the productivity and 
+competitiveness of Australian businesses and create new, high-paying jobs. 
+
+The plan will support Australian businesses to operate at the digital frontier, enter new markets and 
+scale their operations. Globally, it will help position Australia to be a leading digital economy and 
+society by 2030.
+
+Our future pathways for success will depend on government, industry, researchers and civil society 
+working together across the ecosystem. Where possible, we will measure our progress and report on 
+implementation of the action plan each year. 
+
+22
+
+Australia’s AI Action PlanNational Artificial Intelligence Centre
+Establishing the National AI Centre alongside 4 Digital Capability Centres (Capability Centres) 
+will lay the foundations for an Australian AI and digital ecosystem. These centres will help drive 
+business adoption and the use of transformative AI technologies to improve productivity and lift 
+competitiveness.
+
+The National AI Centre (within CSIRO’s Data61) will coordinate Australia’s AI expertise and capabilities. 
+It will address barriers that SMEs face in adopting and developing AI and emerging technology. 
+The centre will also:
+
+  support projects that lift AI business capability to use cutting edge technology across 
+
+multiple sectors
+
+  foster collaboration between industry and researchers and attract investment
+
+  work across the entire AI ecosystem to ensure that activities delivered by each of the 
+
+Capability Centres are strategically aligned
+
+Four Capability Centres will be appointed through an open competitive process that will focus 
+on specific applications of AI, such as robotics or AI-assisted manufacturing. These centres will provide:
+
+  a ‘front door’ for SMEs looking for talent, knowledge and the tools to adopt transformational 
+
+AI technologies
+
+  access to advice and training to help SMEs confidently adopt AI technologies
+
+  links with the required AI expertise to identify business needs and connect SMEs to 
+
+leading researchers.
+
+A key focus of this measure will be increasing commercialisation of Australia’s AI expertise and 
+capabilities. This will require collaboration between research organisations, businesses and industry 
+to create a thriving digital ecosystem.
+
+The program will be open for applications in coming months.
+
+Implementation timeline – new AI Actions
+
+2021–2022
+  National AI Centre launched
+
+  Open competitive process to establish 4 Capability Centres 
+
+  Four Capability Centres launched
+
+Signs of success
+
+Action
+  National Artificial Intelligence 
+
+Action
+  AI and Digital Capability Centres
+
+Centre
+
+Focus Area
+  Developing and adopting AI to 
+transform Australian businesses 
+
+Signs of success
+  We have the foundations for a 
+
+strong and connected Australian 
+AI and digital ecosystem, which 
+accelerates the development and 
+adoption of transformative AI 
+technologies in Australia.
+
+Focus Area
+  Developing and adopting AI to 
+transform Australian businesses
+
+Signs of success
+  Australian businesses adopt, 
+
+adapt, develop and export safe 
+and secure AI technologies, 
+lifting productivity, increasing 
+commercialisation, boosting 
+competitiveness and creating jobs.
+
+23
+
+Australia’s AI Action PlanCatalysing the AI Opportunity in our Regions
+The Catalysing the AI Opportunity in our Regions grants program will incentivise AI practitioners to 
+engage with regional businesses to develop AI solutions for regional problems. Providing opportunities 
+to build greater awareness of the benefits of AI throughout regional communities is a step towards:
+
+  supporting trusted, safe and secure online interactions
+
+  increasing the regional opportunities that AI technologies offer. 
+
+This measure will support businesses that operate in regional Australia. It can potentially benefit those 
+in key manufacturing industries, such as those included in the National Manufacturing Priorities under 
+our Modern Manufacturing Strategy.
+
+The program will consist of 3 rounds with up to 12 co-funded competitive grants per round, delivered 
+on a rolling basis every 12 months. Successful applicants will receive competitive, cofunded grants of 
+$250,000 to $1,000,000. Joint applicants will be invited to apply – for example, a joint application with 
+regional businesses and research institution partners. Applicants can include universities and publicly 
+funded research bodies, technology companies and regional businesses, including SMEs and startups.
+
+Implementation timeline – new AI Actions
+
+2021–22 
+  First round of grants for Catalysing the AI Opportunity in our Regions 
+
+program opens
+
+2022–23 
+  Second round of grants for Catalysing the AI Opportunity in our 
+
+Regions program opens
+
+2023–24 
+  Third round of grants for Catalysing the AI Opportunity in our 
+
+Regions program opens
+
+Signs of success
+
+Action
+  Catalysing the AI Opportunity in our Regions 
+
+Focus Area
+  Developing and adopting AI to transform Australian businesses
+
+Signs of success
+  Australian regional businesses adopt, adapt, develop and export 
+
+safe and secure AI technologies, lifting productivity, increasing 
+commercialisation, boosting competitiveness and creating jobs.
+
+24
+
+Australia’s AI Action PlanNext Generation AI Graduates
+The Next Generation AI Graduates Program will attract and train at least 234 home-grown, job-ready 
+AI specialists through competitive national scholarships. 
+
+The scholarships will be co-funded with universities and industry to support students to pursue 
+an Australian Qualifications Framework (AQF) Levels 8 (Honours) to 10 (Doctoral) qualification. 
+Students will also participate in tailored training and professional development to build job-ready and 
+complementary skills. These graduates will help backfill the shortage of AI specialists, which businesses 
+report as the most pressing challenge to adapting and developing AI technologies. 
+
+The Next Generation AI Graduate program is designed so that cohorts of high-performing students 
+undertake industry-focused research projects and placements to build real-world experience. This 
+will bridge the research-industry divide by focusing research on industry-specific topics, translating 
+research directly into industry and developing students with industry-ready experience. This would be 
+expected to include experience in key sectors where Australia has a comparative advantage, including 
+the 6 National Manufacturing Priorities under the Modern Manufacturing Strategy.
+
+In addition to the AI Action Plan initiatives, a further investment in the Next Generation Emerging 
+Technology Graduates Program will attract and train a further 234 specialists through competitive 
+national scholarships. The specialists will be in other emerging technologies, such as robotics, cyber 
+security, quantum computing, blockchain and data. 
+
+By increasing the supply of job-ready AI specialists, business will be better placed to adopt, adapt and 
+deploy new and emerging technologies. Access to this pipeline of home-grown AI talent will:
+
+  help drive the competitiveness of Australian businesses
+
+  ensure local talent is available to fill high-skilled AI jobs here in Australia.
+
+This complements efforts of the Global Business and Talent Attraction Taskforce to generate quality jobs 
+for Australians and work with businesses to build clusters of skills in priority sectors.
+
+CSIRO will deliver the Next Generation AI Graduate program. It will work with universities, industry 
+partners and other stakeholders in the development and implementation of this measure. The measure 
+will include mechanisms that best ensure Australia retains students onshore following the completion of 
+their studies.
+
+Implementation timeline – new AI actions
+
+2021–22 
+  Engagement with industry partners, universities and stakeholders
+
+  First round of cohorts under the Next Generation AI Graduates Program commence
+
+2022–23 
+  Second round of cohorts under the Next Generation AI Graduates Program commence
+
+  Third round of cohorts under the Next Generation AI Graduates Program commence 
+
+2023–24 
+  Fourth round of cohorts under the Next Generation AI Graduates Program commence
+
+  Fifth round of cohorts under the Next Generation AI Graduates Program commence
+
+Signs of success
+
+Action
+  Next Generation AI Graduates program
+
+Focus area
+  Creating an environment to grow and attract the world’s best AI talent
+
+Signs of success
+  There is a skilled AI talent pool in Australia.
+
+  Australians possess the skills and capabilities to benefit from and participate in an 
+
+AI-enabled society, making our lives better and more prosperous.
+
+25
+
+Australia’s AI Action PlanAI Solutions to build a stronger Australia
+AI Solutions to Build a Stronger Australia will support businesses to partner with government to pilot 
+AI projects that address challenges of national significance. These businesses will develop AI-based 
+solutions to these challenges that will lead to job creation, economic recovery and other social benefits.
+
+Challenges will focus on areas of AI specialisation identified in the Artificial Intelligence Roadmap, 
+National Science and Research Priorities, CSIRO Missions, and areas supporting the Modern 
+Manufacturing Strategy. These challenges will combine private sector expertise and government data to 
+solve challenges that tangibly improve the lives of Australians. 
+
+This initiative will also provide a pathway to enable agencies to procure the AI solution at the end of the 
+pilot to address the national challenge. Participating businesses will retain the intellectual property of 
+their solutions, providing them with an opportunity to commercialise their work.
+
+This measure will be delivered through a challenge-based competitive grants process. In each round of 
+the program, challenges will be put forward by the Australian Government. Those that believe they can 
+provide a solution to the challenge will have the opportunity to submit a proposal for consideration by 
+government. It will be expected that any grantees will abide by Australian principles and legislation on 
+privacy, data sharing and other relevant requirements. Grantees are also expected to adopt Australia’s 
+AI Ethics Principles in their solutions.
+
+Developing AI-based solutions will also provide an opportunity to demonstrate the application and 
+potential of AI technologies, encouraging greater adoption across the economy. 
+
+Implementation timeline – new AI actions
+
+2021–22
+  First round of grants for AI Solutions to Build a Stronger Australia 
+
+program opens
+
+2022–23
+  Second round of grants for AI Solutions to Build a Stronger Australia 
+
+program opens
+
+Signs of success
+
+Action
+  AI Solutions to build a stronger Australia
+
+Focus area
+  Using cutting edge AI technologies to solve Australia’s national challenges
+
+Signs of success
+  Australian businesses and researchers collaborate to develop and apply AI 
+
+to national problems. 
+
+  Australian Government fosters adoption of trusted AI as a ‘first-adopter’ 
+procurer, standard-setter and exemplar of ethical development and 
+use of AI.
+
+26
+
+Australia’s AI Action PlanREFERENCE LIST
+
+AlphaBeta Advisors (2018) Digital Innovation: Australia’s $315b opportunity, report to the CSIRO 
+(Commonwealth Scientific and Industrial Research Organisation) Data 61, AlphaBeta, accessed  
+8 April 2021.
+
+DESE (Department of Education, Skills and Employment) (2020) ‘Enrolment Count by Gender by 
+Citizenship Category by Field of Education’ [Data cube], Higher Education Statistics uCube, accessed 
+day Nov 2020. 
+
+Donnellan A (4 February 2021) ‘New version of Spark to be used nation-wide to model and predict 
+bushfires’, Algorithm, CSIRO Data61, accessed 10 March 2021. 
+
+Faethm (2020) Technology Impacts on the Australian Workforce, report to the ACS (Australian 
+Computer Society), Faethm, accessed 8 April 2021.
+
+Hajkowicz S A, Karimi S, Wark T, Chen C, Evans M, Rens N, Dawson D, Charlton A, Brennan T, Moffatt C, 
+Srikumar S and Tong K J (2019) Artificial Intelligence: Solving problems, growing the economy and 
+improving our quality of life, CSIRO Data61 and the Department of Industry, Innovation and Science, 
+Australian Government, accessed 8 April 2021.
+
+IISA (Industry Innovation and Science Australia) (2021) Driving effective Government investment in 
+innovation, science and research, IISA, Australian Government, accessed 5 March 2021.
+
+Lockey S, Gillespie N and Curtis C. (October 2020) Trust in Artificial Intelligence: Australian Insights 
+2020, The University of Queensland and KPMG Australia, doi:10.14264/b32f129.
+
+RMIT (Royal Melbourne Institute of Technology) (2021) Ready, Set, Upskill: Effective training for the jobs 
+of tomorrow, RMIT Online, accessed 20 February 2021.
+
+Seagate (2018) Data Pulse: maximising the potential of artificial intelligence, datapulse.seagate.com, 
+accessed 8 April 2021.
+
+Silverpond (2019) Australia’s AI Ecosystem 2019 [PDF 2.25MB], Silverpond Ltd., accessed 20 April 2021. 
+
+UNESCO (United Nations Educational, Scientific and Cultural Organization) (2020) Artificial Intelligence 
+and Gender Equality: Key findings of UNESCO’s Global Dialogue, UNECSO, accessed 10 March 2021. 
+
+World Economic Forum (2020) Jobs of Tomorrow: Mapping Opportunity in the New Economy,  
+World Economic Forum, accessed 27 April 2021.
+
+Zhang D, Mishra S, Brynjolfsson E, Etchemendy J, Ganguli, D, Grosz B, Lyons T, Manyika J, Niebles J 
+Sellitto M, Shoham Y, Clark J and Perrault R. (March 2021). The AI Index 2021 Annual Report, AI Index 
+Steering Committee, Human-Centered AI Institute, Stanford University, Stanford, CA. 
+
+27
+
+Australia’s AI Action Planindustry.gov.au/ai-action-plan
+
+28
+
+Australia’s AI Action Plan
