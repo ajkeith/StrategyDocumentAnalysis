@@ -92,7 +92,6 @@ label_tx = {'pengembangan': 'development', 'pengendalian': 'control', 'promosi':
 df_full = df_summary.reset_index().replace(label_tx)
 df_plot = df_full[~df_full.Label.str.contains('sentiment')]
 df_plot.Country = df_plot.Country.str.capitalize().replace({'Gpai':'GPAI'})
-# fig = px.bar(df_plot, x='Country', y='Score', color='Label', barmode='group', orientation='h')
 fig = px.bar(df_plot, x='Country', y='Score', color='Label', 
              barmode="group", template='simple_white',
              color_discrete_sequence=['3333ff','ff0000','00fc72'],
@@ -109,7 +108,8 @@ fig.update_layout(legend=dict(
     )
 fig.show()
 
+# write outputs
 fig.write_html(os.path.join(os.getcwd(), 'data', 'output', 'figures', 'topic_summary.html'))
 df_plot.to_csv(os.path.join(os.getcwd(), 'data', 'output', 'tables', 'topic_summary.csv'), index=False)
-df_sea = df_plot[df_plot.Country.isin(['indonesia', 'malaysia', 'thailand', 'vietnam'])]
+df_sea = df_plot[df_plot.Country.isin(['Indonesia', 'Malaysia', 'Thailand', 'Vietnam'])]
 df_sea.groupby('Label').mean(numeric_only=True)
