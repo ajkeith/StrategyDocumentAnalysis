@@ -23,18 +23,18 @@ figs[0].show()
 # classify indonesia governance text
 sclass = pipeline(task="sentiment-analysis")
 iclass = pipeline("zero-shot-classification", model="MoritzLaurer/mDeBERTa-v3-base-mnli-xnli")
-candidate_labels_id = ["perkembangan", "pengendalian", "promosi"]
-df_id = analysis.analyze_text(texts[2], 'indonesia_governance.pkl', 
+candidate_labels_id = ["pengembangan", "pengendalian", "promosi"]
+df_id = analysis.analyze_text(texts[2], 'indonesia_governance_id_en.pkl', 
                            sclass, iclass, candidate_labels, 
                            step=500, multi_label=True)
 df_id.groupby('Label').mean().drop('Index', axis=1)
 fig_id = analysis.plot_nlp(df_id, 'indonesia (English Topics)', 'governance')
 fig_id.show()
-df_id_lbl = analysis.analyze_text(texts[2], 'indonesia_governance_id.pkl', 
+df_id_lbl = analysis.analyze_text(texts[2], 'indonesia_governance_id_id.pkl', 
                            sclass, iclass, candidate_labels_id, 
                            step=500, multi_label=True)
 df_id_lbl.groupby('Label').mean().drop('Index', axis=1)
-fig_id_lbl = analysis.plot_nlp(df_id_lbl, 'indonesia (Bahasa Topics)', 'governance')
+fig_id_lbl = analysis.plot_nlp(df_id_lbl, country='Indonesia', doctype='governance')
 fig_id_lbl.show()
 
 # classify thai governance text
@@ -87,13 +87,29 @@ for f in os.listdir(dir_path):
         df_summary['Country'] = [country] * 4
         rawdfs.append(df_summary)
 df_summary = pd.concat(rawdfs)
-label_tx = {'perkembangan': 'development', 'pengendalian': 'control', 'promosi': 'promotion',
+label_tx = {'pengembangan': 'development', 'pengendalian': 'control', 'promosi': 'promotion',
             'การพัฒนา': 'development', 'การควบคุม': 'control', 'การส่งเสริม': 'promotion'}
 df_full = df_summary.reset_index().replace(label_tx)
 df_plot = df_full[~df_full.Label.str.contains('sentiment')]
-fig = px.bar(df_plot, x='Country', y='Score', color='Label', barmode='group', orientation='h')
+df_plot.Country = df_plot.Country.str.capitalize().replace({'Gpai':'GPAI'})
+# fig = px.bar(df_plot, x='Country', y='Score', color='Label', barmode='group', orientation='h')
+fig = px.bar(df_plot, x='Country', y='Score', color='Label', 
+             barmode="group", template='simple_white',
+             color_discrete_sequence=['3333ff','ff0000','00fc72'],
+             category_orders={'Country': ['GPAI','Australia','Singapore', 
+                                          'Indonesia', 'Malaysia', 'Thailand', 'Vietnam']})
+fig.update_layout(legend=dict(
+        title='Topic',
+        orientation="h",
+        yanchor="bottom",
+        y=-0.2,
+        xanchor="center",
+        x=0.5),
+        bargroupgap=0.1,
+    )
 fig.show()
+
 fig.write_html(os.path.join(os.getcwd(), 'data', 'output', 'figures', 'topic_summary.html'))
 df_plot.to_csv(os.path.join(os.getcwd(), 'data', 'output', 'tables', 'topic_summary.csv'), index=False)
 df_sea = df_plot[df_plot.Country.isin(['indonesia', 'malaysia', 'thailand', 'vietnam'])]
-df_sea.groupby('Label').mean()
+df_sea.groupby('Label').mean(numeric_only=True)

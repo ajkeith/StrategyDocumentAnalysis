@@ -105,10 +105,18 @@ def plot_nlp(df, country='', doctype='governance'):
             title += ''
     fig = px.scatter(df, x='Index', y='Score', color='Label', 
                     labels=dict(Index='Text Position Index', Label='Topic'),
-                    title='Topic and Sentiment: National AI Strategy',
-                    trendline='lowess', trendline_options=dict(frac=0.2))
+                    title='Topic and Sentiment: Indonesia National AI Strategy',
+                    trendline='lowess', trendline_options=dict(frac=0.2),
+                    template="simple_white")
     fig.data = [t for t in fig.data if t.mode == 'lines']
     fig.update_traces(showlegend=True)
+    fig.update_layout(legend=dict(
+        orientation="h",
+        yanchor="bottom",
+        y=-0.3,
+        xanchor="center",
+        x=0.5
+    ))
     return fig
 
 def analyze_corpus(text_data, candidate_labels):
