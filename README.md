@@ -39,7 +39,7 @@ However, it is also subject to [risks, limitations, and biases](https://huggingf
 
 The national-level AI strategies or policies for GPAI and each country under consideration are included as `.pdf`s in the `data/policies` [directory](https://github.com/ajkeith/StrategyDocumentAnalysis/tree/main/data/policies). The text-only version of those policies are included as `.txt`s in the `data/texts` [directory](https://github.com/ajkeith/StrategyDocumentAnalysis/tree/main/data/texts).
 
-The membership assessment metrics for the Global Partnership on Artificial Intelligence (GPAI) are included in the `data/metrics` [directory](https://github.com/ajkeith/StrategyDocumentAnalysis/tree/main/data/metrics). This directory includes the source documents and consolidated metrics for the countries under consideration. The metrics are defined in the 2021 GPAI _Frame for letter of intent and reference metrics to support the assessment of GPAI Membership_ (also available in the same directory). The datasets are organized with the following identifiers:
+The membership assessment [metrics](https://gpai.ai/about/membership-and-observers-metrics.pdf) for the Global Partnership on Artificial Intelligence (GPAI) are included in the `data/metrics` [directory](https://github.com/ajkeith/StrategyDocumentAnalysis/tree/main/data/metrics). This directory includes the source documents and consolidated metrics for the countries under consideration. The metrics are defined in the 2021 GPAI _Frame for letter of intent and reference metrics to support the assessment of GPAI Membership_ (also available in the same directory). The datasets are organized with the following identifiers:
 
 | Identifier | Dataset |
 | --- | --- |
