@@ -1,5 +1,7 @@
 # AI and Defense Strategy: Text Analysis
 
+[![DOI](https://zenodo.org/badge/{github_id}.svg)](https://zenodo.org/badge/latestdoi/621097589)
+
 ![coverage badge](https://raw.githubusercontent.com/ajkeith/StrategyDocumentAnalysis/main/coverage.svg)
 
 This python project analyzes national AI and defense strategy documents using zero-shot text classification. The project focuses on Southeast Asia and nearby countries, specifically: Australia, Indonesia, Malaysia, Singapore, Thailand, and Vietnam. 
