@@ -1,7 +1,7 @@
 import unittest
 import os
 import pandas as pd
-import textanalysis as ta
+from textanalysis import analysis
 
 class TestExistence(unittest.TestCase):
     def setUp(self):
@@ -13,13 +13,13 @@ class TestExistence(unittest.TestCase):
     def test_directory(self):
         self.assertEqual(os.path.exists(os.path.join(os.getcwd(), 'data', 'texts')), True)
         dir_path = os.fsencode(os.path.join(os.getcwd(), 'data', 'texts'))
-        texts, filenames, languages = ta.load_texts(dir_path)
+        texts, filenames, languages = analysis.load_texts(dir_path)
         self.assertEqual(len(texts), 7) 
         self.assertEqual(len(filenames), 7)
         self.assertEqual(len(languages), 7)
 
     def test_pipeline(self):
-        sclass, zclass = ta.build_nlp_pipelines()
+        sclass, zclass = analysis.build_nlp_pipelines()
         self.assertEqual(sclass.task, 'sentiment-analysis')
         self.assertEqual(zclass.task, 'zero-shot-classification')
 
