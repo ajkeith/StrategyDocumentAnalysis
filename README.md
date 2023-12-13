@@ -1,6 +1,6 @@
 # AI and Defense Strategy: Text Analysis
 
-[![DOI](https://zenodo.org/badge/{github_id}.svg)](https://zenodo.org/badge/latestdoi/621097589)
+[![DOI](https://zenodo.org/badge/621097589.svg)](https://zenodo.org/badge/latestdoi/621097589)
 
 ![coverage badge](https://raw.githubusercontent.com/ajkeith/StrategyDocumentAnalysis/main/coverage.svg)
 
