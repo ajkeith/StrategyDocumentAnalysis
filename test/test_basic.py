@@ -22,7 +22,7 @@ class TestExistence(unittest.TestCase):
         sclass, zclass = analysis.build_nlp_pipelines()
         self.assertEqual(sclass.task, 'sentiment-analysis')
         self.assertEqual(zclass.task, 'zero-shot-classification')
-
+    
     def tearDown(self):
         self.text = None
 
