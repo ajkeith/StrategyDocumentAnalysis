@@ -64,3 +64,21 @@ Intermediate data files and output figures and tables are included in the `data/
 Exploratory analysis suggest that the approach is feasible. The following figure shows the sentiment and topic classficiation through Singapore's National AI Strategy.
 
 ![text classificaiton figure](https://user-images.githubusercontent.com/26749415/230006657-b511a380-7872-41ac-bd6b-daf230fb9790.png)
+
+## Citation
+
+If this work is useful to you, please cite the following paper: Keith, A.J. (2024) Governance of artificial intelligence in Southeast Asia. _Global Policy_, 00, 1–18. Available from: [https://doi.org/10.1111/1758-5899.13458](https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13458).
+
+```
+@article{https://doi.org/10.1111/1758-5899.13458,
+author = {Keith, Andrew J.},
+title = {Governance of artificial intelligence in Southeast Asia},
+journal = {Global Policy},
+volume = {n/a},
+number = {n/a},
+pages = {},
+doi = {https://doi.org/10.1111/1758-5899.13458},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/1758-5899.13458},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/1758-5899.13458},
+}
+```
