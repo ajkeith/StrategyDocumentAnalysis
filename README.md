@@ -61,9 +61,25 @@ Intermediate data files and output figures and tables are included in the `data/
 
 ## Results
 
-Exploratory analysis suggest that the approach is feasible. The following figure shows the sentiment and topic classficiation through Singapore's National AI Strategy.
+![image](https://github.com/user-attachments/assets/7944af29-5ed8-4b6a-a9c2-0cea6048c1e4)
+
+![image](https://github.com/user-attachments/assets/d5a9e666-f8de-40dd-856d-e75a79c7b31f)
+
+![image](https://github.com/user-attachments/assets/d9f76400-9cff-4e92-9164-7f36e7f8e901)
+
+![image](https://github.com/user-attachments/assets/f44cf649-3629-48c8-a018-cf9db0c3b7b6)
+
+Additionally, the following figure shows the sentiment and topic classficiation through Singapore's National AI Strategy.
 
 ![text classificaiton figure](https://user-images.githubusercontent.com/26749415/230006657-b511a380-7872-41ac-bd6b-daf230fb9790.png)
+
+## Policy Implications
+ - Global policy on artificial intelligence could increase acceptance in Southeast Asia by emphasising human capital promotion to align with priorities in Southeast Asian policies.
+ - The ethical content of global policy on artificial intelligence is generally aligned with the ethical content of Southeast Asian policies on artificial intelligence, but the function of ethics is overemphasised compared to other 
+regional priorities.
+- The Global Partnership on Artificial Intelligence Executive Council could increase the likelihood of Southeast Asian participation by amending its membership process to focus on artificial intelligence rather than national political systems.
+- The Global Partnership on Artificial Intelligence could increase the likelihood of Southeast Asian participation by amending its Terms of Reference to allow for other intergovernmental organisations to join, in addition to the European Union.
+ - The Global Partnership on Artificial Intelligence could improve the regional balance of its membership by recruiting the five G20 members who are not currently participants.
 
 ## Citation
 
